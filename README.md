@@ -22,12 +22,22 @@ This is a fork of the [Series Seed](https://github.com/seriesseed/equity) v3.2 d
 
 ## Documents
 
+### Core documents
+
+| Document | Purpose | Download |
+|----------|---------|----------|
+| [**Term Sheet**](docs/term-sheet.md) | Non-binding summary of principal deal terms | [.docx](docx/Series%20Seed%20-%20Term%20Sheet.docx) |
+| [**Investment Agreement**](docs/investment-agreement.md) | Single binding agreement covering purchase, representations, information rights, participation rights, voting, and general provisions | [.docx](docx/Series%20Seed%20-%20Investment%20Agreement.docx) |
+| [**Certificate of Incorporation**](docs/certificate-of-incorporation.md) | Restated charter filed with Delaware, defining stock rights, conversion mechanics, liquidation preferences, and protective provisions | [.docx](docx/Series%20Seed%20-%20Certificate%20of%20Incorporation.docx) |
+
+### Ancillary documents
+
 | Document | Purpose |
 |----------|---------|
-| **Term Sheet** | Non-binding summary of principal deal terms |
-| **Investment Agreement** | Single binding agreement covering purchase, representations, information rights, participation rights, voting, and general provisions |
-| **Certificate of Incorporation** | Restated charter filed with Delaware, defining stock rights, conversion mechanics, liquidation preferences, and protective provisions |
-| **Variable Reference Map** | Cross-document guide to every fill-in variable, with dependency tracking |
+| [**Board Consent**](docs/board-consent.md) | Unanimous written consent of the Board of Directors authorizing the financing |
+| [**Stockholder Consent**](docs/stockholder-consent.md) | Written consent of stockholders approving the Restated Certificate and stock issuance |
+| [**Investor Questionnaire**](docs/investor-questionnaire.md) | Accredited investor verification and Rule 506(d) bad actor questionnaire |
+| [**Variable Reference Map**](docs/variable-reference-map.md) | Cross-document guide to every fill-in variable, with dependency tracking |
 
 ## How these relate to the NVCA model documents
 
@@ -54,9 +64,8 @@ We incorporated the NVCA updates that matter at seed stage and intentionally exc
 | OISP/DSP national security compliance | Included (lighter touch) | Basic OFAC/sanctions reps + foreign person monitoring; full OISP/DSP framework deferred to Series A |
 | QSBS expanded thresholds | Included (simplified) | Covenant to maintain QSBS eligibility; detailed tracking deferred to Series A |
 | Board designation non-transferability | Included | All three documents; matches NVCA default |
-| Foreign person status monitoring | Included | Investment Agreement Section 3.12 |
+| Foreign person status monitoring | Included | Investment Agreement Section 3.13 |
 | Requisite Holders sanctions exclusion | Included | Certificate; excludes Restricted Persons from governance votes |
-| Participation right expansion | Included | Covers convertible securities (SAFEs, notes) |
 | Tranched financings | Excluded | Adds complexity inappropriate for seed; 90-day Additional Closing window is sufficient |
 | Governance policy suite | Excluded | Series A+ requirement; not expected at seed |
 | S-1 demand minimum ($20M) | Excluded | No registration rights at seed stage |
@@ -65,8 +74,10 @@ We incorporated the NVCA updates that matter at seed stage and intentionally exc
 ### Other substantive changes
 
 - Modernized "Future Rights" to "Most Favored Nation" with explicit scope covering Major and non-Major Purchasers
-- Expanded participation right to cover securities convertible into equity (SAFEs, convertible notes)
 - Added "Restricted Person" definition for sanctions compliance across all documents
+- Added Rule 506(d) bad actor representations for both Company (Section 2.14) and Purchaser board designees (Section 3.11)
+- Added explicit convertible securities consent mechanism (Section 3.14) for SAFE and note conversions at closing
+- Added ancillary closing documents: Board Consent, Stockholder Consent, and Investor Questionnaire
 - Replaced "best efforts" with "reasonable efforts" throughout
 - Fixed typos present in the original Series Seed documents
 - General drafting modernization based on Adams, *A Manual of Style for Contract Drafting* (4th ed.)
@@ -77,7 +88,9 @@ We incorporated the NVCA updates that matter at seed stage and intentionally exc
 2. Fill in the **Investment Agreement** front pages (Exhibit A variables and Schedule 1) using the Variable Reference Map to ensure cross-document consistency.
 3. Fill in the **Certificate of Incorporation** blanks (company name, share counts, par values, registered agent).
 4. Use the **Variable Reference Map** to verify that the seven critical cross-document dependencies reconcile.
-5. Circulate, sign, file the Certificate with Delaware, and close.
+5. Distribute the **Investor Questionnaire** to each Purchaser to verify accredited investor status and Rule 506(d) compliance.
+6. Execute the **Board Consent** and **Stockholder Consent** to authorize the charter amendment and stock issuance.
+7. Circulate, sign, file the Certificate with Delaware, and close.
 
 ## Contributing
 
@@ -89,6 +102,6 @@ These documents are provided under the same open-source terms as the original Se
 
 ## Credits
 
-Forked from [Series Seed](https://github.com/seriesseed/equity) v3.2. Updated by [Rubicon Law Group](https://rubiconlaw.com).
+Forked from [Series Seed](https://github.com/seriesseed/equity) v3.2, with select provisions adapted from the [Cooley LLP fork](https://github.com/CooleyLLP/seriesseed). Updated by [Rubicon Law Group](https://rubiconlaw.com).
 
 NVCA model document updates based on the October 2, 2025 NVCA release.
