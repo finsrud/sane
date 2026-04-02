@@ -220,6 +220,10 @@ The Company has no liabilities or obligations, contingent or otherwise, in exces
 
 Neither the Company nor any of its officers, directors, or beneficial owners is designated as a 'Specially Designated National' or otherwise subject to sanctions administered by the Office of Foreign Assets Control.
 
+#### 2.14 No "Bad Actor" Disqualification.
+
+No "bad actor" disqualifying event described in Rule 506(d)(1)(i)-(viii) of the Securities Act (a "Disqualification Event") is applicable to the Company or, to the Company's knowledge, any Company Covered Person, except for a Disqualification Event as to which Rule 506(d)(2)(ii)-(iv) or (d)(3) of the Securities Act is applicable. "Company Covered Person" means, with respect to the Company as an "issuer" for purposes of Rule 506 of the Securities Act, any person listed in the first paragraph of Rule 506(d)(1).
+
 
 ### 3. REPRESENTATIONS AND WARRANTIES AND COVENANTS OF THE PURCHASERS.  
 
@@ -266,13 +270,29 @@ The Purchaser acknowledges that it is not relying upon any person, other than th
 #### 3.10 Residence.  
 
 If the Purchaser is an individual, then the Purchaser resides in the state identified in the address of the Purchaser set forth on the signature page to this agreement and/or on Schedule 1; if the Purchaser is a partnership, corporation, limited liability company or other entity, then the office or offices of the Purchaser in which its principal place of business is identified in the address or addresses of the Purchaser set forth on the signature page to this agreement and/or on Schedule 1. if the Purchaser is not a resident of the United States, such Purchaser hereby agrees to make such additional representations and warranties relating to such Purchaser's status as a non-United States resident as reasonably may be requested by the Company and to execute and deliver such documents or agreements as reasonably may be requested by the Company relating to this agreement as a condition to the purchase and sale of any shares of Series Seed Preferred Stock by such Purchaser.    
-#### 3.11 Sanctions Compliance.
+#### 3.11 No "Bad Actor" Designees.
+
+If the Purchaser has the right to designate or participate in the designation of a Board Designee, the Purchaser represents and warrants to the Company that, to the Purchaser's knowledge, no Disqualification Event is applicable to the Purchaser's initial designee named above except, if applicable, for a Disqualification Event as to which Rule 506(d)(2)(ii)-(iv) or (d)(3) of the Securities Act is applicable. Any Board Designee to whom any Disqualification Event is applicable, except for a Disqualification Event as to which Rule 506(d)(2)(ii)-(iv) or (d)(3) of the Securities Act is applicable, is hereinafter referred to as a "Disqualified Designee." The Purchaser with the right to designate or participate in the designation of a Board Designee covenants and agrees (A) not to designate or participate in the designation of any Board Designee who, to the Purchaser's knowledge, is a Disqualified Designee and (B) that in the event the Purchaser becomes aware that any individual previously designated by any such Purchaser is or has become a Disqualified Designee, the Purchaser will as promptly as practicable take such actions as are necessary to remove the Disqualified Designee from the Board and to designate a replacement designee who is not a Disqualified Designee.
+
+#### 3.12 Sanctions Compliance.
 
 The Purchaser is not a 'Specially Designated National' or otherwise subject to sanctions administered by the Office of Foreign Assets Control, and is not making this investment on behalf of any such person.
 
-#### 3.12 Foreign Person Status.
+#### 3.13 Foreign Person Status.
 
 If the Purchaser is a foreign person (as defined in Treasury Regulations Section 1.1445-2(c)(3)), the Purchaser represents that fact and shall notify the Company within 15 days of any change in such status.
+
+#### 3.14 Consent to Conversion and Termination of Convertible Securities.
+
+3.14.1 By executing and delivering this Agreement, each Purchaser holding one or more convertible promissory notes or simple agreements for future equity issued by the Company prior to the date hereof (each, a "Convertible Security" and, collectively, the "Convertible Securities") hereby irrevocably agrees that:
+
+(a) all of such Purchaser's Convertible Securities will automatically and without any action on the part of such Purchaser convert into shares of Series Seed Preferred Stock at the Initial Closing in the amount for such Purchaser as set forth on Schedule 1, regardless of whether any such Convertible Securities or an affidavit of loss therefor is actually delivered in original or other form to the Company;
+
+(b) the shares of Series Seed Preferred Stock in the amount set forth opposite such Purchaser's name on Schedule 1 are issued in full and complete discharge and satisfaction of all obligations of the Company under such Convertible Securities, including any accrued and unpaid interest thereon; and
+
+(c) such Purchaser shall take all actions reasonably necessary to give effect to the conversion of such Convertible Securities.
+
+3.14.2 Section 3.14.1 applies only to Purchasers who hold Convertible Securities. Purchasers who do not hold Convertible Securities are not making the representations in this Section 3.14.
 
 
 ### 4. COVENANTS OF THE COMPANY.
@@ -343,7 +363,7 @@ Each Major Purchaser has the right of first refusal to purchase the Major Purcha
 
 #### 6.2 New Securities.  
 
-"New Securities" means any Common Stock or Preferred Stock, whether now authorized or not, rights, options, or warrants to purchase Common Stock or Preferred Stock, convertible promissory notes, simple agreements for future equity, and securities of any type whatsoever that are, or may become, convertible or exchangeable into Common Stock or Preferred Stock; except that "New Securities" does not include: (a) shares of Common Stock issued or issuable upon conversion of any outstanding shares of Preferred Stock; (b) shares of Common Stock or Preferred Stock issuable upon exercise of any options, warrants, or rights to purchase any securities of the Company outstanding as of the Agreement Date and any securities issuable upon the conversion thereof; (c) shares of Common Stock or Preferred Stock issued in connection with any stock split or stock dividend or recapitalization; (d) shares of Common Stock (or options, warrants or rights therefor) granted or issued after the Agreement Date to employees, officers, directors, contractors, consultants or advisers to, the Company or any subsidiary of the Company under incentive agreements, stock purchase or stock option plans, stock bonuses or awards, warrants, contracts or other arrangements that are approved by the Board; (e) shares of the Company's Series Seed Preferred Stock issued under this Agreement; (f) any other shares of Common Stock or Preferred Stock (and/or options or warrants therefor) issued or issuable primarily for other than equity financing purposes and approved by the Board; and (g) shares of Common Stock issued or issuable by the Company to the public under a registration statement filed under the Securities Act.
+"New Securities" means any Common Stock or Preferred Stock, whether now authorized or not, and rights, options or warrants to purchase Common Stock or Preferred Stock, and securities of any type whatsoever that are, or may become, convertible or exchangeable into Common Stock or Preferred Stock; except that "New Securities" does not include: (a) shares of Common Stock issued or issuable upon conversion of any outstanding shares of Preferred Stock; (b) shares of Common Stock or Preferred Stock issuable upon exercise of any options, warrants, or rights to purchase any securities of the Company outstanding as of the Agreement Date and any securities issuable upon the conversion thereof; (c) shares of Common Stock or Preferred Stock issued in connection with any stock split or stock dividend or recapitalization; (d) shares of Common Stock (or options, warrants or rights therefor) granted or issued after the Agreement Date to employees, officers, directors, contractors, consultants or advisers to, the Company or any subsidiary of the Company under incentive agreements, stock purchase or stock option plans, stock bonuses or awards, warrants, contracts or other arrangements that are approved by the Board; (e) shares of the Company's Series Seed Preferred Stock issued under this Agreement; (f) any other shares of Common Stock or Preferred Stock (and/or options or warrants therefor) issued or issuable primarily for other than equity financing purposes and approved by the Board; and (g) shares of Common Stock issued or issuable by the Company to the public under a registration statement filed under the Securities Act.
 
 #### 6.3 Procedures.  
 
