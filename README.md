@@ -32,12 +32,12 @@ This is a fork of the [Series Seed](https://github.com/seriesseed/equity) v3.2 d
 
 ### Ancillary documents
 
-| Document | Purpose | Download |
-|----------|---------|----------|
-| [**Variable Reference Map**](docs/variable-reference-map.md) | Cross-document guide to every fill-in variable, with dependency tracking | [.docx](docx/Series%20Seed%20-%20Variable%20Reference%20Map.docx) |
-| [**Board Consent**](docs/board-consent.md) | Unanimous written consent of the Board of Directors authorizing the financing | |
-| [**Stockholder Consent**](docs/stockholder-consent.md) | Written consent of stockholders approving the Restated Certificate and stock issuance | |
-| [**Investor Questionnaire**](docs/investor-questionnaire.md) | Accredited investor verification and Rule 506(d) bad actor questionnaire | |
+| Document | Purpose |
+|----------|---------|
+| [**Board Consent**](docs/board-consent.md) | Unanimous written consent of the Board of Directors authorizing the financing |
+| [**Stockholder Consent**](docs/stockholder-consent.md) | Written consent of stockholders approving the Restated Certificate and stock issuance |
+| [**Investor Questionnaire**](docs/investor-questionnaire.md) | Accredited investor verification and Rule 506(d) bad actor questionnaire |
+| [**Variable Reference Map**](docs/variable-reference-map.md) | Cross-document guide to every fill-in variable, with dependency tracking |
 
 ## How these relate to the NVCA model documents
 
@@ -98,7 +98,7 @@ These documents are open source. If you find an error, have a suggestion, or wan
 
 ## License
 
-These documents are provided under the same open-source terms as the original Series Seed project. See [LICENSE](LICENSE) for details.
+These documents are provided under the same open-source terms as the original Series Seed project.
 
 ## Credits
 
