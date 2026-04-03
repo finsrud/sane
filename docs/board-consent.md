@@ -34,7 +34,7 @@ RESOLVED, that the Company shall use reasonable efforts to cause the shares of S
 
 ---
 
-RESOLVED, that the officers of the Company are authorized to execute and deliver such other agreements and instruments as may be necessary or desirable to effectuate the Series Seed Preferred Stock financing, including without limitation any investors' rights agreement, right of first refusal and co-sale agreement, voting agreement, or stock option pool documentation.
+RESOLVED, that the officers of the Company are authorized to execute and deliver such other agreements and instruments as may be necessary or desirable to effectuate the Series Seed Preferred Stock financing, including without limitation the Investment Agreement and any documents ancillary thereto.
 
 ---
 
