@@ -46,7 +46,7 @@ The undersigned stockholders hereby consent to the foregoing resolutions and cer
 
 ---
 
-| **Stockholder Name** | **Number OF SHARES HELD** | **SIGNATURE** | **DATE** |
+| **Stockholder Name** | **Number of Shares Held** | **Signature** | **Date** |
 |:---|:---|:---|:---|
 | | | | |
 | | | | |
