@@ -367,7 +367,7 @@ Each Major Purchaser has the right of first refusal to purchase the Major Purcha
 
 #### 6.3 Procedures.  
 
-If the Company proposes to undertake an issuance of New Securities, it shall give notice to each Major Purchaser of its intention to issue New Securities (the "Notice"), describing the type of New Securities and the price and the general terms upon which the Company proposes to issue the New Securities.  Each Major Purchaser will have (10) days from the date of notice, to agree in writing to purchase such Major Purchaser's Pro Rata Share of such New Securities for the price and upon the general terms specified in the Notice by giving written notice to the Company and stating the quantity of New Securities to be purchased (not to exceed such Major Purchaser's Pro Rata Share).   
+If the Company proposes to undertake an issuance of New Securities, it shall give notice to each Major Purchaser of its intention to issue New Securities (the "Notice"), describing the type of New Securities and the price and the general terms upon which the Company proposes to issue the New Securities.  Each Major Purchaser will have 10 days from the date of notice, to agree in writing to purchase such Major Purchaser's Pro Rata Share of such New Securities for the price and upon the general terms specified in the Notice by giving written notice to the Company and stating the quantity of New Securities to be purchased (not to exceed such Major Purchaser's Pro Rata Share).   
 
 #### 6.4 Failure to Exercise.  
 
