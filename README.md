@@ -10,7 +10,7 @@ Updated, modernized Series Seed equity financing documents for seed-stage startu
 
 Seed-stage founders choosing between a SAFE and a full NVCA equity round are choosing between two tools designed for different situations. SAFEs are built for speed and simplicity when pricing is premature. The NVCA suite is built for thoroughness when the stakes justify it. But a lot of companies fall in between: they're ready for real equity, a formal cap table, and a board, but they don't need a hundred pages of documents to get there.
 
-**SAFEs work well for early fundraising, but they come with trade-offs.** SAFE holders generally don’t start the QSBS clock at issuance, and capital gains treatment is not automatic. While SAFEs are outstanding, the cap table remains ambiguous in ways that matter: calculating dilution, pro rata rights, and liquidation waterfalls. SAFE "stacking" or carrying an oversized option pool into a priced round creates dilution traps that catch founders off guard. And because SAFEs defer governance entirely, startups that would benefit from an engaged board and investors that would benefit from protective provisions are left without either until the next round.
+**SAFEs work well for early fundraising, but they come with trade-offs.** SAFE holders don't receive capital gains treatment on their investment or start the QSBS clock (arguably). While SAFEs are outstanding, the cap table remains ambiguous in ways that matter: calculating dilution, pro rata rights, and liquidation waterfalls. SAFE "stacking" or carrying an oversized option pool into a priced round creates dilution traps that catch founders off guard. And because SAFEs defer governance entirely, startups that would benefit from an engaged board and investors that would benefit from protective provisions are left without either until the next round.
 
 **The full NVCA suite is the gold standard for priced rounds, but it's built for Series A and beyond.** The standard NVCA model documents (Stock Purchase Agreement, Investors' Rights Agreement, Voting Agreement, Right of First Refusal and Co-Sale Agreement, and Certificate of Incorporation) run to more than a hundred pages combined. Closing on them typically takes a month and legal fees normally exceed $50,000. Founders find themselves negotiating registration rights, IPO demand thresholds, and governance provisions designed for companies with millions in revenue, all at a stage where they still may be confirming product market fit. And no founder wants to take their foot off the gas for a month to close a seed round.
 
@@ -32,12 +32,12 @@ This is a fork of the [Series Seed](https://github.com/seriesseed/equity) v3.2 d
 
 ### Ancillary documents
 
-| Document | Purpose |
-|----------|---------|
-| [**Board Consent**](docs/board-consent.md) | Unanimous written consent of the Board of Directors authorizing the financing |
-| [**Stockholder Consent**](docs/stockholder-consent.md) | Written consent of stockholders approving the Restated Certificate and stock issuance |
-| [**Investor Questionnaire**](docs/investor-questionnaire.md) | Accredited investor verification and Rule 506(d) bad actor questionnaire |
-| [**Variable Reference Map**](docs/variable-reference-map.md) | Cross-document guide to every fill-in variable, with dependency tracking |
+| Document | Purpose | Download |
+|----------|---------|----------|
+| [**Variable Reference Map**](docs/variable-reference-map.md) | Cross-document guide to every fill-in variable, with dependency tracking | [.docx](docx/Series%20Seed%20-%20Variable%20Reference%20Map.docx) |
+| [**Board Consent**](docs/board-consent.md) | Unanimous written consent of the Board of Directors authorizing the financing | |
+| [**Stockholder Consent**](docs/stockholder-consent.md) | Written consent of stockholders approving the Restated Certificate and stock issuance | |
+| [**Investor Questionnaire**](docs/investor-questionnaire.md) | Accredited investor verification and Rule 506(d) bad actor questionnaire | |
 
 ## How these relate to the NVCA model documents
 
@@ -98,7 +98,7 @@ These documents are open source. If you find an error, have a suggestion, or wan
 
 ## License
 
-These documents are provided under the same open-source terms as the original Series Seed project.
+These documents are provided under the same open-source terms as the original Series Seed project. See [LICENSE](LICENSE) for details.
 
 ## Credits
 
