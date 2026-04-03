@@ -102,6 +102,6 @@ These documents are provided under the same open-source terms as the original Se
 
 ## Credits
 
-Forked from [Series Seed](https://github.com/seriesseed/equity) v3.2, with select provisions adapted from the [Cooley LLP fork](https://github.com/CooleyLLP/seriesseed). Updated by [Rubicon Law Group](https://rubiconlaw.com).
+Forked from [Series Seed](https://github.com/seriesseed/equity) v3.2, with select provisions adapted from the [Cooley LLP fork](https://github.com/CooleyLLP/seriesseed). Updated by [Rubicon Law](https://rubiconlaw.com).
 
 NVCA model document updates based on the October 2, 2025 NVCA release.
