@@ -103,3 +103,27 @@ The Certificate (Article III, Requisite Holders definition) excludes shares held
 **7. Board Designation Non-Transferability**
 
 All three documents contain harmonized language: board designation rights are not transferable to any assignee of shares unless approved by the Board. This appears in the Term Sheet (Board of Directors section), Investment Agreement (Section 7.1), and Certificate (Article III, Board Composition definition).
+
+## ANCILLARY DOCUMENT GUIDANCE
+
+### Disclosure Schedule (Exhibit D)
+
+The Disclosure Schedule is the Company's opportunity to qualify the representations and warranties in Section 2 of the Investment Agreement. If a representation is not fully accurate without qualification, disclose the exception here. Common disclosures at seed stage include:
+
+- **Section 2.2.3 (Key Holders' Shares):** Vesting schedules, acceleration provisions, and any equity held by departed founders or early contributors.
+- **Section 2.6 (Litigation):** Any threatened or pending claims, even informal disputes.
+- **Section 2.7 (Intellectual Property):** Third-party IP licenses, open-source dependencies, or any IP not yet assigned to the Company.
+- **Section 2.8 (Employee and Consultant Matters):** Any employees or consultants who have not signed CIIA agreements, or who have excluded inventions from their assignment.
+- **Section 2.11 (Agreements):** Material contracts exceeding the $50,000 threshold.
+
+If a section has nothing to disclose, it may be omitted. An empty Disclosure Schedule (no next page after Exhibit D) means the Company is making all representations without qualification.
+
+### Investor Questionnaire
+
+Distribute the Investor Questionnaire to each Purchaser before or at the Initial Closing. The questionnaire serves three purposes:
+
+1. **Accredited Investor Verification (Section 2).** Each Purchaser must qualify under at least one category in Rule 501(a) of Regulation D. The Company should retain completed questionnaires as part of its Regulation D compliance file.
+
+2. **Rule 506(d) Bad Actor Screening (Section 3).** A "Yes" answer to any bad actor question does not automatically disqualify the offering, but it requires analysis. The Company should consult counsel to determine whether a disclosure or exclusion exception under Rule 506(d)(2) or (d)(3) applies. If no exception applies, the Purchaser (or its covered person) may need to be excluded from the offering.
+
+3. **OFAC/Sanctions and Foreign Person Status (Sections 4-5).** These responses support the Company's compliance with the Restricted Person provisions in the Investment Agreement and Certificate of Incorporation. A Purchaser who is a "foreign person" triggers the monitoring obligation in Section 3.13 of the Investment Agreement.
