@@ -2,23 +2,41 @@
 
 **Simple Agreement for Now Equity**
 
-Updated, modernized Series Seed equity financing documents for seed-stage startups, aligned with the October 2025 NVCA model document updates.
+You've outgrown the SAFE. You're not ready for a full NVCA round. The Series Seed (SANE Edition) sits in the middle — real preferred equity, a clean cap table, and a working board, without the hundred-page overhead.
 
 ---
 
 ## The problem
 
-Seed-stage founders choosing between a SAFE and a full NVCA equity round are choosing between two tools designed for different situations. SAFEs are built for speed and simplicity when pricing is premature. The NVCA suite is built for thoroughness when the stakes justify it. But a lot of companies fall in between: they're ready for real equity, a formal cap table, and a board, but they don't need a hundred pages of documents to get there.
+Seed-stage founders raising capital face an uncomfortable choice: use a SAFE and defer every decision that matters, or negotiate a full NVCA equity round and spend a month and $50K+ in legal fees while you're still confirming product-market fit.
 
-**SAFEs work well for early fundraising, but they come with trade-offs.** SAFE holders don't receive capital gains treatment on their investment or start the QSBS clock (arguably). While SAFEs are outstanding, the cap table remains ambiguous in ways that matter: calculating dilution, pro rata rights, and liquidation waterfalls. SAFE "stacking" or carrying an oversized option pool into a priced round creates dilution traps that catch founders off guard. And because SAFEs defer governance entirely, startups that would benefit from an engaged board and investors that would benefit from protective provisions are left without either until the next round.
+For a lot of companies, neither is right.
 
-**The full NVCA suite is the gold standard for priced rounds, but it's built for Series A and beyond.** The standard NVCA model documents (Stock Purchase Agreement, Investors' Rights Agreement, Voting Agreement, Right of First Refusal and Co-Sale Agreement, and Certificate of Incorporation) run to more than a hundred pages combined. Closing on them typically takes a month and legal fees normally exceed $50,000. Founders find themselves negotiating registration rights, IPO demand thresholds, and governance provisions designed for companies with millions in revenue, all at a stage where they still may be confirming product market fit. And no founder wants to take their foot off the gas for a month to close a seed round.
+**SAFEs work well early, but they come with trade-offs.** SAFE holders don't start the QSBS clock at investment (arguably). While SAFEs are outstanding, the cap table remains ambiguous: dilution, pro rata rights, and liquidation waterfalls are all deferred. SAFE stacking at different valuation caps creates conversion surprises that founders don't see coming. And because SAFEs defer governance entirely, founders who would benefit from an engaged board and investors who would benefit from protective provisions are left without either until the next round.
 
-## What this project does
+**The full NVCA suite is the gold standard, but it's built for Series A and beyond.** Five documents, a month to close, and legal fees that routinely exceed $50,000 — built for companies that have already confirmed product-market fit, not companies still finding it.
 
-Series Seed (SANE Edition) sits in the middle. A term sheet and two documents. Real equity on your cap table from day one. A formal board with designated seats. Clear investor rights, protective provisions, and pro rata participation. QSBS eligibility from the start. And a closing timeline measured in days, not months, at a cost closer to a SAFE round than a Series A.
+## What this is
+
+Series Seed (SANE Edition) sits in the middle. Three documents. Real preferred stock on your cap table from day one. A formal board with designated seats. Clear investor rights, protective provisions, and pro rata participation. QSBS eligibility from the start. A closing timeline measured in days, not months, at a cost closer to a SAFE round than a Series A.
 
 This is a fork of the [Series Seed](https://github.com/seriesseed/equity) v3.2 documents, updated to reflect current market practice and the October 2, 2025 NVCA model legal document revisions.
+
+## Why it matters
+
+**For founders:**
+
+- **Cap table certainty.** With priced equity, the cap table is clean and final at closing. No stacked SAFEs at different caps, no conversion surprises at the next round.
+- **A functional board.** SAFEs defer governance entirely. SANE gives you designated board seats — founder, investor, and mutual consent directors — from day one.
+- **No conversion event.** What you negotiate is what you get. SAFE stacking creates invisible dilution that only resolves at your next raise. Priced equity eliminates that entirely.
+- **Series A readiness.** NVCA-aligned documents mean next-round counsel can redline SANE against the NVCA model and immediately see the delta — no archaeology, no unwinding a non-standard structure.
+
+**For investors:**
+
+- **QSBS from closing.** Preferred stock purchased at a priced round starts the Section 1202 clock at closing. For investors targeting the QSBS exclusion, that timing difference can be worth millions.
+- **Cap table clarity.** Every investor knows exactly what they own and where they stand.
+- **Governance rights.** Board representation, information rights, participation rights, and protective provisions — none of which SAFEs provide.
+- **MFN protection.** If the company subsequently issues equity on more favorable terms, SANE investors are entitled to equivalent rights, and Major Purchaser status carries forward.
 
 ## Documents
 
@@ -27,17 +45,17 @@ This is a fork of the [Series Seed](https://github.com/seriesseed/equity) v3.2 d
 | Document | Purpose | Download |
 |----------|---------|----------|
 | [**Term Sheet**](docs/term-sheet.md) | Non-binding summary of principal deal terms | [.docx](docx/Series%20Seed%20-%20Term%20Sheet.docx) |
-| [**Investment Agreement**](docs/investment-agreement.md) | Single binding agreement covering purchase, representations, information rights, participation rights, voting, and general provisions | [.docx](docx/Series%20Seed%20-%20Investment%20Agreement.docx) |
+| [**Investment Agreement**](docs/investment-agreement.md) | Single binding agreement covering purchase, representations, information rights, participation rights, voting, and general provisions | [.docx](docx/Series%20Seed%20-%20Stock%20Investment%20Agreement.docx) |
 | [**Certificate of Incorporation**](docs/certificate-of-incorporation.md) | Restated charter filed with Delaware, defining stock rights, conversion mechanics, liquidation preferences, and protective provisions | [.docx](docx/Series%20Seed%20-%20Certificate%20of%20Incorporation.docx) |
 
 ### Ancillary documents
 
-| Document | Purpose |
-|----------|---------|
-| [**Board Consent**](docs/board-consent.md) | Unanimous written consent of the Board of Directors authorizing the financing |
-| [**Stockholder Consent**](docs/stockholder-consent.md) | Written consent of stockholders approving the Restated Certificate and stock issuance |
-| [**Investor Questionnaire**](docs/investor-questionnaire.md) | Accredited investor verification and Rule 506(d) bad actor questionnaire |
-| [**Variable Reference Map**](docs/variable-reference-map.md) | Cross-document guide to every fill-in variable, with dependency tracking |
+| Document | Purpose | Download |
+|----------|---------|----------|
+| [**Variable Reference Map**](docs/variable-reference-map.md) | Cross-document guide to every fill-in variable, with dependency tracking | [.docx](docx/Series%20Seed%20-%20Variable%20Reference%20Map.docx) |
+| **Board Consent** | Unanimous written consent of the Board of Directors authorizing the financing | Coming soon |
+| **Stockholder Consent** | Written consent of stockholders approving the Restated Certificate and stock issuance | Coming soon |
+| **Investor Questionnaire** | Accredited investor verification and Rule 506(d) bad actor questionnaire | Coming soon |
 
 ## How these relate to the NVCA model documents
 
@@ -77,7 +95,7 @@ We incorporated the NVCA updates that matter at seed stage and intentionally exc
 - Added "Restricted Person" definition for sanctions compliance across all documents
 - Added Rule 506(d) bad actor representations for both Company (Section 2.14) and Purchaser board designees (Section 3.11)
 - Added explicit convertible securities consent mechanism (Section 3.14) for SAFE and note conversions at closing
-- Added ancillary closing documents: Board Consent, Stockholder Consent, and Investor Questionnaire
+- Added Variable Reference Map for cross-document consistency
 - Replaced "best efforts" with "reasonable efforts" throughout
 - Fixed typos present in the original Series Seed documents
 - General drafting modernization based on Adams, *A Manual of Style for Contract Drafting* (4th ed.)
@@ -88,9 +106,7 @@ We incorporated the NVCA updates that matter at seed stage and intentionally exc
 2. Fill in the **Investment Agreement** front pages (Exhibit A variables and Schedule 1) using the Variable Reference Map to ensure cross-document consistency.
 3. Fill in the **Certificate of Incorporation** blanks (company name, share counts, par values, registered agent).
 4. Use the **Variable Reference Map** to verify that the seven critical cross-document dependencies reconcile.
-5. Distribute the **Investor Questionnaire** to each Purchaser to verify accredited investor status and Rule 506(d) compliance.
-6. Execute the **Board Consent** and **Stockholder Consent** to authorize the charter amendment and stock issuance.
-7. Circulate, sign, file the Certificate with Delaware, and close.
+5. Circulate, sign, file the Certificate with Delaware, and close.
 
 ## Contributing
 
@@ -98,10 +114,8 @@ These documents are open source. If you find an error, have a suggestion, or wan
 
 ## License
 
-These documents are provided under the same open-source terms as the original Series Seed project.
+These documents are provided under the same open-source terms as the original Series Seed project. See [LICENSE](LICENSE) for details.
 
 ## Credits
 
-Forked from [Series Seed](https://github.com/seriesseed/equity) v3.2, with select provisions adapted from the [Cooley LLP fork](https://github.com/CooleyLLP/seriesseed). Updated by [Rubicon Law](https://rubiconlaw.com).
-
-NVCA model document updates based on the October 2, 2025 NVCA release.
+Forked from [Series Seed](https://github.com/seriesseed/equity) v3.2, with select provisions adapted from the [Cooley LLP fork](https://github.com/CooleyLLP/seriesseed). Updated by [Rubicon Law](https://rubiconlaw.com). Aligned with the October 2, 2025 NVCA model document release.
