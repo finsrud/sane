@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Series Seed (SANE Edition) — Simple Agreement for Now Equity</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* ─── LIGHT THEME ─────────────────────────────────── */
+    [data-theme="light"] {
+      --accent:               #B45309;
+      --accent-hover:         #92400E;
+      --accent-light:         #FFFBEB;
+      --accent-border:        #FCD34D;
+      --text:                 #111827;
+      --text-mid:             #374151;
+      --text-muted:           #6B7280;
+      --border:               #E5E7EB;
+      --bg:                   #FFFFFF;
+      --bg-subtle:            #F9FAFB;
+      --bg-nav:               rgba(255,255,255,0.94);
+      --card-bg:              #FFFFFF;
+      --spectrum-active-bg:   #FFFBEB;
+      --toggle-track:         #E5E7EB;
+      --toggle-knob:          #FFFFFF;
+      --toggle-knob-color:    #6B7280;
+    }
+
+    /* ─── DARK THEME ──────────────────────────────────── */
+    [data-theme="dark"] {
+      --accent:               #F59E0B;
+      --accent-hover:         #FBBF24;
+      --accent-light:         rgba(245,158,11,0.12);
+      --accent-border:        rgba(245,158,11,0.30);
+      --text:                 #F3F4F6;
+      --text-mid:             #D1D5DB;
+      --text-muted:           #9CA3AF;
+      --border:               #272727;
+      --bg:                   #0F0F0F;
+      --bg-subtle:            #191919;
+      --bg-nav:               rgba(15,15,15,0.92);
+      --card-bg:              #161616;
+      --spectrum-active-bg:   rgba(245,158,11,0.07);
+      --toggle-track:         #374151;
+      --toggle-knob:          #F59E0B;
+      --toggle-knob-color:    #0F0F0F;
+    }
+
+    /* ─── RESET & BASE ─────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      font-size: 16px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      transition: background 0.2s ease, color 0.2s ease;
+    }
+    a { color: inherit; }
+
+    /* ─── NAV ─────────────────────────────────────────── */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: var(--bg-nav);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+      height: 56px;
+      display: flex;
+      align-items: center;
+      padding: 0 32px;
+      transition: background 0.2s ease, border-color 0.2s ease;
+    }
+    .nav-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      color: var(--text);
+    }
+    .nav-badge {
+      background: var(--accent);
+      color: #fff;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.07em;
+      padding: 3px 8px;
+      border-radius: 5px;
+      text-transform: uppercase;
+    }
+    [data-theme="dark"] .nav-badge { color: #0F0F0F; }
+    .nav-name {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-mid);
+    }
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .nav-link {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-muted);
+      text-decoration: none;
+      padding: 5px 10px;
+      border-radius: 6px;
+      transition: color 0.15s, background 0.15s;
+    }
+    .nav-link:hover { color: var(--text); background: var(--bg-subtle); }
+    .nav-github {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text);
+      text-decoration: none;
+      border: 1px solid var(--border);
+      background: transparent;
+      padding: 5px 12px;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+    .nav-github:hover { background: var(--bg-subtle); }
+
+    /* ─── THEME TOGGLE ─────────────────────────────────── */
+    .theme-toggle {
+      width: 46px;
+      height: 26px;
+      background: var(--toggle-track);
+      border-radius: 99px;
+      border: none;
+      cursor: pointer;
+      position: relative;
+      flex-shrink: 0;
+      transition: background 0.25s ease;
+      margin-left: 4px;
+      padding: 0;
+    }
+    .toggle-knob {
+      width: 20px;
+      height: 20px;
+      background: var(--toggle-knob);
+      border-radius: 50%;
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      transition: transform 0.25s ease, background 0.25s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.25);
+    }
+    [data-theme="dark"] .toggle-knob { transform: translateX(20px); }
+    .toggle-knob svg {
+      width: 11px;
+      height: 11px;
+      color: var(--toggle-knob-color);
+      flex-shrink: 0;
+    }
+    .icon-sun  { display: none; }
+    .icon-moon { display: block; }
+    [data-theme="dark"] .icon-sun  { display: block; }
+    [data-theme="dark"] .icon-moon { display: none; }
+
+    /* ─── LAYOUT ─────────────────────────────────────── */
+    .container { max-width: 900px; margin: 0 auto; padding: 0 32px; }
+    section { padding: 80px 0; border-top: 1px solid var(--border); }
+    .section-label {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 14px;
+    }
+    h2 {
+      font-size: 34px;
+      font-weight: 700;
+      letter-spacing: -0.025em;
+      line-height: 1.15;
+      margin-bottom: 18px;
+    }
+    .section-intro {
+      font-size: 17px;
+      color: var(--text-muted);
+      line-height: 1.7;
+      max-width: 600px;
+      margin-bottom: 48px;
+    }
+
+    /* ─── HERO ─────────────────────────────────────────── */
+    .hero {
+      padding: 88px 32px 80px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .hero-eyebrow {
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 22px;
+    }
+    .hero h1 {
+      font-size: 58px;
+      font-weight: 700;
+      letter-spacing: -0.035em;
+      line-height: 1.08;
+      margin-bottom: 22px;
+    }
+    .hero h1 em {
+      font-style: normal;
+      color: var(--accent);
+    }
+    .hero-sub {
+      font-size: 19px;
+      color: var(--text-muted);
+      line-height: 1.6;
+      max-width: 560px;
+      margin-bottom: 38px;
+    }
+    .hero-actions {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    /* ─── BUTTONS ──────────────────────────────────────── */
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: var(--text);
+      color: var(--bg);
+      font-size: 14px;
+      font-weight: 600;
+      padding: 10px 20px;
+      border-radius: 7px;
+      text-decoration: none;
+      transition: opacity 0.15s;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .btn-primary:hover { opacity: 0.82; }
+    .btn-secondary {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: transparent;
+      color: var(--text);
+      font-size: 14px;
+      font-weight: 500;
+      padding: 10px 20px;
+      border-radius: 7px;
+      border: 1px solid var(--border);
+      text-decoration: none;
+      transition: background 0.15s;
+    }
+    .btn-secondary:hover { background: var(--bg-subtle); }
+
+    /* ─── SPECTRUM ─────────────────────────────────────── */
+    .spectrum-section {
+      background: var(--bg-subtle);
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      padding: 72px 32px;
+      transition: background 0.2s ease;
+    }
+    .spectrum-heading {
+      max-width: 900px;
+      margin: 0 auto 40px;
+      text-align: center;
+    }
+    .spectrum-heading p {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+    }
+    .spectrum-grid {
+      max-width: 900px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 16px;
+    }
+    .spectrum-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 28px 24px;
+      transition: background 0.2s ease, border-color 0.2s ease;
+    }
+    .spectrum-card.is-sane {
+      border-color: var(--accent);
+      background: var(--spectrum-active-bg);
+      box-shadow: 0 0 0 1px var(--accent);
+    }
+    .spectrum-tag {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 10px;
+    }
+    .spectrum-card.is-sane .spectrum-tag { color: var(--accent); }
+    .spectrum-card h3 {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 10px;
+    }
+    .spectrum-card p { font-size: 14px; color: var(--text-muted); line-height: 1.65; }
+    .spectrum-card.is-sane p { color: var(--text-mid); }
+
+    /* ─── BENEFIT CARDS ────────────────────────────────── */
+    .benefits-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .benefit-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 24px;
+      transition: background 0.2s ease;
+    }
+    .benefit-card h4 { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
+    .benefit-card p { font-size: 14px; color: var(--text-muted); line-height: 1.65; }
+
+    /* ─── CRITERIA ─────────────────────────────────────── */
+    .criteria { display: flex; flex-direction: column; gap: 14px; margin-top: 36px; }
+    .criterion { display: flex; align-items: flex-start; gap: 14px; font-size: 15px; line-height: 1.5; }
+    .criterion-check {
+      flex-shrink: 0;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: var(--accent-light);
+      border: 1.5px solid var(--accent-border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 1px;
+      transition: background 0.2s ease, border-color 0.2s ease;
+    }
+    .criterion-check svg {
+      width: 11px;
+      height: 11px;
+      stroke: var(--accent);
+      fill: none;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    /* ─── DOCUMENTS ────────────────────────────────────── */
+    .docs-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; margin-bottom: 16px; }
+    .doc-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 22px;
+      display: flex;
+      flex-direction: column;
+      transition: background 0.2s ease;
+    }
+    .doc-type {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+    }
+    .doc-card h4 { font-size: 15px; font-weight: 600; margin-bottom: 8px; line-height: 1.3; }
+    .doc-card p { font-size: 13px; color: var(--text-muted); line-height: 1.6; flex: 1; margin-bottom: 18px; }
+    .btn-download {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--accent);
+      background: var(--accent-light);
+      border: 1px solid var(--accent-border);
+      padding: 6px 13px;
+      border-radius: 6px;
+      text-decoration: none;
+      align-self: flex-start;
+      transition: opacity 0.15s;
+    }
+    .btn-download:hover { opacity: 0.78; }
+    .ancillary-table {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      transition: background 0.2s ease;
+    }
+    .ancillary-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 20px;
+      border-bottom: 1px solid var(--border);
+      gap: 24px;
+      transition: background 0.15s;
+    }
+    .ancillary-row:last-child { border-bottom: none; }
+    .ancillary-row:hover { background: var(--bg-subtle); }
+    .ancillary-name { font-size: 14px; font-weight: 500; }
+    .ancillary-desc { font-size: 13px; color: var(--text-muted); margin-top: 2px; }
+    .pill-soon {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-muted);
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      padding: 3px 9px;
+      border-radius: 99px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    /* ─── GITHUB CTA ───────────────────────────────────── */
+    .github-cta-inner {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 32px;
+      transition: background 0.2s ease;
+    }
+    .github-cta-text h3 { font-size: 19px; font-weight: 600; margin-bottom: 6px; letter-spacing: -0.015em; }
+    .github-cta-text p { font-size: 14px; color: var(--text-muted); max-width: 440px; line-height: 1.6; }
+
+    /* ─── FOOTER ───────────────────────────────────────── */
+    footer { border-top: 1px solid var(--border); padding: 40px 32px; }
+    .footer-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      gap: 32px;
+      align-items: flex-start;
+    }
+    .footer-credit { font-size: 13px; color: var(--text-muted); line-height: 1.7; max-width: 520px; }
+    .footer-credit strong { font-weight: 600; color: var(--text-mid); display: block; margin-bottom: 4px; }
+    .footer-credit a { color: var(--text-muted); text-decoration: underline; text-underline-offset: 3px; }
+    .footer-credit a:hover { color: var(--text); }
+    .footer-right { font-size: 13px; color: var(--text-muted); text-align: right; flex-shrink: 0; }
+    .footer-right a { color: var(--text-muted); text-decoration: none; }
+    .footer-right a:hover { color: var(--text); }
+
+    /* ─── RESPONSIVE ───────────────────────────────────── */
+    @media (max-width: 700px) {
+      .hero h1 { font-size: 38px; }
+      .hero-sub { font-size: 16px; }
+      h2 { font-size: 26px; }
+      .spectrum-grid, .benefits-grid, .docs-grid { grid-template-columns: 1fr; }
+      .github-cta-inner, .footer-inner { flex-direction: column; }
+      .footer-right { text-align: left; }
+      nav { padding: 0 16px; }
+      .nav-link { display: none; }
+      .container, .hero { padding-left: 16px; padding-right: 16px; }
+      section { padding: 56px 0; }
+      .hero { padding-top: 56px; padding-bottom: 48px; }
+      .spectrum-section { padding: 56px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a class="nav-brand" href="#">
+        <span class="nav-badge">SANE</span>
+        <span class="nav-name">Series Seed</span>
+      </a>
+      <div class="nav-links">
+        <a class="nav-link" href="#why-sane">Why SANE</a>
+        <a class="nav-link" href="#when-to-use">When to Use</a>
+        <a class="nav-link" href="#documents">Documents</a>
+        <a class="nav-github" href="https://github.com/finsrud/sane" target="_blank" rel="noopener">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.942.359.31.678.921.678 1.856 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
+          GitHub
+        </a>
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+          <div class="toggle-knob">
+            <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+            <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+          </div>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <div class="hero">
+    <p class="hero-eyebrow">Series Seed &middot; SANE Edition &middot; Open Source</p>
+    <h1>The <em>Goldilocks</em><br>seed financing.</h1>
+    <p class="hero-sub">You've outgrown the SAFE. You're not ready for a full NVCA round. SANE sits in the middle — real preferred equity, a clean cap table, and a working board, without the hundred-page overhead.</p>
+    <div class="hero-actions">
+      <a class="btn-primary" href="https://github.com/finsrud/sane" target="_blank" rel="noopener">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.942.359.31.678.921.678 1.856 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
+        View on GitHub
+      </a>
+      <a class="btn-secondary" href="#documents">Download Documents &darr;</a>
+    </div>
+  </div>
+
+  <!-- SPECTRUM -->
+  <div class="spectrum-section">
+    <div class="spectrum-heading"><p>Where SANE fits</p></div>
+    <div class="spectrum-grid">
+      <div class="spectrum-card">
+        <div class="spectrum-tag">Too light</div>
+        <h3>SAFE</h3>
+        <p>Fast and flexible for early pre-seed checks where pricing is premature. But it defers governance, creates conversion uncertainty, and doesn't start the QSBS clock.</p>
+      </div>
+      <div class="spectrum-card is-sane">
+        <div class="spectrum-tag">Just right</div>
+        <h3>SANE</h3>
+        <p>Three documents. Real preferred stock. A functional board. QSBS eligibility at closing. Designed to close in days, at a cost closer to a SAFE round than a Series A.</p>
+      </div>
+      <div class="spectrum-card">
+        <div class="spectrum-tag">Too heavy</div>
+        <h3>NVCA Suite</h3>
+        <p>The gold standard for Series A and beyond. Five documents, a month to close, $50K+ in legal fees — built for companies that have already confirmed product-market fit.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOR FOUNDERS -->
+  <section id="why-sane">
+    <div class="container">
+      <span class="section-label">For Founders</span>
+      <h2>Real equity.<br>No conversion surprises.</h2>
+      <p class="section-intro">SANE gives you the structure of a priced round without the overhead. Everything you negotiate is what you get — no stacking, no dilution math that only resolves at your next raise.</p>
+      <div class="benefits-grid">
+        <div class="benefit-card">
+          <h4>Cap table certainty</h4>
+          <p>With priced equity, the cap table is clean and final at closing. No stacked SAFEs at different caps, no conversion surprises when the next round lands.</p>
+        </div>
+        <div class="benefit-card">
+          <h4>A functional board</h4>
+          <p>SAFEs defer governance entirely. SANE gives you designated board seats — founder, investor, and mutual consent directors — from day one.</p>
+        </div>
+        <div class="benefit-card">
+          <h4>No conversion event</h4>
+          <p>SAFE stacking creates invisible dilution that only materializes at your next raise. Priced equity eliminates the conversion event entirely. What you negotiate is what you get.</p>
+        </div>
+        <div class="benefit-card">
+          <h4>Series A readiness</h4>
+          <p>NVCA-aligned documents mean your Series A starts from solid footing. Next-round counsel can redline SANE against the NVCA model and immediately see the delta — no archaeology.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOR INVESTORS -->
+  <section>
+    <div class="container">
+      <span class="section-label">For Investors</span>
+      <h2>Better tax treatment.<br>Real governance rights.</h2>
+      <p class="section-intro">SAFE investors arguably don't start the QSBS clock until conversion — a question the IRS hasn't resolved. SANE preferred stock starts it at closing, and comes with the governance rights SAFEs never provide.</p>
+      <div class="benefits-grid">
+        <div class="benefit-card">
+          <h4>QSBS from closing</h4>
+          <p>Preferred stock purchased at a priced round starts the Section 1202 clock at closing. For investors targeting the QSBS exclusion, that timing difference can be worth millions.</p>
+        </div>
+        <div class="benefit-card">
+          <h4>Cap table clarity</h4>
+          <p>SAFE investors can't cleanly calculate their ownership, liquidation waterfall position, or pro rata. With priced equity, every investor knows exactly what they own.</p>
+        </div>
+        <div class="benefit-card">
+          <h4>Protective provisions</h4>
+          <p>Board representation, information rights, participation rights, and consent rights over actions that matter — none of which SAFEs provide.</p>
+        </div>
+        <div class="benefit-card">
+          <h4>MFN protection</h4>
+          <p>If the company subsequently issues equity on more favorable terms, SANE investors are entitled to equivalent rights. Major Purchaser status carries forward to the next round.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHEN TO USE -->
+  <section id="when-to-use">
+    <div class="container">
+      <span class="section-label">When to Use</span>
+      <h2>Is SANE the right fit?</h2>
+      <p class="section-intro">SAFEs remain the right tool when pricing is genuinely premature, the check is small, and governance can wait. SANE is for what comes next.</p>
+      <div class="criteria">
+        <div class="criterion">
+          <div class="criterion-check"><svg viewBox="0 0 12 12"><polyline points="2,6 4.5,9 10,3"/></svg></div>
+          <span>You're raising $1M or more and your investors expect governance rights</span>
+        </div>
+        <div class="criterion">
+          <div class="criterion-check"><svg viewBox="0 0 12 12"><polyline points="2,6 4.5,9 10,3"/></svg></div>
+          <span>You want a clean, final cap table — not conversion math you'll reconcile at the next round</span>
+        </div>
+        <div class="criterion">
+          <div class="criterion-check"><svg viewBox="0 0 12 12"><polyline points="2,6 4.5,9 10,3"/></svg></div>
+          <span>You want a board that functions as a board, with designated seats and structured accountability</span>
+        </div>
+        <div class="criterion">
+          <div class="criterion-check"><svg viewBox="0 0 12 12"><polyline points="2,6 4.5,9 10,3"/></svg></div>
+          <span>QSBS timing matters to your investors</span>
+        </div>
+        <div class="criterion">
+          <div class="criterion-check"><svg viewBox="0 0 12 12"><polyline points="2,6 4.5,9 10,3"/></svg></div>
+          <span>You've already done a SAFE round and you're ready for something more substantial</span>
+        </div>
+        <div class="criterion">
+          <div class="criterion-check"><svg viewBox="0 0 12 12"><polyline points="2,6 4.5,9 10,3"/></svg></div>
+          <span>You want Series A readiness without Series A overhead</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DOCUMENTS -->
+  <section id="documents">
+    <div class="container">
+      <span class="section-label">Documents</span>
+      <h2>Three documents.<br>Everything you need to close.</h2>
+      <p class="section-intro">Open source and free to use. Download the Word documents and use the Variable Reference Map to track cross-document dependencies before you sign.</p>
+      <div class="docs-grid">
+        <div class="doc-card">
+          <div class="doc-type">Core document</div>
+          <h4>Term Sheet</h4>
+          <p>Non-binding summary of principal deal terms. Start here to align with your lead investor on economics, board composition, and key provisions.</p>
+          <a class="btn-download" href="https://github.com/finsrud/sane/raw/main/Series%20Seed%20-%20Term%20Sheet%20(Updated%20Draft).docx">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download .docx
+          </a>
+        </div>
+        <div class="doc-card">
+          <div class="doc-type">Core document</div>
+          <h4>Investment Agreement</h4>
+          <p>Single binding document covering purchase mechanics, representations, information rights, participation rights, voting, and general provisions.</p>
+          <a class="btn-download" href="https://github.com/finsrud/sane/raw/main/Series%20Seed%20-%20Investment%20Agreement%20(Updated%20Draft).docx">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download .docx
+          </a>
+        </div>
+        <div class="doc-card">
+          <div class="doc-type">Core document</div>
+          <h4>Certificate of Incorporation</h4>
+          <p>Restated Delaware charter defining stock rights, conversion mechanics, liquidation preferences, and protective provisions. Files with Delaware at closing.</p>
+          <a class="btn-download" href="https://github.com/finsrud/sane/raw/main/Series%20Seed%20-%20Certificate%20of%20Incorporation%20(Updated%20Draft).docx">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download .docx
+          </a>
+        </div>
+      </div>
+      <div class="ancillary-table">
+        <div class="ancillary-row">
+          <div>
+            <div class="ancillary-name">Variable Reference Map</div>
+            <div class="ancillary-desc">Cross-document guide to every fill-in variable, with dependency tracking across all three core documents</div>
+          </div>
+          <a class="btn-download" href="https://github.com/finsrud/sane/raw/main/Series%20Seed%20-%20Variable%20Reference%20Map.docx">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download .docx
+          </a>
+        </div>
+        <div class="ancillary-row">
+          <div>
+            <div class="ancillary-name">Board Consent</div>
+            <div class="ancillary-desc">Unanimous written consent of the Board of Directors authorizing the financing</div>
+          </div>
+          <span class="pill-soon">Coming soon</span>
+        </div>
+        <div class="ancillary-row">
+          <div>
+            <div class="ancillary-name">Stockholder Consent</div>
+            <div class="ancillary-desc">Written consent approving the Restated Certificate and stock issuance</div>
+          </div>
+          <span class="pill-soon">Coming soon</span>
+        </div>
+        <div class="ancillary-row">
+          <div>
+            <div class="ancillary-name">Investor Questionnaire</div>
+            <div class="ancillary-desc">Accredited investor verification and Rule 506(d) bad actor questionnaire</div>
+          </div>
+          <span class="pill-soon">Coming soon</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- GITHUB CTA -->
+  <section>
+    <div class="container">
+      <div class="github-cta-inner">
+        <div class="github-cta-text">
+          <h3>Open source. Fork it, use it, improve it.</h3>
+          <p>All documents are on GitHub in Markdown and Word formats. Found an error or have a suggestion? Open an issue or submit a pull request.</p>
+        </div>
+        <a class="btn-primary" href="https://github.com/finsrud/sane" target="_blank" rel="noopener">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.942.359.31.678.921.678 1.856 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
+          finsrud/sane on GitHub
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-credit">
+        <strong>Series Seed (SANE Edition)</strong>
+        Forked from <a href="https://github.com/seriesseed/equity" target="_blank" rel="noopener">Series Seed v3.2</a>, originally developed by Ted Wang at Fenwick &amp; West, with select provisions adapted from the <a href="https://github.com/CooleyLLP/seriesseed" target="_blank" rel="noopener">Cooley LLP fork</a>. Updated and maintained by <a href="https://rubiconlaw.com" target="_blank" rel="noopener">Rubicon Law</a>. Aligned with the October 2, 2025 NVCA model document release.
+      </div>
+      <div class="footer-right">
+        <a href="https://github.com/finsrud/sane" target="_blank" rel="noopener">GitHub</a>
+        <span style="display:block; margin-top:4px;">Open source</span>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.getElementById('themeToggle');
+    const html = document.documentElement;
+
+    // On load: respect stored preference, then system preference
+    const stored = localStorage.getItem('sane-theme');
+    if (stored) {
+      html.setAttribute('data-theme', stored);
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      html.setAttribute('data-theme', 'dark');
+    }
+
+    toggle.addEventListener('click', () => {
+      const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('sane-theme', next);
+    });
+  </script>
+</body>
+</html>
