@@ -96,7 +96,6 @@ We incorporated the NVCA updates that matter at seed stage and intentionally exc
 - Added Rule 506(d) bad actor representations for both Company (Section 2.14) and Purchaser board designees (Section 3.11)
 - Added explicit convertible securities consent mechanism (Section 3.14) for SAFE and note conversions at closing
 - Added Variable Reference Map for cross-document consistency
-- Replaced "best efforts" with "reasonable efforts" throughout
 - Fixed typos present in the original Series Seed documents
 - General drafting modernization based on Adams, *A Manual of Style for Contract Drafting* (4th ed.)
 
