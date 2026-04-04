@@ -8,7 +8,7 @@ You've outgrown the SAFE. You're not ready for a full NVCA round. The Series See
 
 ## The problem
 
-Seed-stage founders raising capital face an uncomfortable choice: use a SAFE and defer every decision that matters, or negotiate a full NVCA equity round and spend a month and $50K+ in legal fees while you're still confirming product-market fit.
+Seed-stage founders raising capital face an uncomfortable choice: use a SAFE and defer many legal decisions that matters, or negotiate a full NVCA equity round and spend a month and $50K+ in legal fees while you're still confirming product-market fit.
 
 For a lot of companies, neither is right.
 
