@@ -12,7 +12,7 @@ Seed-stage founders raising capital face an uncomfortable choice: use a SAFE and
 
 For a lot of companies, neither is right.
 
-**SAFEs work well early, but they come with trade-offs.** SAFE holders arguably don't start the QSBS clock at investment. While SAFEs are outstanding, the cap table remains ambiguous: dilution, pro rata rights, and liquidation waterfalls are all deferred. SAFE stacking at different valuation caps creates conversion surprises that founders don't see coming. And because SAFEs defer governance entirely, founders who would benefit from an engaged board and investors who would benefit from protective provisions are left without either until the next round. A SAFE holder is not even a stockholder: the board's fiduciary duties do not run to them.
+**SAFEs work well early, but they come with trade-offs.** SAFE holders arguably don't start the QSBS clock at investment. While SAFEs are outstanding, the cap table remains ambiguous: dilution, pro rata rights, and liquidation waterfalls are all deferred. SAFE stacking at different valuation caps creates conversion surprises that founders don't see coming. And because SAFEs defer governance entirely, founders who would benefit from an engaged board and investors who would benefit from protective provisions are left without either until the next round.
 
 **The full NVCA suite is the gold standard, but it's built for Series A and beyond.** Five documents, a month to close, and legal fees that routinely exceed $50,000, built for companies that have already confirmed product-market fit, not companies still finding it.
 
@@ -33,7 +33,6 @@ The documents are built on the current NVCA model legal documents. The Certifica
 
 **For investors:**
 
-- **Stockholder standing.** A SAFE is a contract. Until it converts, the holder is not a stockholder, and under Delaware law the board's fiduciary duties run to the corporation and its stockholders, not to its contract counterparties. Series Sane investors hold preferred stock from closing and are owed those duties, on top of the preferences and consent rights in the charter.
 - **QSBS from closing.** Preferred stock purchased at a priced round starts the Section 1202 clock at closing. The Company represents its eligibility and covenants to maintain it.
 - **Cap table clarity.** Every investor knows exactly what they own and where they stand.
 - **Governance rights.** Board representation, information and inspection rights, a participation right in future rounds, a right of first refusal on founder transfers, and consent rights over the actions that matter.
