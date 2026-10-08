@@ -29,7 +29,7 @@ The documents are built on the current NVCA model legal documents. The Certifica
 - **Cap table certainty.** With priced equity, the cap table is clean and final at closing. No stacked SAFEs at different caps, no conversion surprises at the next round. Outstanding SAFEs and notes convert at closing on their own terms, into a separate sub-series if they convert at a lower price, so each investor's preference matches what they paid.
 - **A functional board.** SAFEs defer governance entirely. Series Sane gives you designated board seats (founder, investor, and mutual designees) from day one.
 - **One page of blanks.** Every deal-specific term lives in a Deal Terms table at the front of the Investment Agreement, on the Schedule of Purchasers, or in the Disclosure Schedule. The body of the agreement is never edited.
-- **Series A readiness.** NVCA-aligned documents mean next-round counsel can redline Series Sane against the NVCA model and immediately see the delta. The charter redline is in this repository.
+- **Series A readiness.** NVCA-aligned documents mean next-round counsel can redline Series Sane against the NVCA model and immediately see the delta.
 
 **For investors:**
 
@@ -53,7 +53,6 @@ The documents are built on the current NVCA model legal documents. The Certifica
 | Document | Purpose | Download |
 |----------|---------|----------|
 | [**Variable Reference Map**](docs/variable-reference-map.md) | One-page cross-check of every fill-in, the numbers that must reconcile across the three documents, and the optional provisions | [.docx](docx/Series%20Seed%20-%20Variable%20Reference%20Map.docx) |
-| **Charter redline against the NVCA model** | The October 2025 NVCA model charter, configured to the Series Sane choices, marked to show every change | [.docx](redlines/Series%20Seed%20-%20Certificate%20of%20Incorporation%20vs%20NVCA%20Model%20Charter.docx) |
 | **Board Consent** | Unanimous written consent of the Board of Directors authorizing the financing | Coming soon |
 | **Stockholder Consent** | Written consent of stockholders approving the Restated Certificate and stock issuance | Coming soon |
 | **Investor Questionnaire** | Accredited investor verification and Rule 506(d) bad actor questionnaire | Coming soon |
