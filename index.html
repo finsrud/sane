@@ -350,6 +350,11 @@
       padding: 24px;
       transition: background 0.2s ease;
     }
+    .benefit-card.is-wide {
+      grid-column: 1 / -1;
+      border-color: var(--accent-border);
+      background: var(--spectrum-active-bg);
+    }
     .benefit-card h4 { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
     .benefit-card p { font-size: 14px; color: var(--text-muted); line-height: 1.65; }
 
@@ -547,7 +552,7 @@
       <div class="spectrum-card">
         <div class="spectrum-tag">Too light</div>
         <h3>SAFE</h3>
-        <p>Fast and flexible for early pre-seed checks where pricing is premature. But it defers governance, creates conversion uncertainty, and arguably doesn't start the QSBS clock until it converts.</p>
+        <p>Fast and flexible for early pre-seed checks where pricing is premature. But it defers governance, creates conversion uncertainty, arguably doesn't start the QSBS clock until it converts, and leaves the investor a contract counterparty rather than a stockholder.</p>
       </div>
       <div class="spectrum-card is-sane">
         <div class="spectrum-tag">Just right</div>
@@ -594,8 +599,12 @@
     <div class="container">
       <span class="section-label">For Investors</span>
       <h2>Better tax treatment.<br>Real governance rights.</h2>
-      <p class="section-intro">SAFE investors arguably don't start the QSBS clock until conversion, a question the IRS hasn't resolved. SANE preferred stock starts it at closing, and comes with the governance rights a SAFE never provides.</p>
+      <p class="section-intro">SAFE investors arguably don't start the QSBS clock until conversion, a question the IRS hasn't resolved. They also aren't stockholders, so the board owes them no fiduciary duties. SANE preferred stock starts the clock at closing, makes the investor a stockholder from day one, and comes with the governance rights a SAFE never provides.</p>
       <div class="benefits-grid">
+        <div class="benefit-card is-wide">
+          <h4>The board owes you fiduciary duties</h4>
+          <p>A SAFE is a contract. Until it converts, the holder is not a stockholder, and under Delaware law the board's duties of care and loyalty run to the corporation and its stockholders, not to its contract counterparties. A SAFE holder's protection is whatever the SAFE says, and the standard form contains no covenants and no consent rights. SANE investors hold preferred stock from closing, so they are owed the fiduciary duties that more than a century of Delaware caselaw has built around stockholders, on top of the preferences and consent rights written into the charter.</p>
+        </div>
         <div class="benefit-card">
           <h4>QSBS from closing</h4>
           <p>Preferred stock purchased in a priced round starts the Section 1202 holding period at closing. The company represents its eligibility and covenants to maintain it. For investors targeting the QSBS exclusion, that timing can be worth a great deal.</p>
