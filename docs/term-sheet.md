@@ -1,105 +1,52 @@
-# SERIES SEED TERM SHEET
+# SERIES SEED PREFERRED STOCK TERM SHEET
 
-*[Date]*
+[Date]
 
-The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of *[___________]*, Inc., a *[Delaware]* corporation (the "**Company**"). Except for the section entitled "Binding Terms," this summary of terms does not constitute a legally binding obligation. The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and signed by the parties.
+This term sheet summarizes the principal terms of the proposed Series Seed Preferred Stock financing of [Company Name], a Delaware corporation (the "**Company**"). Except for the section titled "Binding Terms," it is not a legally binding obligation. The parties intend to be bound only by definitive agreements that they negotiate and sign.
 
-## Offering Terms
+**OFFERING TERMS**
 
-### Securities to Issue:
+| | |
+|---|---|
+| **Securities** | Shares of Series Seed Preferred Stock (the "**Series Seed**"). |
+| **Amount** | $[________] in new cash[, plus the conversion of the Company's outstanding SAFEs and convertible notes as described under "Convertible Securities"]. The Company may hold additional closings on the same terms for up to [90] days after the initial closing. |
+| **Purchasers** | Accredited investors acceptable to the Company (the "**Purchasers**"). |
+| **Price per Share** | $[______] (the "**Original Issue Price**"), based on a fully diluted pre-money valuation of $[______]. The fully diluted pre-money capitalization includes all outstanding Common Stock, all outstanding options and other rights to acquire stock, the shares issuable on conversion of the Convertible Securities, and an unallocated option pool equal to [__]% of the post-money fully diluted capitalization. |
+| **Convertible Securities** | [None.] [The Company's outstanding SAFEs and convertible notes convert at the initial closing in accordance with their terms into [Series Seed] [a separate Series Seed-1 Preferred Stock that is identical to the Series Seed except that its original issue price, liquidation preference and conversion price reflect the price actually paid].] |
+| **Liquidation Preference** | One times the Original Issue Price plus declared but unpaid dividends, or, if greater, the amount the Series Seed would receive on an as-converted basis (non-participating). A merger or sale of substantially all assets is treated as a liquidation. |
+| **Dividends** | No fixed dividend. The Series Seed shares in any dividend declared on the Common Stock on an as-converted basis. |
+| **Conversion** | Convertible into Common Stock at any time at the holder's option, initially one for one. Automatic conversion upon a firm-commitment underwritten IPO or the vote of a majority of the Series Seed. |
+| **Anti-Dilution** | Broad-based weighted average adjustment to the conversion price for issuances below the then-applicable conversion price, with customary exceptions (option grants, conversions, splits, and Board-approved issuances to lenders, lessors, acquisition targets and strategic partners). |
+| **Voting** | The Series Seed votes with the Common Stock on an as-converted basis. The following require approval of a majority of the Series Seed for so long as at least 25% of the Series Seed issued in the financing remains outstanding: (a) a liquidation, dissolution or sale of the Company; (b) an amendment of the charter or bylaws that adversely affects the Series Seed; (c) creation of stock senior to or on parity with the Series Seed; (d) a change in the authorized number of shares; (e) a dividend or redemption, with customary exceptions; and (f) a change in the size of the Board. |
+| **Board of Directors** | [__] directors: [__] designated by the holders of a majority of the Common Stock held by founders providing services to the Company, [__] designated by the holders of a majority of the Series Seed, and [__] independent director[s] designated by mutual agreement of the two groups. Designation rights are not transferable. |
+| **Information and Inspection Rights** | Purchasers who invest at least $[______] (counting cash and amounts converted from SAFEs and notes) ("**Major Purchasers**") receive annual and quarterly financial statements, an annual capitalization table, and customary inspection rights[, and a management rights letter on request]. |
+| **Participation Right** | Major Purchasers may purchase their pro rata share of future equity issuances for capital-raising purposes, with customary exceptions. |
+| **Right of First Refusal** | The Company, and then the Major Purchasers, have a right of first refusal on transfers of Common Stock by the founders and other holders of Common Stock designated as Key Holders in the definitive documents, with customary exceptions for estate planning and Company repurchases. No co-sale right. |
+| **Drag-Along** | If a sale of the Company is approved by the Board, a majority of the Series Seed and a majority of the Common Stock held by founders providing services to the Company, all stockholders will vote for and participate in the sale, subject to customary protections (several liability capped at proceeds, limited representations, no non-competes for non-employees, and allocation of proceeds per the charter). |
+| **Next Financing** | If the next round of preferred stock receives rights that are granted to all investors in that round and are not provided to the Series Seed, the Series Seed receives the same rights. Rights that depend on an investment threshold are available to Series Seed holders only if they meet the threshold, counting their Series Seed investment. Economic terms of the new series and rights negotiated by name or by side letter do not carry over. The Series Seed documents will be amended and restated into the next round's documents. |
+| **QSBS** | The Company represents that it is an eligible corporation with gross assets of $75 million or less and covenants to use commercially reasonable efforts to maintain qualified small business stock eligibility. |
+| **Key Holder Matters** | Each Key Holder's shares vest over four years beginning [________], with full acceleration upon a termination without cause or resignation for good reason within [12] months after a change of control ("double trigger"). Each founder will have assigned all relevant intellectual property to the Company before closing. |
+| **Expenses** | The Company will reimburse Purchasers' counsel up to $[______]. |
+| **Documentation** | The definitive documents will be the Series Seed Preferred Stock Investment Agreement and Amended and Restated Certificate of Incorporation published by Series Sane at [repository URL], modified only as set out in this term sheet. Delaware law governs. |
 
-Shares of Series Seed Preferred Stock of the Company (the "**Series Seed**").
+**BINDING TERMS**
 
-### Aggregate Proceeds:
+For 30 days after the date of this term sheet, the Company will not solicit or accept offers from other parties for any equity financing, other than from additional Purchasers in this financing. Without the consent of the lead Purchaser, the Company will not disclose these terms to anyone other than its officers, directors, advisers and prospective Purchasers in this financing.
 
-*$[_________]* in aggregate.
+**COMPANY:**
 
-### Purchasers:
+[COMPANY NAME]
 
-Accredited investors approved by the Company (the "**Purchasers**").
-
-### Price Per Share:
-
-Price per share (the "**Original Issue Price**"), based on a pre-money valuation of *$[____]*, including an available option pool of *[___]*%.
-
-### Liquidation Preference:
-
-1x the Original Issue Price plus declared but unpaid dividends on each share of Series Seed, balance of proceeds paid to Common. A merger, reorganization or similar transaction will be treated as a liquidation.
-
-### Conversion:
-
-Each share of Series Seed is convertible into 1 share of Common Stock (subject to proportional adjustments for stock splits, stock dividends and the like) at any time at the option of the holder.
-
-### Voting Rights:
-
-The Series Seed votes together with the Common Stock on all matters on an as-converted basis.
-
-Approval of a majority of the Preferred Stock is required to:
-
-(a) adversely change rights of the Preferred Stock;
-
-(b) change the authorized number of shares;
-
-(c) authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock;
-
-(d) redeem or repurchase any shares (other than under employee or consultant agreements);
-
-(e) declare or pay any dividend;
-
-(f) change the number of directors; or
-
-(g) liquidate or dissolve.
-
-For this purpose, any change of control is treated as a liquidation.
-
-### Documentation:
-
-Definitive documents will be based on the Series Seed Preferred Stock documents published at *[repository URL]*, except for the modifications set forth in this Term Sheet.
-
-### Financial Information:
-
-Purchasers who have invested at least *[$________]* ("**Major Purchasers**") will receive standard information and inspection rights and management rights letter.
-
-### Participation Right:
-
-Major Purchasers will have the right to participate on a pro rata basis in subsequent issuances of equity securities or securities convertible into equity securities issued for capital-raising purposes.
-
-### Board of Directors:
-
-*[___]* directors elected by holders of a majority of Common Stock, *[__]* elected by holders of a majority of Series Seed, and *[___]* elected by mutual consent. Board designation rights are not transferable to any assignee of shares unless approved by the Board.
-
-### Expenses:
-
-Company to reimburse counsel to Purchasers for a flat fee of *$[______]*.
-
-### Most Favored Nation:
-
-If the Company issues equity securities in a subsequent financing with rights, preferences, or privileges more favorable than those of the Series Seed (other than economic terms specific to such subsequent financing), the Company shall amend the Series Seed documents to provide substantially equivalent rights to holders of Series Seed, subject to each such holder's execution of the definitive documents for such subsequent financing. Major Purchaser status and associated rights under this financing will carry forward to such subsequent financing documents.
-
-### Key Holder Matters:
-
-Each Key Holder shall have 4 years vesting beginning *[_______]*. Full acceleration upon "**Double Trigger**" (acceleration of vesting upon a change of control followed by termination without cause or resignation for good reason). Each Key Holder shall have assigned all relevant IP to the Company before closing.
-
-### Binding Terms:
-
-For a period of 30 days, the Company shall not solicit offers from other parties for any financing. Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
-
-------------
-
-## COMPANY:
-
-*[__________, INC.]*
-
+By: ______________________________
 Name:
-
 Title:
-
 Date:
 
-## PURCHASERS:
+**LEAD PURCHASER:**
 
+[PURCHASER NAME]
+
+By: ______________________________
 Name:
-
 Title:
-
 Date:

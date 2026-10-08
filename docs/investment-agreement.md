@@ -1,504 +1,414 @@
 # SERIES SEED PREFERRED STOCK INVESTMENT AGREEMENT
 
-This Series Seed Preferred Stock Investment Agreement (this "Agreement") is dated as of the Agreement Date and is between the Company, the Purchasers and the Key Holders.
+This Series Seed Preferred Stock Investment Agreement (this "**Agreement**") is dated as of the Agreement Date and is between the Company, the persons listed as Purchasers on **Exhibit A** (each, a "**Purchaser**"), and the persons listed as Key Holders on **Exhibit A** (each, a "**Key Holder**").[^1]
 
 The parties agree as follows:
 
-1.  DEFINITIONS. Capitalized terms used and not otherwise defined in this Agreement or the Exhibit and Schedules to this agreement have the meanings set forth in Exhibit A.
+## Article 1
+## DEAL TERMS
 
-2.  INVESTMENT. Subject to the terms of this Agreement, including the Agreement Terms set forth in Exhibit B, (i) each Purchaser shall purchase at the applicable Closing and the Company shall sell and issue to each Purchaser at such Closing that number of shares of Series Seed Preferred Stock set forth opposite such Purchaser's name on Schedule 1, at a price per share equal to the Purchase Price (subject to any applicable discounts when all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser) and (ii) each Purchaser, the Company, and each Key Holder agrees to be bound by the obligations set forth in this Agreement and to grant to the other parties to this agreement the rights set forth in this Agreement.    
+1.1 **Deal Terms.** The following terms (the "**Deal Terms**") have the meanings set out in this table. Together with **Exhibit A** and the Disclosure Schedule, they are the only deal-specific terms in this Agreement.[^2]
 
-3.  ENTIRE AGREEMENT.  This Agreement (including the Exhibits and Schedules to this agreement) together with the Restated Charter constitute the entire agreement between the parties with respect to the subject matter of this agreement, and any other written or oral agreement relating to the subject matter of this agreement existing between the parties is expressly canceled. 
+| Term | Value | Where it operates |
+|---|---|---|
+| **Company** | [Company Name], a Delaware corporation | Throughout |
+| **Agreement Date** | [Date] | Preamble; the Company's representations speak as of this date (Article 3) |
+| **Purchase Price** | $[______] per share, which is the Original Issue Price of the Series Seed Preferred Stock under the Restated Certificate | Section 2.2; Restated Certificate, Article Fourth, Part B, Section 1 |
+| **Convertible Securities** | [None.] [The SAFEs and convertible notes listed on **Exhibit A**, which convert at the Initial Closing, at the conversion prices shown on **Exhibit A**, into [Series Seed Preferred Stock] [Series Seed-1 Preferred Stock, whose Original Issue Price under the Restated Certificate is $[______] per share].] | Sections 2.2 and 2.6; Restated Certificate, Article Fourth |
+| **Maximum Offering Amount** | $[______] (the maximum aggregate Purchase Price for shares sold for cash at all Closings) | Section 2.4 |
+| **Additional Closing Deadline** | [90] days after the Initial Closing | Section 2.4 |
+| **Major Purchaser Threshold** | $[______] (a Purchaser that, together with its Affiliates, pays or converts an aggregate amount (cash plus amounts converted under Section 2.6) of at least this amount for Shares is a "**Major Purchaser**") | Sections 2.5, 5.1, 5.2, 5.4, 6.2, 8.2 |
+| **Board Composition** | [__] Common Designee[s]; [__] Series Seed Designee[s]; [__] Mutual Designee[s]; total authorized Board size of [__] directors | Sections 7.1 and 7.2; Restated Certificate, Article Fourth, Part B, Section 3.2 |
+| **Stock Plan** | The Company's [Year] [Equity Incentive Plan], under which [______] shares of Common Stock are reserved, of which [______] shares are subject to outstanding options and [______] shares are unallocated and available for future grant, in each case immediately before the Initial Closing | Section 3.2 |
+| **Common Stock Outstanding** | [______] shares immediately before the Initial Closing | Section 3.2 |
+| **Purchaser Counsel Expense Cap** | $[______] | Section 8.8 |
+| **Company Counsel** | [Name, firm, email], who receives a copy of notices to the Company | Section 8.6 |
 
--------------------------
+1.2 **Other Definitions.** Other capitalized terms are defined where they first appear in bold. In addition:
+
+(a) "**Affiliate**" means, with respect to any Person, any other Person that directly or indirectly controls, is controlled by, or is under common control with that Person, including any general partner, managing member, officer, director or trustee of that Person, and any venture capital fund or other investment fund that is controlled by one or more general partners, managing members or investment advisers of, or shares the same management company or investment adviser with, that Person.
+
+(b) "**Board**" means the Board of Directors of the Company.
+
+(c) "**Common Stock**" means the Company's common stock.
+
+(d) "**Person**" means any individual, corporation, partnership, trust, limited liability company, association, or other entity.
+
+(e) "**Preferred Stock**" means the Company's preferred stock, all of which is designated Series Seed Preferred Stock [and Series Seed-1 Preferred Stock].
+
+(f) "**Requisite Purchasers**" means the holders of a majority of the then outstanding shares of Series Seed Preferred Stock (together with any Common Stock issued on conversion of Series Seed Preferred Stock), voting together as a single class on an as-converted basis, excluding any shares held by a Sanctioned Party.
+
+(g) "**Restated Certificate**" means the Company's Amended and Restated Certificate of Incorporation in the form of **Exhibit B**, as amended or restated from time to time.
+
+(h) "**Sanctioned Party**" means any Person that is (i) organized under the laws of, ordinarily resident in, or located in a country or territory that is the subject of comprehensive sanctions administered by the United States, (ii) 50% or more owned or controlled by the government of such a country or territory, or (iii) designated on, or 50% or more owned or controlled by one or more Persons designated on, a sanctions list administered by the United States, including the Specially Designated Nationals and Blocked Persons List maintained by the Office of Foreign Assets Control of the U.S. Department of the Treasury, in each case to the extent dealings with that Person are prohibited by applicable sanctions laws.
+
+(i) "**Series Seed Preferred Stock**" means the Company's Series Seed Preferred Stock [and, except where the context requires otherwise, its Series Seed-1 Preferred Stock].
+
+(j) "**Shares**" means the shares of Series Seed Preferred Stock issued under this Agreement and any shares of Common Stock issued on their conversion.
+
+(k) "**Stockholders**" means the Purchasers, the Key Holders, and each other Person who becomes a party to this Agreement under Section 7.10 or Section 8.2.
+
+## Article 2
+## PURCHASE AND SALE OF SERIES SEED PREFERRED STOCK
+
+2.1 **Restated Certificate.** The Company shall adopt and file the Restated Certificate with the Secretary of State of the State of Delaware on or before the Initial Closing.
+
+2.2 **Sale and Issuance.** Subject to the terms of this Agreement, each Purchaser shall purchase at the applicable Closing, and the Company shall sell and issue to that Purchaser at that Closing, the number of shares of Series Seed Preferred Stock set forth opposite the Purchaser's name on **Exhibit A**, at the Purchase Price per share[, except that Shares issued on conversion of Convertible Securities under Section 2.6 are issued at the conversion price set forth on **Exhibit A**].
+
+2.3 **Initial Closing.** The initial purchase and sale of Shares under this Agreement will take place remotely by exchange of documents and signatures on the Agreement Date, or on the later date on which one or more Purchasers deliver counterpart signature pages and the Purchase Price to the Company (the "**Initial Closing**").
+
+2.4 **Additional Closings.** At any time on or before the Additional Closing Deadline, the Company may, at one or more additional closings (each, an "**Additional Closing**" and, together with the Initial Closing, each a "**Closing**"), sell to one or more additional purchasers (each, a "**New Purchaser**"), at the Purchase Price per share and without the consent of any existing Purchaser, up to that number of shares of Series Seed Preferred Stock equal to (a) the Maximum Offering Amount divided by the Purchase Price, rounded up to the next whole share, less (b) the number of shares of Series Seed Preferred Stock sold for cash at the Initial Closing and all prior Additional Closings. A New Purchaser may be an existing Purchaser. Each New Purchaser shall deliver a counterpart signature page to this Agreement and the Purchase Price for its Shares, and upon the Company's acceptance becomes a party to, and bound by, this Agreement as a Purchaser as of the applicable Additional Closing. The Company shall update **Exhibit A** to reflect each Additional Closing; failure to do so does not affect any New Purchaser's rights or obligations.
+
+2.5 **Deliveries at Closing.** At each Closing, (a) each Purchaser shall deliver the Purchase Price for its Shares by wire transfer to an account designated by the Company, by check payable to the Company, by cancellation or conversion of Convertible Securities under Section 2.6, or by any combination of those methods, together with a completed investor questionnaire in the form reasonably requested by the Company; and (b) the Company shall deliver to each Purchaser a notice of issuance of uncertificated shares (or, if the Company's shares are certificated, a certificate) for the Shares purchased by that Purchaser, and, at the Initial Closing, evidence of the filing of the Restated Certificate and copies of the resolutions of the Board and the stockholders of the Company approving the Restated Certificate and this Agreement. [At the request of any Major Purchaser that is a venture capital fund, the Company shall deliver a management rights letter in customary form.][^3] At the Initial Closing, each Key Holder shall deliver to the Company (i) a stock restriction agreement, or an amendment to the Key Holder's existing stock purchase or restricted stock agreement, providing for vesting of the Key Holder's shares on the terms set forth in Section 3.2(d) of the Disclosure Schedule, to the extent the Key Holder's existing agreements do not already so provide, and (ii) if the Key Holder is married and resides in a community property state, a spousal consent in the form of **Exhibit D**.
+
+2.6 **Conversion of Convertible Securities.**[^4]
+
+(a) By signing this Agreement, each Purchaser that holds one or more Convertible Securities irrevocably agrees, and represents and warrants to the Company, that: (i) the aggregate amount outstanding under the Convertible Securities held by the Purchaser is as set forth opposite the Purchaser's name on **Exhibit A**; (ii) the Purchaser is the sole owner of all right, title and interest in those Convertible Securities and has not transferred any interest in them; (iii) at the Initial Closing, all of the Purchaser's Convertible Securities will automatically, and without further action by the Purchaser, convert into the number of Shares set forth opposite the Purchaser's name on **Exhibit A** under the heading "Convertible Security Shares" (the Purchaser's "**Convertible Security Shares**"), regardless of whether the original Convertible Securities or an affidavit of loss is delivered to the Company; and (iv) the Convertible Security Shares are issued in full and complete discharge and satisfaction of all obligations of the Company (including principal, interest and any other amounts) under the Purchaser's Convertible Securities, which terminate automatically at the Initial Closing.
+
+(b) The Company and each Purchaser that holds Convertible Securities agree that each of those Convertible Securities is amended to the extent necessary to permit its conversion as provided in this Section 2.6 and to fix its conversion price at the price set forth on **Exhibit A**, and that, immediately upon the Initial Closing, each of those Convertible Securities is terminated and of no further force or effect, except for the holder's right to receive its Convertible Security Shares. To the extent the terms of a Convertible Security permit the holders of a specified portion of the Convertible Securities to amend all of them, each Purchaser that holds Convertible Securities agrees to the amendment in this Section 2.6(b) on behalf of all holders.
+
+## Article 3
+## REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+
+The Company represents and warrants to each Purchaser that, except as set forth on the Disclosure Schedule attached as **Exhibit C** (the "**Disclosure Schedule**"), which exceptions are deemed part of the representations and warranties made in this Article 3, the following statements are true and complete as of the Agreement Date and, as to any Additional Closing, as of that Closing except as otherwise disclosed in writing to the New Purchasers at that Closing.[^5]
+
+3.1 **Organization, Good Standing, Corporate Power and Qualification.** The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware and has all corporate power and authority required (a) to carry on its business as presently conducted and as presently proposed to be conducted and (b) to sign, deliver and perform this Agreement. The Company is duly qualified to transact business and is in good standing in each jurisdiction in which the failure to so qualify would have a material adverse effect on the business, assets (including intangible assets), liabilities, financial condition, property or results of operations of the Company.
+
+3.2 **Capitalization.**
+
+(a) Immediately before the Initial Closing, the authorized capital of the Company consists of the shares of Common Stock and Preferred Stock set forth in the Restated Certificate, of which the number of shares of Common Stock set forth in the Deal Terms as Common Stock Outstanding, and no shares of Preferred Stock, are issued and outstanding. All outstanding shares of Common Stock have been duly authorized and validly issued, are fully paid and nonassessable, and were issued in compliance with all applicable federal and state securities laws.
+
+(b) The Company has reserved under the Stock Plan the number of shares of Common Stock set forth in the Deal Terms, of which the number of shares set forth there are subject to outstanding options and the number of shares set forth there remain available for future grant. The Stock Plan has been duly adopted by the Board and approved by the Company's stockholders.
+
+(c) Except for (i) the conversion privileges of the Series Seed Preferred Stock, (ii) the rights provided in Section 5.4, (iii) the options described in Section 3.2(b), and (iv) the Convertible Securities, there are no outstanding options, warrants, rights (including conversion or preemptive rights and rights of first refusal or similar rights) or agreements, orally or in writing, to purchase or acquire from the Company any shares of Common Stock or Preferred Stock, or any securities convertible into or exchangeable for shares of Common Stock or Preferred Stock. The Company has obtained valid waivers of any rights of other parties to purchase any of the Shares.
+
+(d) Each Key Holder holds the number of shares of Common Stock set forth opposite the Key Holder's name on **Exhibit A**, and those shares are subject to vesting or a repurchase right in favor of the Company on the terms set forth in Section 3.2(d) of the Disclosure Schedule, which specifies for each Key Holder the vesting commencement date, the number of shares currently vested and unvested, and any terms on which vesting would accelerate. Except as set forth in Section 3.2(d) of the Disclosure Schedule, (i) all outstanding shares of Common Stock and options held by service providers vest over four years with a one-year cliff (or, for consultants and directors, monthly over not less than two years), (ii) no agreement between the Company and any holder of its equity securities provides for acceleration of vesting or other changes in vesting terms upon termination of service, a change of control, or any other event, and (iii) the Company has no obligation (contingent or otherwise) to purchase or redeem any of its capital stock other than as set forth in the Restated Certificate.
+
+3.3 **Subsidiaries.** The Company does not own or control, directly or indirectly, any interest in any other corporation, partnership, trust, joint venture, limited liability company, association or other business entity, and is not a participant in any joint venture, partnership or similar arrangement.
+
+3.4 **Authorization.** All corporate action required on the part of the Board and the stockholders of the Company for the authorization, execution and delivery of this Agreement, the performance of the Company's obligations under this Agreement, and the authorization, issuance and delivery of the Shares has been taken or will be taken before the applicable Closing. This Agreement, when signed and delivered by the Company, constitutes a valid and legally binding obligation of the Company, enforceable against the Company in accordance with its terms, except as limited by (a) applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance and other laws of general application affecting the enforcement of creditors' rights generally and (b) laws relating to the availability of specific performance, injunctive relief or other equitable remedies.
+
+3.5 **Valid Issuance of Shares.** The Shares, when issued, sold and delivered in accordance with this Agreement for the consideration stated in it, will be duly authorized, validly issued, fully paid and nonassessable, and free of restrictions on transfer other than restrictions under this Agreement, applicable federal and state securities laws, and liens or encumbrances created by or imposed on a Purchaser. The Common Stock issuable upon conversion of the Shares has been duly reserved for issuance and, when issued in accordance with the Restated Certificate, will be duly authorized, validly issued, fully paid and nonassessable, and free of restrictions on transfer other than those described in the preceding sentence. Assuming the accuracy of the representations of the Purchasers in Article 4, and subject to filings under Regulation D of the Securities Act of 1933, as amended (the "**Securities Act**"), and applicable state securities laws, which the Company shall make within the periods required, the offer, sale and issuance of the Shares and the Common Stock issuable on their conversion are exempt from the registration requirements of the Securities Act and from the registration and qualification requirements of applicable state securities laws.
+
+3.6 **Litigation.** There is no action, suit, proceeding, arbitration, mediation, complaint, claim, charge or investigation pending or, to the Company's knowledge, threatened in writing (a) against the Company, or (b) against any consultant, officer, director or key employee of the Company arising out of his or her consulting, employment or board relationship with the Company or that could otherwise materially and adversely affect the Company. There is no action, suit, proceeding or investigation by the Company pending or that the Company intends to initiate.
+
+3.7 **Intellectual Property.** The Company owns or possesses sufficient legal rights to all patents, patent applications, trademarks, trademark applications, service marks, trade names, copyrights, trade secrets, licenses, domain names, software, information and proprietary rights and processes (collectively, "**Intellectual Property**") necessary to the conduct of its business as now conducted and as presently proposed to be conducted (the "**Company Intellectual Property**"), without any violation or infringement of the rights of others, except that with respect to third-party patents, patent applications, trademarks, trademark applications, service marks and service mark applications this representation is made to the Company's knowledge only. No product or service marketed or sold (or proposed to be marketed or sold) by the Company violates any license or, to the Company's knowledge, infringes any Intellectual Property of any other Person. Other than commercially available software licensed on standard terms, there is no outstanding option, license, agreement, claim, encumbrance or shared ownership interest of any kind relating to the Company Intellectual Property, and the Company is not bound by or a party to any option, license or agreement with respect to the Intellectual Property of any other Person. The Company has not received any written communication alleging that the Company has violated, or by conducting its business would violate, the Intellectual Property of any other Person. The Company has not embedded, used or distributed any open source software in a manner that requires the Company to disclose, license or distribute any source code of the Company Intellectual Property to any third party.
+
+3.8 **Employee and Consultant Matters.** Each current and former employee, consultant and officer of the Company has signed an agreement with the Company regarding confidentiality and assignment of inventions substantially in the form made available to the Purchasers. No current or former employee or consultant has excluded any work or invention from his or her assignment of inventions, and, to the Company's knowledge, none of them is in violation of that agreement. To the Company's knowledge, no employee or consultant of the Company is obligated under any contract, judgment, decree or order that would materially interfere with the performance of his or her duties for the Company or conflict with the Company's business. To the Company's knowledge, each individual who has purchased unvested shares of the Company's capital stock has timely filed an election under Section 83(b) of the Internal Revenue Code of 1986, as amended (the "**Code**"). The Company is not delinquent in payments to any of its employees or consultants for any wages, fees or other compensation.
+
+3.9 **Compliance with Other Instruments.** The Company is not in violation or default of (a) any provision of the Restated Certificate or the Company's bylaws, (b) any judgment, order, writ or decree of any court or governmental authority, (c) any agreement, instrument, contract, lease, note, indenture, mortgage or purchase order to which it is a party that is required to be listed on the Disclosure Schedule, or (d) to its knowledge, any provision of federal or state statute, rule or regulation materially applicable to the Company. The execution, delivery and performance of this Agreement and the consummation of the transactions contemplated by it will not result in any such violation or default, or constitute, with or without the passage of time and giving of notice, (i) a default under any such judgment, order, writ, decree, agreement, instrument, contract, lease, note, indenture, mortgage or purchase order, or (ii) an event that results in the creation of any lien, charge or encumbrance upon any assets of the Company or the suspension, revocation, forfeiture or nonrenewal of any material permit or license applicable to the Company.
+
+3.10 **Title to Property and Assets.** The Company owns its property and assets free and clear of all mortgages, deeds of trust, liens, encumbrances and security interests, except for statutory liens for the payment of current taxes that are not yet delinquent and liens, encumbrances and security interests arising in the ordinary course of business that do not materially impair the Company's ownership or use of that property or those assets. With respect to the property and assets it leases, the Company is in material compliance with each lease.
+
+3.11 **Material Agreements.** Except for this Agreement and the Convertible Securities, there are no agreements, understandings, instruments, contracts or proposed transactions to which the Company is a party or by which it is bound that involve (a) obligations (contingent or otherwise) of, or payments to, the Company in excess of $50,000; (b) the license of any Intellectual Property to or from the Company, other than licenses of commercially available software on standard terms and standard customer terms of service and privacy policies for the Company's products or websites; (c) the grant of rights to manufacture, produce, assemble, license, market or sell the Company's products or services to any other Person, or any limitation on the Company's exclusive right to develop, manufacture, assemble, distribute, market or sell its products or services; or (d) indemnification by the Company with respect to infringement of proprietary rights, other than standard customer or channel agreements (each, a "**Material Agreement**"). The Company is not in material breach of any Material Agreement, and each Material Agreement is in full force and effect and enforceable by the Company in accordance with its terms, subject to the limitations described in Section 3.4.
+
+3.12 **Liabilities; Financial Statements.** The Company has no liabilities or obligations, contingent or otherwise, other than (a) liabilities incurred in the ordinary course of business that do not exceed $25,000 individually or $100,000 in the aggregate, (b) obligations under contracts and commitments incurred in the ordinary course of business, (c) liabilities reflected in the Company's most recent balance sheet, if any, made available to the Purchasers, and (d) the Convertible Securities. Any financial statements made available to the Purchasers were prepared in good faith from the Company's books and records and fairly present in all material respects the financial condition and results of operations of the Company as of the dates and for the periods indicated.
+
+3.13 **Taxes.** The Company has timely filed all tax returns required to be filed by it and has paid all taxes shown to be due on those returns and all other taxes that are due and payable, except for taxes being contested in good faith. The Company has withheld and paid over all taxes required to have been withheld and paid in connection with amounts paid to any employee, independent contractor, creditor or other third party. The Company has not elected to be treated as other than a C corporation for U.S. federal income tax purposes.
+
+3.14 **Sanctions.** Neither the Company nor any of its directors, officers or employees is a Sanctioned Party, and the Company is in compliance with all applicable sanctions and export control laws of the United States.[^6]
+
+3.15 **No "Bad Actor" Disqualification.** No "bad actor" disqualifying event described in Rule 506(d)(1)(i) through (viii) under the Securities Act (a "**Disqualification Event**") is applicable to the Company or, to the Company's knowledge, any Company Covered Person, except for a Disqualification Event as to which Rule 506(d)(2)(ii) through (iv) or (d)(3) applies. "**Company Covered Person**" means, with respect to the Company as an "issuer" for purposes of Rule 506, any Person listed in the first paragraph of Rule 506(d)(1).
+
+3.16 **Qualified Small Business Stock.** As of the Initial Closing and immediately after it, (a) the Company is an eligible corporation within the meaning of Section 1202(e)(4) of the Code, (b) the aggregate gross assets of the Company (as determined under Section 1202(d)(2) of the Code) have not at any time exceeded, and immediately after the Initial Closing do not exceed, $75,000,000, and (c) the Company has not made any purchase of its own stock described in Section 1202(c)(3) of the Code. The Company makes no representation that the Shares will qualify as "qualified small business stock" under Section 1202 of the Code in the hands of any Purchaser.[^7]
+
+## Article 4
+## REPRESENTATIONS AND WARRANTIES OF THE PURCHASERS
+
+Each Purchaser, severally and not jointly, represents and warrants to the Company as follows:
+
+4.1 **Authorization.** The Purchaser has full power and authority to enter into this Agreement. This Agreement, when signed and delivered by the Purchaser, constitutes a valid and legally binding obligation of the Purchaser, enforceable in accordance with its terms, subject to the limitations described in Section 3.4.
+
+4.2 **Purchase Entirely for Own Account.** The Purchaser is acquiring the Shares for investment for its own account, not as a nominee or agent, and not with a view to the resale or distribution of any part of them, and has no present intention of selling, granting any participation in, or otherwise distributing the Shares. The Purchaser does not have any contract, undertaking, agreement or arrangement with any Person to sell, transfer or grant participations to that Person or any third Person with respect to any of the Shares. The Purchaser has not been formed for the specific purpose of acquiring the Shares.
+
+4.3 **Disclosure of Information.** The Purchaser has had an opportunity to discuss the Company's business, management, financial affairs and the terms and conditions of the offering of the Shares with the Company's management. Nothing in this Article 4 limits or modifies the representations and warranties of the Company in Article 3 or the right of the Purchasers to rely on them.
+
+4.4 **Restricted Securities.** The Purchaser understands that the Shares have not been, and will not be, registered under the Securities Act, by reason of a specific exemption from registration that depends upon, among other things, the bona fide nature of the Purchaser's investment intent and the accuracy of the Purchaser's representations in this Article 4. The Purchaser understands that the Shares are "restricted securities" under applicable federal and state securities laws and that the Purchaser must hold the Shares indefinitely unless they are registered with the Securities and Exchange Commission and qualified by state authorities or an exemption from registration and qualification is available. The Purchaser acknowledges that the Company has no obligation to register or qualify the Shares, or the Common Stock into which they may be converted, for resale, and that any exemption may be conditioned on requirements, including the time and manner of sale, the holding period and information about the Company, that are outside the Purchaser's control and that the Company is under no obligation and may not be able to satisfy.
+
+4.5 **No Public Market.** The Purchaser understands that no public market now exists for the Shares and that the Company has made no assurances that a public market will ever exist for the Shares.
+
+4.6 **Legends.** The Purchaser understands that the Shares, and any securities issued in respect of or in exchange for the Shares, may be notated with one or more of the following legends: (a) any legend set forth in, or required by, this Agreement; (b) any legend required by the securities laws of any state to the extent those laws apply to the Shares; and (c) the following legend:
+
+> "THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF. NO SUCH TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM REASONABLY SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933, AS AMENDED."
+
+4.7 **Accredited Investor.** The Purchaser is an "accredited investor" as defined in Rule 501(a) of Regulation D under the Securities Act, and has such knowledge and experience in financial and business matters that it is capable of evaluating the merits and risks of its investment in the Shares and of bearing the economic risk of that investment.
+
+4.8 **Foreign Investors.** If the Purchaser is not a United States person (as defined in Section 7701(a)(30) of the Code), the Purchaser has satisfied itself as to the full observance of the laws of its jurisdiction in connection with the purchase of the Shares, including any legal requirements within its jurisdiction, any foreign exchange restrictions, any governmental or other consents, and the tax consequences of the purchase, holding, sale or transfer of the Shares, and the Purchaser's subscription for and continued beneficial ownership of the Shares will not violate any applicable securities or other laws of its jurisdiction. Except as the Purchaser has indicated on **Exhibit A**, the Purchaser is not a "foreign person" and is not controlled by a "foreign person," as those terms are defined in Section 721 of the Defense Production Act of 1950, as amended, and its implementing regulations (the "**DPA**"), and the Purchaser will notify the Company promptly if that status changes.[^8]
+
+4.9 **Sanctions and Data Security.** Neither the Purchaser nor any of its officers, directors, employees, agents, stockholders or partners is a Sanctioned Party. The Purchaser is not a "covered person" within the meaning of 28 C.F.R. Part 202, and the Purchaser's acquisition of the Shares does not constitute a "covered data transaction" within the meaning of that regulation.
+
+4.10 **No General Solicitation.** Neither the Purchaser nor any of its officers, directors, employees, agents, stockholders or partners has, directly or indirectly, including through a broker or finder, (a) engaged in any general solicitation with respect to the offer and sale of the Shares, or (b) published any advertisement in connection with the offer and sale of the Shares.
+
+## Article 5
+## INVESTOR RIGHTS
+
+5.1 **Financial Information.** The Company shall deliver to each Major Purchaser (a) within 120 days after the end of each fiscal year, a balance sheet as of the end of the year and statements of income and cash flows for the year, prepared in accordance with generally accepted accounting principles consistently applied ("**GAAP**") (and audited if the Company has obtained an audit); (b) within 45 days after the end of each of the first three fiscal quarters, an unaudited balance sheet as of the end of the quarter and unaudited statements of income and cash flows for the quarter, prepared in accordance with GAAP (except that they may be subject to normal year-end adjustments and omit footnotes); and (c) with each delivery under clause (a), a capitalization table showing the number of outstanding shares of each class and series of capital stock and all securities convertible into or exercisable for capital stock, in sufficient detail to permit the Major Purchaser to calculate its percentage ownership. The Company shall deliver the capitalization table described in clause (c) to any other Purchaser within 15 days after request, but not more than once in any fiscal year.[^9]
+
+5.2 **Inspection.** The Company shall permit each Major Purchaser, at the Major Purchaser's expense and during normal business hours, to visit and inspect the Company's properties, examine its books of account and records, and discuss the Company's affairs, finances and accounts with its officers, in each case as reasonably requested in connection with monitoring the Major Purchaser's investment; provided that the Company is not obligated to provide access to any information that it reasonably and in good faith considers to be a trade secret or confidential information or the disclosure of which would adversely affect the attorney-client privilege.
+
+5.3 **Confidentiality; Competitors.** Each Purchaser shall keep confidential and shall not disclose, divulge or use for any purpose (other than to monitor or make decisions with respect to its investment in the Company) any confidential information obtained from the Company under this Agreement, unless the information (a) is or becomes generally known to the public other than through a breach by the Purchaser, (b) was independently developed by the Purchaser without use of the Company's confidential information, or (c) was disclosed to the Purchaser by a third party without breach of an obligation of confidentiality to the Company; except that a Purchaser may disclose confidential information (i) to its attorneys, accountants, consultants and other professional advisers to the extent necessary to obtain their services in connection with its investment in the Company, (ii) to any Affiliate, partner, member, stockholder or wholly owned subsidiary of the Purchaser in the ordinary course of business, provided that the Purchaser informs that Person that the information is confidential and directs it to maintain the confidentiality, (iii) to a prospective purchaser of Shares from the Purchaser that agrees to be bound by this Section 5.3, or (iv) as required by law, regulation, court order or subpoena, provided that the Purchaser promptly notifies the Company and takes reasonable steps to minimize the disclosure. The Company is not required to deliver information under Section 5.1 or 5.2 to any Purchaser that the Board reasonably determines is a competitor of the Company, or an officer, director, employee or holder of 10% or more of the equity of a competitor, other than a venture capital fund or similar investor that holds a passive interest in a competitor.
+
+5.4 **Participation Right.**[^10]
+
+(a) If the Company proposes to offer or sell any New Securities, the Company shall first offer each Major Purchaser the right to purchase up to its Pro Rata Share of the New Securities on the terms described in this Section 5.4, subject to applicable securities laws and provided that the Company is not obligated to offer New Securities to any Major Purchaser that cannot demonstrate to the Company's reasonable satisfaction that it is an "accredited investor" at the time of the offer or that is a Sanctioned Party. A Major Purchaser may apportion its Pro Rata Share among itself and its Affiliates.
+
+(b) "**New Securities**" means any equity securities of the Company, whether or not currently authorized, and any rights, options or warrants to purchase equity securities, and any securities of any type that are, or may become, convertible into or exchangeable or exercisable for equity securities, other than (i) Exempted Securities (as defined in the Restated Certificate), (ii) shares of Common Stock issued in a firm-commitment underwritten public offering, and (iii) Shares issued under this Agreement. A Major Purchaser's "**Pro Rata Share**" is the ratio of (x) the number of shares of Common Stock held by the Major Purchaser and its Affiliates (including all shares of Common Stock issuable upon conversion or exercise of Preferred Stock and other convertible or exercisable securities held by them) to (y) the total number of shares of Common Stock then outstanding, assuming full conversion and exercise of all outstanding Preferred Stock and other convertible and exercisable securities.
+
+(c) The Company shall give each Major Purchaser notice (the "**Offer Notice**") stating its bona fide intention to offer New Securities, the number of New Securities to be offered, and the price and terms on which it proposes to offer them. Each Major Purchaser may elect, by notice to the Company within 15 days after the Offer Notice is given, to purchase up to its Pro Rata Share of the New Securities at the price and on the terms specified in the Offer Notice. The Company shall promptly notify each Major Purchaser that elects to purchase its full Pro Rata Share (a "**Fully Exercising Purchaser**") of any other Major Purchaser's failure to do so, and each Fully Exercising Purchaser may elect, by notice to the Company within 5 days after that notice, to purchase its proportionate share (based on the Pro Rata Shares of all Fully Exercising Purchasers that elect to participate) of the New Securities not purchased by the other Major Purchasers.
+
+(d) The Company may, during the 90 days following the expiration of the periods in Section 5.4(c), offer and sell the New Securities not purchased by the Major Purchasers to any Person at a price not less than, and on terms no more favorable to the purchaser than, those specified in the Offer Notice. If the Company does not enter into an agreement for the sale of the New Securities within that period, or if that agreement is not consummated within 30 days after it is signed, the right provided in this Section 5.4 is revived and the Company shall not offer the New Securities without first reoffering them to the Major Purchasers under this Section 5.4. The closing of any purchase by a Major Purchaser under this Section 5.4 will occur concurrently with, and on the same terms as, the sale of the New Securities to the other purchasers.
+
+5.5 **Next Financing; Most Favored Nation.**[^11]
+
+(a) **Definitions.** The "**Next Financing**" means the first equity financing after the Agreement Date in which the Company issues a new class or series of Preferred Stock for capital-raising purposes (the "**Next Financing Preferred**"). The "**Next Financing Documents**" means the Restated Certificate as amended in the Next Financing and the investors' rights, voting, right of first refusal and co-sale, and other agreements, if any, signed by the investors in the Next Financing. "**Economic Terms**" means, as to any class or series of Preferred Stock, its original issue price, conversion price and conversion ratio, liquidation preference amount and seniority, whether and to what extent its liquidation preference is participating, the form of any price-based anti-dilution protection, dividend rate and whether dividends are cumulative, any pay-to-play provision, redemption price, and any other term expressed as or derived from a price, valuation or dollar amount.
+
+(b) **Rights Granted to All Investors.** If the Next Financing Documents grant rights to all purchasers of the Next Financing Preferred that are not granted to the Purchasers under this Agreement (including registration rights, rights of first refusal and co-sale with respect to transfers by Key Holders, information rights and participation rights, in each case to the extent not conditioned on an ownership or investment threshold), the Company shall grant each Purchaser the same rights, on the same terms, with respect to its Shares, by including the Purchasers as parties to the Next Financing Documents or by amending this Agreement.
+
+(c) **Threshold-Based Rights.** If any right under the Next Financing Documents is available only to holders that meet a share-ownership or investment-amount threshold (including rights granted to "Major Investors" or similarly defined holders), that right is available to a Purchaser only if the Purchaser meets the applicable threshold, but for that purpose (i) the Shares held by the Purchaser and its Affiliates count toward any share-based threshold on an as-converted basis, and (ii) the aggregate Purchase Price paid for the Shares held by the Purchaser and its Affiliates counts toward any dollar-based threshold. A Purchaser's status as a Major Purchaser under this Agreement does not by itself entitle it to any threshold-based right under the Next Financing Documents.
+
+(d) **Charter Rights.** If the powers, preferences and special rights of the Next Financing Preferred under the Restated Certificate, other than its Economic Terms, are more favorable than those of the Series Seed Preferred Stock, the Company shall amend the Restated Certificate in the Next Financing so that the Series Seed Preferred Stock has substantially equivalent powers, preferences and special rights, adjusted to reflect its own Economic Terms. For this purpose, (i) the Series Seed Preferred Stock will exercise any approval or consent right of the Preferred Stock together with the Next Financing Preferred (and any other Preferred Stock) voting as a single class on an as-converted basis, and (ii) a separate class or series vote of the Next Financing Preferred, or a right to elect directors as a separate series, is not a right to which the Series Seed Preferred Stock is entitled under this Section 5.5.
+
+(e) **Exclusions.** This Section 5.5 does not entitle any Purchaser to (i) the Economic Terms of the Next Financing Preferred; (ii) any right granted to an investor by name or under a side letter or similar agreement, including the right to designate a director or board observer, a management rights letter, or an investor-specific consent, information or participation right; or (iii) any right that terminated or was waived under this Agreement before the Next Financing.
+
+(f) **Mechanics.** Each Purchaser shall sign the Next Financing Documents to the extent necessary to receive the rights described in this Section 5.5. The Company shall pay the reasonable fees and expenses, not to exceed $5,000 in the aggregate, of one counsel for the Purchasers in connection with their review of the Next Financing Documents. Upon the closing of the Next Financing, if the Next Financing Documents have been signed by the Company, the Requisite Purchasers and Qualified Key Holders holding a majority of the shares of Common Stock then held by all Qualified Key Holders, this Agreement (other than Section 2.6, Article 3, Article 4, Section 5.3, Section 6.3 and Article 8, and any obligations then accrued) terminates and is superseded by the Next Financing Documents, notwithstanding Section 8.9(a) and (b).
+
+5.6 **Qualified Small Business Stock.** The Company shall use commercially reasonable efforts to refrain from taking any action that would reasonably be expected to cause the Shares to fail to qualify as "qualified small business stock" within the meaning of Section 1202(c) of the Code, unless the Board determines in good faith that the action is in the best interests of the Company. The Company shall submit to the Purchasers and the Internal Revenue Service any reports required under Section 1202(d)(1)(C) of the Code, and, within 20 business days after a Purchaser's written request, shall deliver to the Purchaser a written statement as to whether, to the Company's knowledge, the Purchaser's Shares constitute qualified small business stock. The Company is not liable to any Purchaser for any error in that statement unless made in bad faith or with gross negligence.
+
+5.7 **Employee Agreements and Vesting.** Unless otherwise approved by the Board, the Company shall cause each Person employed or engaged by it with access to confidential information or trade secrets to sign an agreement regarding confidentiality and assignment of inventions substantially in the form made available to the Purchasers, and shall grant equity to employees, consultants and directors only on terms providing for vesting over not less than four years with a one-year cliff (or, for consultants and directors, monthly vesting over not less than [two] years) and a right of first refusal in favor of the Company.
+
+5.8 **Termination of Investor Rights.** The covenants in Sections 5.1, 5.2, 5.4, 5.6 and 5.7 terminate upon the earlier of (a) the closing of the Company's first firm-commitment underwritten public offering of Common Stock under an effective registration statement under the Securities Act (the "**IPO**"), and (b) the closing of a Deemed Liquidation Event (as defined in the Restated Certificate). In addition, the covenants in Sections 5.1 and 5.2 do not apply to any Purchaser for so long as it is a Sanctioned Party.
+
+## Article 6
+## RESTRICTIONS ON TRANSFER
+
+6.1 **Securities Law Restrictions.** No Stockholder shall transfer any Shares or any other shares of the Company's capital stock held by it (the "**Securities**") unless (a) a registration statement under the Securities Act covering the transfer is in effect and the transfer is made in accordance with it, or (b) the Stockholder has notified the Company of the proposed transfer and, if the Company reasonably requests, has furnished the Company, at the Stockholder's expense, with an opinion of counsel reasonably satisfactory to the Company that the transfer does not require registration under the Securities Act. No opinion is required for (i) a transfer in compliance with Rule 144 under the Securities Act, (ii) a transfer by a Stockholder that is an entity to its Affiliates, partners, members or stockholders, or (iii) a transfer by a Stockholder that is an individual, without consideration, to the Stockholder's spouse or lineal descendants or ancestors, or to a trust for the benefit of any of them, for bona fide estate planning purposes; provided that in each case the transferee agrees in writing to be bound by this Agreement to the same extent as the transferor.
+
+6.2 **Key Holder Transfers; Right of First Refusal.**[^12]
+
+(a) **Grant.** Each Key Holder grants to the Company, and then to the Major Purchasers, a right of first refusal to purchase all or any portion of the Transfer Stock that the Key Holder proposes to transfer, at the same price and on the same terms as those offered to the proposed transferee. "**Transfer Stock**" means all shares of capital stock of the Company held by a Key Holder, including shares acquired after the Agreement Date, but excluding any shares of Preferred Stock or Common Stock issued on conversion of Preferred Stock. To the extent any other agreement between the Company and a Key Holder contains a right of first refusal in favor of the Company, this Section 6.2 controls and compliance with it satisfies that other right.
+
+(b) **Notice.** A Key Holder proposing to transfer Transfer Stock shall deliver to the Company and each Major Purchaser a written notice (the "**Transfer Notice**") describing the Transfer Stock to be transferred, the identity of the proposed transferee, the price and form of consideration, and the other material terms of the proposed transfer, at least 45 days before the proposed transfer.
+
+(c) **Company Right.** The Company may elect, by notice to the Key Holder and the Major Purchasers within 15 days after delivery of the Transfer Notice, to purchase all or any portion of the Transfer Stock on the terms set forth in the Transfer Notice.
+
+(d) **Major Purchaser Right.** If the Company does not elect to purchase all of the Transfer Stock, each Major Purchaser may elect, by notice to the Key Holder and the Company within 10 days after the Company's election period expires, to purchase up to its proportionate share of the Transfer Stock not purchased by the Company (based on the number of shares of Common Stock, on an as-converted basis, held by the Major Purchaser relative to all Major Purchasers), on the terms set forth in the Transfer Notice. A Major Purchaser that elects to purchase its full proportionate share may also elect, in the same notice, to purchase any Transfer Stock not purchased by other Major Purchasers, which will be allocated among the fully participating Major Purchasers in proportion to their holdings.
+
+(e) **Closing; Sale to Transferee.** If the Company or the Major Purchasers elect to purchase Transfer Stock, the purchase will close within 45 days after delivery of the Transfer Notice, and if the consideration proposed in the Transfer Notice is not cash, the Company or the purchasing Major Purchasers may pay the cash equivalent as determined in good faith by the Board. If the Company and the Major Purchasers, collectively, do not elect to purchase all of the Transfer Stock, their elections are deemed withdrawn, and the Key Holder may transfer all, but not less than all, of the Transfer Stock to the proposed transferee on terms no more favorable to the transferee than those in the Transfer Notice, within 60 days after delivery of the Transfer Notice, provided that the transferee agrees in writing to be bound by this Agreement as a Key Holder with respect to the shares transferred. Any Transfer Stock not transferred within that period is again subject to this Section 6.2.
+
+(f) **Exempt Transfers.** This Section 6.2 does not apply to (i) a transfer by a Key Holder that is an individual, without consideration, to the Key Holder's spouse or lineal descendants or ancestors, or to a trust or other entity wholly owned by or for the benefit of the Key Holder or any of them, for bona fide estate planning purposes; (ii) a transfer by a Key Holder that is an entity to its equity holders without consideration; (iii) a repurchase of Transfer Stock by the Company from a Key Holder at no more than the price originally paid under an agreement containing vesting or repurchase provisions approved by the Board; (iv) a transfer in connection with a Deemed Liquidation Event or the IPO; or (v) a transfer approved by the Board and the Requisite Purchasers; provided that in the case of clauses (i) and (ii) the transferee agrees in writing to be bound by this Agreement as a Key Holder with respect to the shares transferred.
+
+6.3 **Market Stand-Off.** In connection with the IPO, each Stockholder shall not, without the prior written consent of the managing underwriter, sell, offer to sell, pledge, lend or otherwise transfer or dispose of (or enter into any swap or other arrangement that transfers the economic consequences of ownership of) any Securities for the period, not to exceed 180 days after the date of the final prospectus, requested by the Company and the managing underwriter, provided that all officers and directors of the Company and all holders of more than 1% of the Company's outstanding capital stock are subject to the same restrictions. Each Stockholder shall sign any customary lock-up agreement reasonably requested by the underwriters consistent with this Section 6.3, and the Company may impose stop-transfer instructions to enforce it.
+
+6.4 **Legends.** Each certificate, instrument or book entry representing Securities will be notated with the legend in Section 4.6 and with a legend substantially as follows: "THE SECURITIES REPRESENTED HEREBY ARE SUBJECT TO AN INVESTMENT AGREEMENT, AS MAY BE AMENDED FROM TIME TO TIME (A COPY OF WHICH MAY BE OBTAINED FROM THE COMPANY), WHICH INCLUDES VOTING OBLIGATIONS, A RIGHT OF FIRST REFUSAL, A DRAG-ALONG OBLIGATION AND OTHER RESTRICTIONS ON TRANSFER. BY ACCEPTING ANY INTEREST IN THESE SECURITIES, THE PERSON ACCEPTING THAT INTEREST AGREES TO BE BOUND BY THAT AGREEMENT." The Company shall remove the legend in Section 4.6 upon request of a holder if the Securities are registered or may be sold without restriction under Rule 144, and shall remove the legend in this Section 6.4 upon termination of this Agreement.
+
+6.5 **Transfers Void; Transferees Bound.** Any transfer of Securities not made in compliance with this Agreement is void, will not be recorded on the books of the Company, and will not be recognized by the Company. Each transferee of Securities, as a condition to the Company's recognition of the transfer, shall agree in writing to be bound by this Agreement in the same capacity as the transferor, and the Company shall update **Exhibit A** accordingly.
+
+## Article 7
+## VOTING; BOARD OF DIRECTORS; DRAG-ALONG
+
+7.1 **Board Size.** Each Stockholder shall vote, or cause to be voted, all shares of the Company's capital stock entitled to vote in the election of directors that are owned by the Stockholder or over which the Stockholder has voting control (the "**Voting Shares**"), from time to time and at all times, in whatever manner is necessary to ensure that the authorized size of the Board is the total number of directors set forth in the Board Composition.
+
+7.2 **Board Composition.** Each Stockholder shall vote, or cause to be voted, all Voting Shares, from time to time and at all times, in whatever manner is necessary to ensure that at each annual or special meeting of stockholders at which directors are elected, or in any written consent of stockholders, the following persons are elected to the Board:
+
+(a) as the Common Director(s) under the Restated Certificate, the number of individuals equal to the number of Common Designees in the Board Composition (the "**Common Designees**"), designated from time to time in a writing delivered to the Company by Qualified Key Holders holding a majority of the shares of Common Stock then held by all Qualified Key Holders. A "**Qualified Key Holder**" is a Key Holder that (i) if an individual, is then providing services to the Company as an employee or consultant (other than solely as a member of the Board), or (ii) if an entity, is owned or controlled by an individual who is then providing those services;
+
+(b) as the Series Seed Director(s) under the Restated Certificate, the number of individuals equal to the number of Series Seed Designees in the Board Composition (the "**Series Seed Designees**"), designated from time to time in a writing delivered to the Company by the Requisite Purchasers; and
+
+(c) as the At-Large Director(s) under the Restated Certificate, the number of individuals equal to the number of Mutual Designees in the Board Composition (the "**Mutual Designees**" and, together with the Common Designees and the Series Seed Designees, the "**Board Designees**"), each of whom is not an employee or officer of the Company, a Key Holder, or an Affiliate of any Purchaser or Key Holder (service as a director of the Company does not by itself make a person an Affiliate of the Company), and who is designated from time to time in a writing delivered to the Company and signed by both the Requisite Purchasers and Qualified Key Holders holding a majority of the shares of Common Stock then held by all Qualified Key Holders.
+
+If the Persons entitled to designate a Board Designee have not done so, or if a designation would cause the Company to violate applicable sanctions laws, the seat will be filled by vote of the stockholders entitled to elect that director under the Restated Certificate. The right to designate a Board Designee is personal to the Persons described in this Section 7.2 and is not transferable to any transferee of shares except by an amendment under Section 8.9.
+
+7.3 **Removal and Vacancies.** Each Stockholder shall vote, or cause to be voted, all Voting Shares in whatever manner is necessary to ensure that (a) a Board Designee is removed from the Board promptly upon the written request of the Persons entitled to designate that Board Designee, or if the Board Designee or the Person entitled to designate him or her becomes a Sanctioned Party; (b) no Board Designee is removed from the Board, other than for cause, except in accordance with clause (a); and (c) any vacancy in a Board Designee's seat is filled only by a Person designated in accordance with Section 7.2. The Company shall call a special meeting of stockholders, or circulate a written consent, to elect, remove or replace a director promptly upon the written request of any Person entitled to designate that director.
+
+7.4 **Vote to Increase Authorized Common Stock.** Each Stockholder shall vote, or cause to be voted, all Voting Shares in whatever manner is necessary to increase the number of authorized shares of Common Stock from time to time to ensure that there are sufficient shares of Common Stock available for conversion of all outstanding Preferred Stock.
+
+7.5 **Drag-Along.**[^13]
+
+(a) **Approval.** If a Sale of the Company is approved by (i) the Requisite Purchasers, (ii) Qualified Key Holders holding a majority of the shares of Common Stock then held by all Qualified Key Holders, and (iii) the Board (the approvals in clauses (i) and (ii) to be in writing and to specify that this Section 7.5 applies to the transaction), then, subject to the conditions in Section 7.6, each Stockholder shall (A) if the transaction requires stockholder approval, vote all Voting Shares in favor of, and adopt, the Sale of the Company and any related amendment of the Restated Certificate, and against any proposal that could reasonably be expected to delay or impair it; (B) if the transaction is a Stock Sale, sell the same proportion of its shares of capital stock as is being sold, in the aggregate, by the holders of Preferred Stock that approved the Sale of the Company under clause (i), to the same Person and on the same terms, subject to Section 7.6; (C) sign and deliver all related documentation and take any other action in support of the Sale of the Company that the Company or the Requisite Purchasers reasonably request, including instruments of conveyance and transfer, purchase and merger agreements, indemnity, escrow and release agreements in customary form, consents, waivers, governmental filings and certificates duly endorsed for transfer, free and clear of liens; (D) refrain from exercising any dissenters' or appraisal rights under applicable law and from asserting any claim challenging the Sale of the Company or this Agreement; and (E) consent to the appointment of a stockholder representative and the establishment of any escrow or expense fund approved by the Requisite Purchasers in connection with the Sale of the Company. A "**Sale of the Company**" means (x) a transaction or series of related transactions in which a Person or group of related Persons acquires from stockholders of the Company shares representing more than 50% of the outstanding voting power of the Company (a "**Stock Sale**"), or (y) a Deemed Liquidation Event.
+
+(b) **Restriction on Stock Sales.** No Stockholder shall be a party to any Stock Sale unless all holders of Preferred Stock are allowed to participate in it and the consideration received is allocated among the participating holders in the manner specified in the Restated Certificate as if the Stock Sale were a Deemed Liquidation Event, unless the Requisite Purchasers elect otherwise by notice to the Company at least 10 days before the Stock Sale.
+
+7.6 **Conditions to Drag-Along.** A Stockholder is not required to comply with Section 7.5 in connection with a proposed Sale of the Company (the "**Proposed Sale**") unless:
+
+(a) any representations and warranties to be made by the Stockholder in connection with the Proposed Sale are made severally and not jointly and are limited to representations and warranties regarding authority, ownership and the ability to convey title to its shares, including that (i) the Stockholder holds all right, title and interest in and to the shares it purports to hold, free and clear of all liens and encumbrances, (ii) the Stockholder's obligations in connection with the transaction have been duly authorized, if applicable, (iii) the documents to be signed by the Stockholder have been duly signed and delivered and are enforceable (subject to customary limitations) against the Stockholder in accordance with their terms, and (iv) neither the signing and delivery of those documents nor the performance of the Stockholder's obligations under them will breach any agreement to which the Stockholder is a party or any law or order applicable to the Stockholder;
+
+(b) the Stockholder is not required to agree (unless the Stockholder is an officer, director or employee of the Company) to any restrictive covenant in connection with the Proposed Sale, including any covenant not to compete or not to solicit customers, employees or suppliers, or to any release of claims other than a release in customary form of claims arising solely in its capacity as a stockholder;
+
+(c) the Stockholder is not liable for the breach of any representation, warranty or covenant made by any other Person in connection with the Proposed Sale, other than the Company, except to the extent that funds may be paid out of an escrow established to cover breaches of representations, warranties and covenants of the Company or of identical representations, warranties and covenants made by all stockholders;
+
+(d) the Stockholder's liability is limited to its applicable share (determined based on the proceeds payable to each stockholder in the Proposed Sale in accordance with the Restated Certificate) of a negotiated aggregate indemnification amount that applies equally to all stockholders and that in no event exceeds the consideration payable to the Stockholder in the Proposed Sale, except with respect to claims related to fraud by the Stockholder; and
+
+(e) upon consummation of the Proposed Sale, (i) each holder of each class or series of the Company's capital stock receives the same form of consideration for its shares of that class or series as is received by the other holders of that class or series, (ii) each holder of a series of Preferred Stock receives the same amount of consideration per share of that series as the other holders of that series, (iii) each holder of Common Stock receives the same amount of consideration per share of Common Stock as the other holders of Common Stock, and (iv) unless waived under the Restated Certificate, the aggregate consideration receivable by all holders of Preferred Stock and Common Stock is allocated among them on the basis of the relative liquidation preferences to which they are entitled in a Deemed Liquidation Event under the Restated Certificate in effect immediately before the Proposed Sale (assuming for this purpose that the Proposed Sale is a Deemed Liquidation Event).
+
+7.7 **Irrevocable Proxy and Power of Attorney.** Each Stockholder constitutes and appoints the then-current Chief Executive Officer of the Company and a designee of the Requisite Purchasers (each, a "**Proxyholder**"), and each of them, with full power of substitution, as the Stockholder's proxy and attorney-in-fact, to vote all Voting Shares and to sign and deliver any documentation required by this Agreement on the Stockholder's behalf with respect to the matters in Sections 7.1 through 7.5, if and only if the Stockholder (a) fails to vote or sign within five business days after the Company's request, (b) is prohibited from voting under applicable sanctions or other laws, or (c) attempts to vote or act in a manner inconsistent with this Agreement. The proxy and power of attorney granted under this Section 7.7 are given in consideration of the agreements of the parties in connection with the transactions contemplated by this Agreement, are coupled with an interest, and are irrevocable until this Agreement terminates. Each Stockholder revokes any prior proxy or power of attorney with respect to the Voting Shares and shall not grant any other proxy, deposit any Voting Shares in a voting trust, or enter into any other voting arrangement with respect to the matters in this Article 7 while this Agreement is in effect.
+
+7.8 **Specific Enforcement.** Each party acknowledges that the other parties would be irreparably damaged if this Article 7 or Article 6 were not performed in accordance with its terms, and agrees that each of the Company and the Stockholders is entitled to an injunction to prevent breaches of those Articles and to specific enforcement of them, in addition to any other remedy to which it is entitled, without the posting of a bond. Each party shall cooperate in seeking an expedited schedule in any litigation seeking an injunction or order of specific performance.
+
+7.9 **"Bad Actor" Matters.** Each Person with the right to designate or participate in the designation of a Board Designee represents that, to that Person's knowledge, no Disqualification Event is applicable to that Person, any Board Designee it has designated (who, as of the Agreement Date, is identified under "Initial Board Designees" on **Exhibit A**), or any beneficial owner of that Person's securities for purposes of Rule 506(d) under the Securities Act, except for a Disqualification Event as to which Rule 506(d)(2)(ii) or (iii) or (d)(3) applies, and covenants not to designate any individual who, to its knowledge, is subject to such a Disqualification Event, to notify the Company promptly if one becomes applicable, and to remove and replace any Board Designee who becomes subject to one.
+
+7.10 **Additional Stockholders.** If after the Agreement Date the Company issues shares of capital stock (or options or warrants to purchase capital stock) to any Person who, after the issuance, would hold 1% or more of the Company's outstanding capital stock (treating all outstanding options, warrants and convertible securities as exercised or converted), the Company shall cause that Person, as a condition to the issuance, to become a party to this Agreement as a Stockholder by signing a counterpart signature page or adoption agreement, and the Company shall update **Exhibit A** accordingly. A Person who becomes a party under this Section 7.10 is a Key Holder only if the Company so designates in the adoption agreement.
+
+7.11 **No Liability for Election of Designees.** No Stockholder, and no Affiliate of any Stockholder, has any liability as a result of designating a person for election as a director, voting for a person so designated, or any act or omission of that person in his or her capacity as a director.
+
+## Article 8
+## GENERAL PROVISIONS
+
+8.1 **Survival.** The representations and warranties of the Company and the Purchasers in this Agreement survive the execution and delivery of this Agreement and each Closing and are not affected by any investigation made by or on behalf of the Purchasers or the Company.
+
+8.2 **Successors and Assigns.** This Agreement binds and benefits the parties and their respective successors and permitted assigns. A Purchaser may assign its rights under this Agreement, together with the related obligations, to a transferee of Shares that (a) is an Affiliate of the Purchaser, (b) is a member of the Purchaser's immediate family or a trust for the benefit of the Purchaser or members of the Purchaser's immediate family, or (c) after the transfer, holds (together with its Affiliates) Shares with an aggregate Purchase Price of at least the Major Purchaser Threshold, provided that in each case the transferee is not a Sanctioned Party and agrees in writing to be bound by this Agreement; except that the right to designate a Board Designee may be transferred only as provided in Section 7.2. Nothing in this Agreement, express or implied, confers on any Person other than the parties and their successors and permitted assigns any right, remedy or obligation under or by reason of this Agreement.
+
+8.3 **Governing Law.** This Agreement is governed by the internal law of the State of Delaware, without regard to conflict of law principles that would result in the application of any law other than the law of the State of Delaware.
+
+8.4 **Counterparts; Electronic Signatures.** This Agreement may be signed in two or more counterparts, each of which is deemed an original and all of which together constitute one instrument. Counterparts may be delivered by electronic mail (including PDF or any electronic signature complying with the U.S. ESIGN Act of 2000) or other transmission method, and any counterpart so delivered is deemed duly and validly delivered and is valid and effective for all purposes.
+
+8.5 **Titles and Subtitles.** The titles and subtitles used in this Agreement are for convenience only and are not to be considered in construing or interpreting this Agreement. References to Sections, Articles and Exhibits are to sections, articles and exhibits of this Agreement unless otherwise stated.
+
+8.6 **Notices.** All notices and other communications under this Agreement must be in writing and are deemed given upon the earlier of actual receipt and (a) personal delivery to the party to be notified, (b) when sent by electronic mail during the recipient's normal business hours, or if sent outside those hours, on the recipient's next business day, (c) five days after being sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt. Notices must be sent to the parties at their addresses or electronic mail addresses set forth on **Exhibit A** or the signature pages, or at such other address as a party designates by notice given in accordance with this Section 8.6. A copy of any notice to the Company (which does not itself constitute notice) must also be sent to Company Counsel. Each Stockholder consents to receive any notice under the Delaware General Corporation Law by electronic mail at the address set forth on **Exhibit A**, as updated from time to time by notice to the Company.
+
+8.7 **No Finder's Fees.** Each party represents to the other parties that it is not and will not be obligated for any finder's fee or commission in connection with this transaction, and shall indemnify and hold harmless the other parties from any such fee or commission for which it or its officers, employees or representatives is responsible.
+
+8.8 **Fees and Expenses.** Each party shall pay its own costs and expenses in connection with the negotiation, execution, delivery and performance of this Agreement, except that the Company shall, at the Initial Closing, reimburse the reasonable fees and expenses of one counsel for the Purchasers in an amount not to exceed the Purchaser Counsel Expense Cap.
+
+8.9 **Amendments and Waivers.** Any term of this Agreement may be amended, terminated or waived (either generally or in a particular instance, and either retroactively or prospectively) only with the written consent of the Company and the Requisite Purchasers; except that (a) Sections 7.2(a), 7.2(c) and 7.5(a)(ii), and any other provision of this Agreement that would be amended, terminated or waived in a manner that adversely affects the Key Holders disproportionately to the Purchasers, may be amended, terminated or waived only with the additional written consent of Qualified Key Holders holding a majority of the shares of Common Stock then held by all Qualified Key Holders; (b) no amendment, termination or waiver that applies to a Purchaser in a manner adversely different from the other Purchasers is effective against that Purchaser without its written consent; (c) any provision may be waived by the party entitled to its benefit on that party's own behalf; and (d) the Company may update **Exhibit A** without the consent of any other party to reflect Additional Closings, transfers and joinders made in accordance with this Agreement. An amendment, termination or waiver effected in accordance with this Section 8.9 binds each party and each of its successors and permitted assigns, whether or not that party consented to it, and the Company shall give prompt notice of it to each party that did not consent. The signing by the Company and the Requisite Purchasers of Next Financing Documents in accordance with Section 5.5 is an amendment of this Agreement for purposes of this Section 8.9.
+
+8.10 **Severability.** If any provision of this Agreement is held to be invalid, illegal or unenforceable, that holding does not affect the validity, legality or enforceability of any other provision, and the invalid provision will be reformed and construed so that it is valid, legal and enforceable to the maximum extent permitted by law.
+
+8.11 **Delays or Omissions.** No delay or omission in exercising any right, power or remedy under this Agreement impairs that right, power or remedy or operates as a waiver of any breach or default, and any waiver must be in writing and is effective only to the extent specifically set forth in it.
+
+8.12 **Entire Agreement.** This Agreement (including its Exhibits) together with the Restated Certificate constitutes the full and entire understanding and agreement among the parties with respect to its subject matter, and any other written or oral agreement relating to that subject matter existing between or among any of the parties is expressly canceled.
+
+8.13 **Dispute Resolution; Jury Waiver.** Each party irrevocably and unconditionally submits to the exclusive jurisdiction of the Court of Chancery of the State of Delaware (or, if that court lacks subject matter jurisdiction, the Superior Court of the State of Delaware or the United States District Court for the District of Delaware) for any suit, action or proceeding arising out of or based upon this Agreement, agrees not to commence any such suit, action or proceeding except in those courts, and waives any claim that it is not subject to the jurisdiction of those courts, that the venue is improper, or that the forum is inconvenient. EACH PARTY WAIVES ITS RIGHT TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS AGREEMENT, THE SHARES OR THE SUBJECT MATTER OF THIS AGREEMENT. In any action to enforce or interpret this Agreement, the prevailing party is entitled to reasonable attorneys' fees, costs and necessary disbursements in addition to any other relief to which it is entitled.
+
+8.14 **Aggregation of Stock.** All Shares and other securities held or acquired by a Purchaser and its Affiliates are aggregated for the purpose of determining the availability of any right under this Agreement, and those Affiliates may apportion the right among themselves in any manner they choose.
+
+8.15 **Termination.** Unless terminated earlier under Section 5.5(f), this Agreement terminates, and the rights and obligations under Articles 5, 6 and 7 cease, upon the earlier of (a) the closing of the IPO and (b) the closing of a Deemed Liquidation Event (except that Sections 7.5 through 7.8 continue after the closing of a Sale of the Company to the extent necessary to enforce them with respect to that Sale of the Company). Section 2.6, Article 3, Article 4, Section 5.3, Section 6.3 and this Article 8 survive any termination of this Agreement.
+
+8.16 **Further Assurances.** Each party shall, at the request of another party, sign and deliver any further instruments and take any further action reasonably requested to carry out the intent of this Agreement.
+
+8.17 **Stock Splits and Recapitalizations.** Any shares of capital stock of the Company issued to a Stockholder after the Agreement Date, including in a stock split, stock dividend, recapitalization or reorganization, are subject to this Agreement.
+
+> [*Signature pages follow*]
+
+The parties are signing this Agreement on the Agreement Date, or, in the case of a New Purchaser, on the date of the applicable Additional Closing.
+
+**COMPANY:**
+
+[COMPANY NAME]
+
+By: ______________________________
+Name:
+Title:
+Address:
+Email:
+
+**PURCHASER:**
+
+[PURCHASER NAME]
+
+By: ______________________________
+Name:
+Title:
+Address:
+Email:
+
+*[For a Purchaser that is an individual, delete the "By," "Name" and "Title" lines.]*
+
+**KEY HOLDER:**
+
+______________________________
+[KEY HOLDER NAME]
+Address:
+Email:
+
 # EXHIBIT A
--------------------------
+# SCHEDULE OF PURCHASERS AND KEY HOLDERS
 
-## DEFINITIONS
+**Purchasers**[^14]
 
-### 1. OVERVIEW DEFINITIONS.
+| Purchaser (name, address, email, closing date) | Cash Purchase Price | Convertible Securities (type, principal or purchase amount, accrued interest) | Conversion price per share | Convertible Security Shares [and series] | Shares purchased for cash | Total Shares | Foreign person (Y/N) |
+|---|---|---|---|---|---|---|---|
+| | $ | | $ | | | | |
+| | $ | | $ | | | | |
+| **Total** | $ | | | | | | |
 
-“Agreement Date” means *____________________________________________.*
+**Key Holders**
 
-“Company” means *___________________________________________________.*
+| Key Holder (name, address, email) | Shares of Common Stock held | Options held |
+|---|---|---|
+| | | |
+| | | |
 
-“Governing Law” means the laws of the state of *____________________.*
+**Initial Board Designees**
 
-“Dispute Resolution Jurisdiction” means the federal or state courts located in *________________.*
+| Seat | Designee | Designated by |
+|---|---|---|
+| Common Designee[s] | | Qualified Key Holders |
+| Series Seed Designee[s] | | Requisite Purchasers |
+| Mutual Designee[s] | | Requisite Purchasers and Qualified Key Holders |
 
-“State of Incorporation” means *____________________________________.*
-
-“Stock Plan” means *________________________________________________.*
-
-“**Restricted Person**” means any person that is (a) designated on the list of Specially Designated Nationals and Blocked Persons maintained by the Office of Foreign Assets Control of the U.S. Department of the Treasury, (b) otherwise subject to sanctions administered by the Office of Foreign Assets Control, or (c) owned or controlled by any such person.
-
-### 2. BOARD COMPOSITION DEFINITIONS.
-
-“Common Board Member Count” means *______.*
-
-“Mutual Consent Board Member Count” means *______.*
-
-“Series Seed Board Member Count” means *______.*
-
-“Common Control Holders” means the Key Holders *[who are then providing services to the company as employees]* [optional provision in italics].
-
-### 3. TERM SHEET DEFINITIONS.
-
-“Major Purchaser Dollar Threshold” means *$____________.*
-
-“Purchase Price” means *$____________* per share (subject to any discounts applicable where all or a portion of such Purchase Price is being paid by cancellation of indebtedness of the Company to such Purchaser).
-
-“Total Series Seed Investment Amount” means *$____________.*
-
-“Unallocated Post-Money Option Pool Percent” means *____________*%.
-
-“Purchaser Counsel Reimbursement Amount” means *$____________.*
-
-#### 4. RESULTING CAP TABLE DEFINITIONS.
-
-“Common Shares Issued and Outstanding Pre-Money” means *____________.*
-
-“Total Post-Money Shares Reserved for Option Pool” means *____________.* 
-
-“Number of Issued And Outstanding Options” means *____________.*
-
-“Unallocated Post-Money Option Pool Shares” means *____________.* 
-  
-# SCHEDULE 1
-
-# SCHEDULE OF PURCHASERS & KEY HOLDERS
-
-## PURCHASERS:
-
-Name, Address and E-Mail of Purchaser / Series Seed Preferred Stock Shares Purchased / Indebtedness Cancellation / Cash Payment / Total Purchase Amount
-  							
-1:
-
-2:
-
-3:
-
-4:
-
-5:
-
-6:
-
-7:
-
-8:
-
-9:
-
-10:
-
-11:
-
-12:
-
-13:
-
-14:
-
-15:
-
-16:
-
-17:
-
-18:
-
-19:
-
-20:
-
-KEY HOLDERS:
-Name, Address and E-Mail of Key Holder / Shares of Common Stock Held
-	
-1:
-
-2:
-
-3:
-
-4:
-
-5:
-
-6:
-
-7:
-
-8:
-
-9:
-
-10:
-
--------------------------
 # EXHIBIT B
--------------------------
+# FORM OF RESTATED CERTIFICATE
 
-## AGREEMENT TERMS
+> [Attach the Amended and Restated Certificate of Incorporation.]
 
-### 1. PURCHASE AND SALE OF SERIES SEED PREFERRED STOCK.
-
-#### 1.1 Sale and Issuance of Series Seed Preferred Stock.
-
-1.1.1 The Company shall adopt and file the Company's restated organizational documents, as applicable (e.g. certificate of incorporation), in substantially the form of Exhibit C attached to this Agreement (as it may be amended, restated, supplemented or otherwise modified from time to time) (the "Restated Charter") with the Secretary of State of the State of Incorporation on or before the Initial Closing.
-
-1.1.2 Subject to the terms of this Agreement, each investor listed as a "Purchaser" on Schedule 1 (each, a "Purchaser") shall purchase at the applicable Closing and the Company agrees to sell and issue to each Purchaser at such Closing that number of shares of Series Seed Preferred Stock of the Company ("Series Seed Preferred Stock") set forth opposite such Purchaser's name on Schedule 1, at a purchase price per share equal to the Purchase Price. 
-
-#### 1.2 Closing; Delivery.
-
-1.2.1 The initial purchase and sale of the shares of Series Seed Preferred Stock under this agreement shall take place remotely via the exchange of documents and signatures on the Agreement Date or the subsequent date on which one or more Purchasers execute counterpart signature pages to this Agreement and deliver the Purchase Price to the Company (which is referred to as the "Initial Closing").
-
-1.2.2 At any time and from time to time during the 90 day period immediately following the Initial Closing (the "Additional Closing Period"), the Company may, at one or more additional closings (each an "Additional Closing" and together with the Initial Closing, each, a "Closing"), without obtaining the signature, consent or permission of any of the Purchasers in the Initial Closing or any prior Additional Closing, offer and sell to other investors (the "New Purchasers"), at a per share purchase price equal to the Purchase Price, up to that number of shares of Series Seed Preferred Stock that is equal to that number of shares of Series Seed Preferred Stock equal to the quotient of (x) Total Series Seed Investment Amount divided by (y) the Purchase Price, rounded up to the next whole share (the "Total Shares Authorized for Sale") less the number of shares of Series Seed Preferred Stock actually issued and sold by the Company at the Initial Closing and any prior Additional Closings.  New Purchasers may include persons or entities who are already Purchasers under this Agreement.  The Company and each of the New Purchasers purchasing shares of Series Seed Preferred Stock at each Additional Closing will execute counterpart signature pages to this Agreement and each New Purchaser will, upon delivery by such New Purchaser and acceptance by the Company of such New Purchaser's signature page and delivery of the Purchase Price by such New Purchaser to the Company, become a party to, and bound by, this Agreement to the same extent as if such New Purchaser had been a Purchaser at the Initial Closing and each such New Purchaser shall be deemed to be a Purchaser for all purposes under this Agreement as of the date of the applicable Additional Closing.
-
-1.2.3 Promptly following each Closing, if required by the Company's governing documents, the Company shall deliver to each Purchaser participating in such Closing a certificate representing the shares of Series Seed Preferred Stock being purchased by such Purchaser at such Closing against payment of the Purchase Price therefor by check payable to the Company, by wire transfer to a bank account designated by the Company, by cancellation or conversion of indebtedness of the Company to Purchaser or by any combination of such methods.
-
-### 2. REPRESENTATIONS AND WARRANTIES OF THE COMPANY.  
-
-The Company hereby represents and warrants to each Purchaser that, except as set forth on the Disclosure Schedule attached as Exhibit D to this Agreement (the "Disclosure Schedule"), if any, which exceptions shall be deemed to be part of the representations and warranties made under this agreement, the following representations are true and complete as of the date of the Agreement Date, except as otherwise indicated.    
-
-#### 2.1 Organization, Good Standing, Corporate Power and Qualification.  
-
-The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Incorporation and has all corporate power and corporate authority required (a) to carry on its business as presently conducted and as presently proposed to be conducted and (b) to sign and perform its obligations under this Agreement.  The Company is duly qualified to transact business as a foreign corporation and is in good standing under the laws of each jurisdiction in which the failure to so qualify or be in good standing would have a material adverse effect on the business, assets (including intangible assets), liabilities, financial condition, property, or results of operations of the Company.
-
-#### 2.2 Capitalization.  
-
-2.2.1 The authorized capital of the Company consists, immediately before the Agreement Date (unless otherwise noted), of the following:
-
-(a) The common stock of the Company (the "Common Stock"), of which:
-
-&emsp;(i) that number of shares of Common Stock equal to the Common Shares Issued and Outstanding Pre-Money are issued and outstanding as of immediately before the Agreement Date;
-
-&emsp;(ii) the number of shares of Common Stock issuable on conversion of shares of the Series Seed Preferred Stock have been reserved for issuance upon conversion of the Series Seed Preferred Stock; and
-
-&emsp;(iii) the Total Post-Money Shares Reserved for Option Pool have been reserved for issuance under the Stock Plan, of which that number of shares of Common Stock equal to the Number of Issued And Outstanding Options are currently subject to outstanding options and that number of shares of Common Stock equal to the Unallocated Post-Money Option Pool Shares remain available for future issuance to officers, directors, employees and consultants under the Stock Plan.
-
-The ratio determined by dividing (x) the Unallocated Post-Money Option Pool Shares by (y) the Fully-Diluted Share Number (as defined below) is equal to the Unallocated Post-Money Option Pool Percent. All of the outstanding shares of Common Stock are duly authorized, validly issued, fully paid and nonassessable and were issued in material compliance with all applicable federal and state securities laws. The Stock Plan has been duly adopted by the Board of Directors of the Company (the "Board") and approved by the Company's stockholders.
-
-For purposes of this Agreement, "Fully-Diluted Share Number" means that number of shares of the Company's capital stock equal to the sum of (i) all shares of the Company's capital stock (on an as-converted basis) issued and outstanding, assuming exercise or conversion of all options, warrants and other convertible securities and (ii) all shares of the Company's capital stock reserved and available for future grant under any equity incentive or similar plan.
-
-(b)	The shares of the preferred stock of the Company (the "Preferred Stock"), all of which is designated as Series Seed Preferred Stock, none of which is issued and outstanding immediately before the Agreement Date.   
-
-2.2.2 There are no outstanding preemptive rights, options, warrants, conversion privileges or rights (including but not limited to rights of first refusal or similar rights), orally or in writing, to purchase or acquire any securities from the Company including, without limitation, any shares of Common Stock, or Preferred Stock, or any securities convertible into or exchangeable or exercisable for shares of Common Stock or Preferred Stock, except for (a) the conversion privileges of the Series Seed Preferred Stock under the terms of the Restated Charter and (b) the securities and rights described in this Agreement.
-
-2.2.3 The Key Holders set forth in Schedule 1 (each a "Key Holder") hold that number of shares of Common Stock set forth opposite each such Key Holder's name in Section 2.2.3 of the Disclosure Schedule (such shares, the "Key Holders' Shares") and such Key Holders' Shares are subject to vesting and/or the Company's repurchase right on the terms specified in Section 2.2.3 of the Disclosure Schedule (the "Key Holders' Vesting Schedules"). Except as specified in Section 2.2.3 of the Disclosure Schedule, the Key Holders do not own or have any other rights to any other securities of the Company. The Key Holders' Vesting Schedules set forth in Section 2.2.3 of the Disclosure Schedule specify for each Key Holder (i) the vesting commencement date for each issuance of shares to or options held by such Key Holder, (ii) the number of shares or options held by such Key Holder that are currently vested, (iii) the number of shares or options held by such Key Holder that remain subject to vesting and/or the Company's repurchase right and (iv) the terms, if any, under which the Key Holders' Vesting Schedules would be accelerated. Other than the Key Holders' Shares, which vest under the applicable Key Holders' Vesting Schedules, (x) all options granted and Common Stock outstanding vest as follows: 25% of the shares vest 1 year following the vesting commencement date, with the remaining 75% vesting in equal installments over the next 3 years and (y) no stock plan, stock purchase, stock option or other agreement or understanding between the Company and any holder of any equity securities or rights to purchase equity securities provides for acceleration or other changes in the vesting provisions or other terms of such agreement or understanding as the result of (i) termination of employment (whether actual or constructive), (ii) any merger, consolidated sale of stock or assets, change in control or any other transaction(s) by the Company, or (iii) the occurrence of any other event or combination of events.  
-
-#### 2.3 Subsidiaries.  
-
-The Company does not currently own or control, directly or indirectly, any interest in any other corporation, partnership, trust, joint venture, limited liability company, association, or other business entity.  The Company is not a participant in any joint venture, partnership or similar arrangement.
-
-#### 2.4 Authorization.  
-
-All corporate action has been taken, or will be taken before the applicable Closing, on the part of the Board and stockholders that is necessary for the authorization, execution and delivery of this Agreement by the Company and the performance by the Company of the obligations to be performed by the Company as of the date of this agreement under this Agreement.  This Agreement, when signed by the Company, shall constitute the valid and legally binding obligation of the Company, enforceable against the Company in accordance with its terms except (a) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, or other laws of general application relating to or affecting the enforcement of creditors' rights generally, or (b) as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies.
-
-#### 2.5 Valid Issuance of Shares.  
-
-The shares of Series Seed Preferred Stock, when issued, sold and delivered in accordance with the terms and for the consideration set forth in this Agreement, will be duly authorized, validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under this Agreement, applicable state and federal securities laws and liens or encumbrances created by or imposed by a Purchaser.  Based in part on the accuracy of the representations of the Purchasers in Section 3 of this Agreement and subject to filings under Regulation D of the Securities Act of 1933, as amended (the "Securities Act"), and applicable state securities laws, the offer, sale and issuance of the shares of Series Seed Preferred Stock to be issued under and in conformity with the terms of this Agreement and the issuance of the Common Stock, if any, to be issued upon conversion of this agreement for no additional consideration and under the Restated Charter, will be issued in compliance with all applicable federal and state securities laws.  The Common Stock issuable upon conversion of the shares of Series Seed Preferred Stock has been duly reserved for issuance, and upon issuance in accordance with the terms of the Restated Charter, will be duly authorized, validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under this Agreement, applicable federal and state securities laws and liens or encumbrances created by or imposed by a Purchaser.  Based in part upon the representations of the Purchasers in Section 3 of this Agreement, and subject to filings under Regulation D of the Securities Act and applicable state securities laws, the Common Stock issuable upon conversion of the shares of Series Seed Preferred Stock will be issued in compliance with all applicable federal and state securities laws.
-
-#### 2.6 Litigation.  
-
-There is no pending action, suit, proceeding, arbitration, mediation, complaint, claim, charge or investigation before any court, arbitrator, mediator or governmental body or, to the Company's knowledge, currently threatened in writing (a) against the Company or (b) against any consultant, officer, director or key employee of the Company arising out of his or her consulting, employment or board relationship with the Company or that could otherwise materially impact the Company.    
-
-#### 2.7 Intellectual Property.  
-
-The Company owns or possesses sufficient legal rights to all Intellectual Property (as defined below) that is necessary to the conduct of the Company's business as now conducted and as presently proposed to be conducted (the "Company Intellectual Property") without any violation or infringement (or in the case of third-party patents, patent applications, trademarks, trademark applications, service marks, or service mark applications, without any violation or infringement known to the Company) of the rights of others.  No product or service marketed or sold (or proposed to be marketed or sold) by the Company violates or will violate any license or infringes or will infringe any rights to any patents, patent applications, trademarks, trademark applications, service marks, trade names, copyrights, trade secrets, licenses, domain names, mask works, information and proprietary rights and processes (collectively, "Intellectual Property") of any other party, except that with respect to third-party patents, patent applications, trademarks, trademark applications, service marks, or service mark applications the foregoing representation is made to the Company's knowledge only.  Other than with respect to commercially available software products under standard end-user object code license agreements, there is no outstanding option, license, agreement, claim, encumbrance or shared ownership interest of any kind relating to the Company Intellectual Property, nor is the Company bound by or a party to any options, licenses or agreements of any kind with respect to the Intellectual Property of any other person. The Company has not received any written communications alleging that the Company has violated or, by conducting its business, would violate any of the Intellectual Property of any other person.
-
-#### 2.8 Employee and Consultant Matters.  
-
-Each current and former employee, consultant and officer of the Company has executed an agreement with the Company regarding confidentiality and proprietary information substantially in the form or forms made available to the Purchasers or delivered to the counsel for the Purchasers.  No current or former employee or consultant has excluded any work or invention from his or her assignment of inventions. To the Company's knowledge, no such employees or consultants is in violation of this agreement.  To the Company's knowledge, none of its employees is obligated under any judgment, decree, contract, covenant or agreement that would materially interfere with such employee's ability to promote the interest of the Company or that would interfere with such employee's ability to promote the interests of the Company or that would conflict with the Company's business. To the Company's knowledge, all individuals who have purchased unvested shares of the Company's Common Stock have timely filed elections under Section 83(b) of the Internal Revenue Code of 1986, as amended.
-
-#### 2.9 Compliance with Other Instruments.  
-
-The Company is not in violation or default (a) of any provisions of the Restated Charter or the Company's bylaws, (b) of any judgment, order, writ or decree of any court or governmental entity, (c) under any agreement, instrument, contract, lease, note, indenture, mortgage or purchase order to which it is a party that is required to be listed on the Disclosure Schedule, or, (d) to its knowledge, of any provision of federal or state statute, rule or regulation materially applicable to the Company.  The execution, delivery and performance of this Agreement and the consummation of the transactions contemplated by this Agreement will not result in any such violation or default, or constitute, with or without the passage of time and giving of notice, either (i) a default under any such judgment, order, writ, decree, agreement, instrument, contract, lease, note, indenture, mortgage or purchase order or (ii) an event which results in the creation of any lien, charge or encumbrance upon any assets of the Company or the suspension, revocation, forfeiture, or nonrenewal of any material permit or license applicable to the Company.
-
-#### 2.10 Title to Property and Assets.  
-
-The Company owns its properties and assets free and clear of all mortgages, deeds of trust, liens, encumbrances and security interests except for statutory liens for the payment of current taxes that are not yet delinquent and liens, encumbrances and security interests which arise in the ordinary course of business and which do not affect material properties and assets of the Company.  With respect to the property and assets it leases, the Company is in material compliance with each such lease.
-
-#### 2.11 Agreements.  
-
-Except for this Agreement, there are no agreements, understandings, instruments, contracts or proposed transactions to which the Company is a party that involve (a) obligations (contingent or otherwise) of, or payments to, the Company in excess of $50,000, (b) the license of any Intellectual Property to or from the Company other than licenses with respect to commercially available software products under standard end-user object code license agreements or standard customer terms of service and privacy policies for Internet sites, (c) the grant of rights to manufacture, produce, assemble, license, market, or sell its products to any other person, or that limit the Company's exclusive right to develop, manufacture, assemble, distribute, market or sell its products, or (d) indemnification by the Company with respect to infringements of proprietary rights other than standard customer or channel agreements (each, a "Material Agreement").  The Company is not in material breach of any Material Agreement.  Each Material Agreement is in effect and is enforceable by the Company in accordance with its respective terms, except as may be limited by (i) applicable bankruptcy, insolvency, reorganization or others laws of general application relating to or affecting the enforcement of creditors' rights generally, or (ii) the effect of rules of law governing the availability of equitable remedies.
-
-#### 2.12 Liabilities.  
-
-The Company has no liabilities or obligations, contingent or otherwise, in excess of $25,000 individually or $100,000 in the aggregate.  
-#### 2.13 Sanctions Compliance.
-
-Neither the Company nor any of its officers, directors, or beneficial owners is designated as a 'Specially Designated National' or otherwise subject to sanctions administered by the Office of Foreign Assets Control.
-
-#### 2.14 No "Bad Actor" Disqualification.
-
-No "bad actor" disqualifying event described in Rule 506(d)(1)(i)-(viii) of the Securities Act (a "Disqualification Event") is applicable to the Company or, to the Company's knowledge, any Company Covered Person, except for a Disqualification Event as to which Rule 506(d)(2)(ii)-(iv) or (d)(3) of the Securities Act is applicable. "Company Covered Person" means, with respect to the Company as an "issuer" for purposes of Rule 506 of the Securities Act, any person listed in the first paragraph of Rule 506(d)(1).
-
-
-### 3. REPRESENTATIONS AND WARRANTIES AND COVENANTS OF THE PURCHASERS.  
-
-Each Purchaser hereby represents and warrants to the Company, severally and not jointly, as follows.
-
-#### 3.1 Authorization.  
-
-The Purchaser has full power and authority to enter into this Agreement.  This Agreement, when signed by the Purchaser, will constitute a valid and legally binding obligation of the Purchaser, enforceable in accordance with their terms, except (a) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, and any other laws of general application relating to or affecting the enforcement of creditors' rights generally, or (b) the effect of rules of law governing the availability of equitable remedies.
-
-#### 3.2 Purchase Entirely for Own Account.  
-
-This Agreement is made with the Purchaser in reliance upon the Purchaser's representation to the Company, which by the Purchaser's execution of this Agreement, the Purchaser hereby confirms, that the shares of Series Seed Preferred Stock to be acquired by the Purchaser will be acquired for investment for the Purchaser's own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that the Purchaser has no present intention of selling, granting any participation in, or otherwise distributing the same.  By executing this Agreement, the Purchaser further represents that the Purchaser does not presently have any contract, undertaking, agreement or arrangement with any person to sell, transfer or grant participations to such person or to any third person, with respect to any of the shares of Series Seed Preferred Stock.  The Purchaser has not been formed for the specific purpose of acquiring the shares of Series Seed Preferred Stock.  
-
-#### 3.3 Disclosure of Information.  
-
-The Purchaser has had an opportunity to discuss the Company's business, management, financial affairs and the terms of the offering of the shares of Series Seed Preferred Stock with the Company's management.  Nothing in this Section 3, including the foregoing sentence, limits or modifies the representations and warranties of the Company in Section 2 of this Agreement or the right of the Purchasers to rely thereon.
-
-#### 3.4 Restricted Securities.  
-
-The Purchaser understands that the shares of Series Seed Preferred Stock have not been, and will not be, registered under the Securities Act, by reason of a specific exemption from the registration provisions of the Securities Act which depends upon, among other things, the bona fide nature of the investment intent and the accuracy of the Purchaser's representations as expressed in this agreement.  The Purchaser understands that the shares of Series Seed Preferred Stock are "restricted securities" under applicable United States federal and state securities laws and that, under these laws, the Purchaser must hold the shares of Series Seed Preferred Stock indefinitely unless they are registered with the Securities and Exchange Commission and qualified by state authorities or an exemption from such registration and qualification requirements is available.  The Purchaser acknowledges that the Company has no obligation to register or qualify the shares of Series Seed Preferred Stock, or the Common Stock into which it may be converted, for resale.  The Purchaser further acknowledges that if an exemption from registration or qualification is available, it may be conditioned on various requirements including, but not limited to, the time and manner of sale, the holding period for the shares of Series Seed Preferred Stock, and on requirements relating to the Company which are outside of the Purchaser's control, and which the Company is under no obligation and may not be able to satisfy.    
-
-#### 3.5 No Public Market.  
-
-The Purchaser understands that no public market now exists for the shares of Series Seed Preferred Stock, and that the Company has made no assurances that a public market will ever exist for the shares of Series Seed Preferred Stock.
-
-#### 3.6 Legends.  
-
-The Purchaser understands that the shares of Series Seed Preferred Stock and any securities issued in respect of or exchange for the shares of Series Seed Preferred Stock, may bear any one or more of the following legends:  (a) any legend set forth in, or required by, this Agreement; (b) any legend required by the securities laws of any state to the extent such laws are applicable to the shares of Series Seed Preferred Stock represented by the certificate so legended; and (c) the following legend:
-
-“THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF.  NO TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM REASONABLY SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933, AS AMENDED.”
-
-#### 3.7 Accredited and Sophisticated Purchaser.  
-
-The Purchaser is an accredited investor as defined in Rule 501(a) of Regulation D promulgated under the Securities Act.  The Purchaser is an investor in securities of companies in the development stage and acknowledges that Purchaser is able to fend for itself, can bear the economic risk of its investment, and has such knowledge and experience in financial or business matters that it is capable of evaluating the merits and risks of the investment in the shares of Series Seed Preferred Stock.  If other than an individual, Purchaser also represents it has not been organized for the purpose of acquiring the shares of Series Seed Preferred Stock.
-
-#### 3.8 No General Solicitation.  
-
-Neither the Purchaser nor any of its officers, directors, employees, agents, stockholders or partners has either directly or indirectly, including through a broker or finder (a) engaged in any general solicitation with respect to the offer and sale of the shares of Series Seed Preferred Stock, or (b) published any advertisement in connection with the offer and sale of the shares of Series Seed Preferred Stock.
-
-#### 3.9 Exculpation Among Purchasers.  
-
-The Purchaser acknowledges that it is not relying upon any person, other than the Company and its officers and directors, in making its investment or decision to invest in the Company.  The Purchaser agrees that neither any Purchaser nor the respective controlling persons, officers, directors, partners, agents, or employees of any Purchaser shall be liable to any other Purchaser for any action previously taken or omitted to be taken by any of them in connection with the purchase of the shares of Series Seed Preferred Stock.
-
-#### 3.10 Residence.  
-
-If the Purchaser is an individual, then the Purchaser resides in the state identified in the address of the Purchaser set forth on the signature page to this agreement and/or on Schedule 1; if the Purchaser is a partnership, corporation, limited liability company or other entity, then the office or offices of the Purchaser in which its principal place of business is identified in the address or addresses of the Purchaser set forth on the signature page to this agreement and/or on Schedule 1. if the Purchaser is not a resident of the United States, such Purchaser hereby agrees to make such additional representations and warranties relating to such Purchaser's status as a non-United States resident as reasonably may be requested by the Company and to execute and deliver such documents or agreements as reasonably may be requested by the Company relating to this agreement as a condition to the purchase and sale of any shares of Series Seed Preferred Stock by such Purchaser.    
-#### 3.11 No "Bad Actor" Designees.
-
-If the Purchaser has the right to designate or participate in the designation of a Board Designee, the Purchaser represents and warrants to the Company that, to the Purchaser's knowledge, no Disqualification Event is applicable to the Purchaser's initial designee named above except, if applicable, for a Disqualification Event as to which Rule 506(d)(2)(ii)-(iv) or (d)(3) of the Securities Act is applicable. Any Board Designee to whom any Disqualification Event is applicable, except for a Disqualification Event as to which Rule 506(d)(2)(ii)-(iv) or (d)(3) of the Securities Act is applicable, is hereinafter referred to as a "Disqualified Designee." The Purchaser with the right to designate or participate in the designation of a Board Designee covenants and agrees (A) not to designate or participate in the designation of any Board Designee who, to the Purchaser's knowledge, is a Disqualified Designee and (B) that in the event the Purchaser becomes aware that any individual previously designated by any such Purchaser is or has become a Disqualified Designee, the Purchaser will as promptly as practicable take such actions as are necessary to remove the Disqualified Designee from the Board and to designate a replacement designee who is not a Disqualified Designee.
-
-#### 3.12 Sanctions Compliance.
-
-The Purchaser is not a 'Specially Designated National' or otherwise subject to sanctions administered by the Office of Foreign Assets Control, and is not making this investment on behalf of any such person.
-
-#### 3.13 Foreign Person Status.
-
-If the Purchaser is a foreign person (as defined in Treasury Regulations Section 1.1445-2(c)(3)), the Purchaser represents that fact and shall notify the Company within 15 days of any change in such status.
-
-#### 3.14 Consent to Conversion and Termination of Convertible Securities.
-
-3.14.1 By executing and delivering this Agreement, each Purchaser holding one or more convertible promissory notes or simple agreements for future equity issued by the Company prior to the date hereof (each, a "Convertible Security" and, collectively, the "Convertible Securities") hereby irrevocably agrees that:
-
-(a) all of such Purchaser's Convertible Securities will automatically and without any action on the part of such Purchaser convert into shares of Series Seed Preferred Stock at the Initial Closing in the amount for such Purchaser as set forth on Schedule 1, regardless of whether any such Convertible Securities or an affidavit of loss therefor is actually delivered in original or other form to the Company;
-
-(b) the shares of Series Seed Preferred Stock in the amount set forth opposite such Purchaser's name on Schedule 1 are issued in full and complete discharge and satisfaction of all obligations of the Company under such Convertible Securities, including any accrued and unpaid interest thereon; and
-
-(c) such Purchaser shall take all actions reasonably necessary to give effect to the conversion of such Convertible Securities.
-
-3.14.2 Section 3.14.1 applies only to Purchasers who hold Convertible Securities. Purchasers who do not hold Convertible Securities are not making the representations in this Section 3.14.
-
-
-### 4. COVENANTS OF THE COMPANY.
-
-#### 4.1 Information Rights.
-
-4.1.1  Basic Financial Information.  The Company shall furnish to each Purchaser holding that number of shares equal to or in excess of the quotient determined by dividing (x) the Major Purchaser Dollar Threshold by (y) the Purchase Price, rounded up to the next whole share (a "Major Purchaser") and any entity that requires such information under its organizational documents when available (1) annual unaudited financial statements for each fiscal year of the Company, including an unaudited balance sheet as of the end of such fiscal year, an unaudited income statement, and an unaudited statement of cash flows, all prepared in accordance with generally accepted accounting principles and practices; and (2) quarterly unaudited financial statements for each fiscal quarter of the Company (except the last quarter of the Company's fiscal year), including an unaudited balance sheet as of the end of such fiscal quarter, an unaudited income statement, and an unaudited statement of cash flows, all prepared in accordance with generally accepted accounting principles and practices, subject to changes resulting from normal year-end audit adjustments.  If the Company has audited records of any of the foregoing, it shall provide those in lieu of the unaudited versions.
-
-4.1.2  Confidentiality.  Anything in this Agreement to the contrary notwithstanding, no Purchaser by reason of this Agreement shall have access to any trade secrets or confidential information of the Company.  The Company shall not be required to comply with any information rights of any Purchaser whom the Company reasonably determines to be a competitor or an officer, employee, director, or holder of 10% or more of a competitor.  Each Purchaser shall keep confidential and shall not disclose, divulge, or use for any purpose (other than to monitor its investment in the Company) any confidential information obtained from the Company under the terms of this Agreement other than to any of the Purchaser's attorneys, accountants, consultants, and other professionals, to the extent necessary to obtain their services in connection with monitoring the Purchaser's investment in the Company.
-
-4.1.3	Inspection Rights.  The Company shall permit each Major Purchaser to visit and inspect the Company's properties, to examine its books of account and records and to discuss the Company's affairs, finances and accounts with its officers, all at such reasonable times as may be requested by such Major Purchaser.
-
-#### 4.2 Additional Rights and Obligations.  
-
-If the Company issues securities in its next equity financing after the date of this agreement (the "Next Financing") that (a) have rights, preferences or privileges that are more favorable than the terms of the shares of Series Seed Preferred Stock, such as price-based anti-dilution protection, or (b) provide all such future investors other contractual terms such as registration rights, the Company shall provide substantially equivalent rights to the Purchasers with respect to the shares of Series Seed Preferred Stock (with appropriate adjustment for economic terms or other contractual rights), subject to such Purchaser's execution of any documents, including, if applicable, investor rights, co-sale, voting, and other agreements, executed by the investors purchasing securities in the Next Financing (such documents, the "Next Financing Documents").  Any Major Purchaser will remain a Major Purchaser for all purposes in the Next Financing Documents to the extent such concept exists. The Company shall pay the reasonable fees and expenses, not to exceed $5,000 in the aggregate, of one counsel for the Purchasers in connection with the Purchasers' review, execution, and delivery of the Next Financing Documents.  Subject to Section 8.11, upon the signing of the Next Financing Documents by Purchasers holding a majority of the then-outstanding shares of Series Seed Preferred Stock held by all Purchasers, this Agreement (excluding any then-existing and outstanding obligations) shall be amended and restated by and into such Next Financing Documents and shall be terminated and will be of no further effect.
-
-#### 4.3 Assignment of Company’s Preemptive Rights.  
-
-The Company shall obtain at or before the Initial Closing, and shall maintain, a right of first refusal with respect to transfers of shares of Common Stock by each holder, subject to certain standard exceptions.  If the Company elects not to exercise its right of first refusal with respect to a proposed transfer of the Company's outstanding securities by any Key Holder, the Company shall assign such right of first refusal to the Major Purchasers.  Upon such assignment, each Major Purchaser shall have a right to purchase that portion of the securities proposed to be transferred by such Key Holder equal to the ratio of (a) the number of shares of the Company's Common Stock issued or issuable upon conversion of the shares of Series Seed Preferred Stock owned by such Major Purchaser, to (b) the number of shares of the Company's Common Stock issued or issuable upon conversion of the shares of Series Seed Preferred Stock owned by all Major Purchasers. 
-
-#### 4.4 Reservation of Common Stock.
-
-The Company shall at all times reserve and keep available, solely for issuance and delivery upon the conversion of the Series Seed Preferred Stock, all Common Stock issuable from time to time upon conversion of that number of shares of Series Seed Preferred Stock equal to the Total Shares Authorized for Sale, regardless of whether or not all such shares have been issued at such time.
-
-#### 4.5 QSBS.
-
-The Company shall use reasonable efforts to cause the shares of Series Seed Preferred Stock (and any Common Stock issued on conversion of the Series Seed Preferred Stock) to qualify as 'qualified small business stock' under Section 1202 of the Internal Revenue Code. The Company shall notify the Purchasers promptly if it becomes aware of any event or circumstance that would cause the shares to fail to qualify.
-
-### 5. RESTRICTIONS ON TRANSFER; DRAG ALONG.
-
-#### 5.1 Limitations on Disposition.  
-
-Each person owning of record shares of Common Stock of the Company issued or issuable upon the conversion of the shares of Series Seed Preferred Stock and any shares of Common Stock of the Company issued as a dividend or other distribution with respect to such shares or in exchange for or in replacement of such shares (collectively, the "Securities") or any assignee of record of Securities (each such person, a "Holder") shall not make any disposition of all or any portion of any Securities unless:
-
-(a) there is then in effect a registration statement under the Securities Act, covering such proposed disposition and such disposition is made in accordance with such registration statement; or
-
-(b) such Holder has notified the Company of the proposed disposition and has furnished the Company with a statement of the circumstances surrounding the proposed disposition, and, at the expense of such Holder or its transferee, with an opinion of counsel, reasonably satisfactory to the Company, that such disposition will not require registration of such securities under the Securities Act.
-
-Notwithstanding the provisions of Sections 5.1(a) and (b), no such registration statement or opinion of counsel will be required: (i) for any transfer of any Securities in compliance with the Securities and Exchange Commission's Rule 144 or Rule 144A, or (ii) for any transfer of any Securities by a Holder that is a partnership, limited liability company, a corporation, or a venture capital fund to (A) a partner of such partnership, a member of such limited liability company, or stockholder of such corporation, (B) an affiliate of such partnership, limited liability company or corporation (including, any affiliated investment fund of such Holder), (C) a retired partner of such partnership or a retired member of such limited liability company, (D) the estate of any such partner, member, or stockholder, or (iii) for the transfer without additional consideration or at no greater than cost by gift, will, or intestate succession by any Holder to the Holder's spouse or lineal descendants or ancestors or any trust for any of the foregoing; provided that, in the case of clauses (ii) and (iii), the transferee agrees in writing to be subject to the terms of this Agreement to the same extent as if the transferee were an original Purchaser under this Agreement.
-
-#### 5.2 “Market Stand-Off” Agreement.  
-
-To the extent requested by the Company or an underwriter of securities of the Company, each Holder shall not sell or otherwise transfer or dispose of any Securities or other shares of stock of the Company then owned by such Holder (other than to donees or partners of the Holder who agree to be similarly bound) for a period following the effective date of any registration statement of the Company filed under the Securities Act. The restricted period will not exceed 180 days after the effective date of the registration statement. For purposes of this Section 5.2, "Company" includes any wholly-owned subsidiary of the Company into which the Company merges or consolidates.  The Company may place restrictive legends on the certificates representing the shares subject to this Section 5.2 and may impose stop transfer instructions with respect to the Securities and such other shares of stock of each Holder (and the shares or securities of every other person subject to the foregoing restriction) until the end of such period.  Each Holder shall enter into any agreement reasonably required by the underwriters to implement the foregoing within any reasonable timeframe so requested.
-
-#### 5.3 Drag Along Right. 
-
-If a Deemed Liquidation Event (as defined in the Restated Charter) is approved by each of (i) the holders of a majority of the shares of Common Stock then-outstanding (other than those issued or issuable upon conversion of the shares of Series Seed Preferred Stock), (ii) the holders of a majority of the shares of Common Stock then issued or issuable upon conversion of the shares of Series Seed Preferred Stock then-outstanding and (iii) the Board, then each Stockholder shall vote (in person, by proxy or by action by written consent, as applicable) all shares of capital stock of the Company now or hereafter directly or indirectly owned of record or beneficially by such Stockholder (collectively, the "Shares") in favor of, and adopt, such Deemed Liquidation Event and to execute and deliver all related documentation and take such other action in support of the Deemed Liquidation Event as may reasonably be requested by the Company to carry out the terms and provision of this Section 5.3, including executing and delivering instruments of conveyance and transfer, and any purchase agreement, merger agreement, indemnity agreement, escrow agreement, consent, waiver, governmental filing, share certificates duly endorsed for transfer (free and clear of impermissible liens, claims and encumbrances) and any similar or related documents.  The obligation of any party to take the actions required by this Section 5.3 will not apply to a Deemed Liquidation Event if the other party involved in such Deemed Liquidation Event is an affiliate or stockholder of the Company holding more than 10% of the voting power of the Company.  "Stockholder" means each Holder and Key Holder, and any transferee of any of the foregoing.
-
-#### 5.4 Exceptions to Drag Along Right. 
-
-Notwithstanding the foregoing, a Stockholder need not comply with Section 5.3 above in connection with any proposed Sale of the Company (the "Proposed Sale") unless:  
-
-(a) any representations and warranties to be made by the Stockholder in connection with the Proposed Sale are limited to representations and warranties related to authority, ownership and the ability to convey title to such Shares, including representations and warranties that (i) the Stockholder holds all right, title and interest in and to the Shares the Stockholder purports to hold, free and clear of all liens and encumbrances, (ii) the obligations of the Stockholder in connection with the transaction have been duly authorized, if applicable, (iii) the documents to be entered into by the Stockholder have been duly executed by the Stockholder and delivered to the acquirer and are enforceable against the Stockholder in accordance with their respective terms and, (iv) neither the execution and delivery of documents to be entered into in connection with the transaction, nor the performance of the Stockholder's obligations thereunder, will cause a breach or violation of the terms of any agreement, law, or judgment, order, or decree of any court or governmental agency;
-
-(b) the Stockholder will not be liable for the inaccuracy of any representation or warranty made by any other Person in connection with the Proposed Sale, other than the Company (except to the extent that funds may be paid out of an escrow established to cover breach of representations, warranties, and covenants of the Company as well as breach by any stockholder of any identical representations, warranties and covenants provided by all stockholders);
-
-(c) the liability for indemnification, if any, of the Stockholder in the Proposed Sale and for the inaccuracy of any representations and warranties made by the Company or its Stockholders in connection with such Proposed Sale, is several and not joint with any other Person (except to the extent that funds may be paid out of an escrow established to cover breach of representations, warranties and covenants of the Company as well as breach by any stockholder of any identical representations, warranties, and covenants provided by all stockholders), and except as required to satisfy the liquidation preference of the Series Seed Preferred Stock, if any, is pro rata in proportion to, and does not exceed, the amount of consideration paid to such Stockholder in connection with such Proposed Sale;  
-
-(d) liability will be limited to the Stockholder's applicable share (determined  based on the respective proceeds payable to each Stockholder in connection with the Proposed Sale in accordance with the provisions of the Restated Charter) of a negotiated aggregate indemnification amount that applies equally to all Stockholders but that in no event exceeds the amount of consideration otherwise payable to the Stockholder in connection with the Proposed Sale, except with respect to claims related to  fraud by the Stockholder, the liability for which need not be limited as to the Stockholder;
-
-(e) upon the consummation of the Proposed Sale, (i) each holder of each class or series of the Company's stock will receive the same form of consideration for their shares of such class or series as is received by other holders in respect of their shares of such same class or series of stock unless the holders of at least a majority of Series Seed Preferred Stock elect otherwise,  (ii) each holder of a series of Series Seed Preferred Stock will receive the same amount of consideration per share of such series of Series Seed Preferred Stock as is received by other holders in respect of their shares of such same series, (iii) each holder of Common Stock will receive the same amount of consideration per share of Common Stock as is received by other holders in respect of their shares of Common Stock, and (iv) unless the holders of at least a majority of the Series Seed Preferred Stock elect to receive a lesser amount, the aggregate consideration receivable by all holders of the Preferred Stock and Common Stock shall be allocated among the holders of Preferred Stock and Common Stock on the basis of the relative liquidation preferences to which the holders of each respective series of Preferred Stock and the holders of Common Stock are entitled in a Deemed Liquidation Event (assuming for this purpose that the Proposed Sale is a Deemed Liquidation Event) in accordance with the Company's Restated Charter in effect immediately before the Proposed Sale.
-
-### 6. PARTICIPATION RIGHT.
-
-#### 6.1 General.  
-
-Each Major Purchaser has the right of first refusal to purchase the Major Purchaser's Pro Rata Share of any New Securities (as defined below) that the Company may from time to time issue after the date of this Agreement, but the Major Purchaser will have no right to purchase any such New Securities if the Major Purchaser cannot demonstrate to the Company's reasonable satisfaction that such Major Purchaser is at the time of the proposed issuance of such New Securities an "accredited investor" as such term is defined in Regulation D under the Securities Act.  A Major Purchaser's "Pro Rata Share" for means the ratio of (a) the number of shares of the Company's Common Stock issued or issuable upon conversion of the shares of Series Seed Preferred Stock owned by such Major Purchaser, to (b) the Fully-Diluted Share Number.
-
-#### 6.2 New Securities.  
-
-"New Securities" means any Common Stock or Preferred Stock, whether now authorized or not, and rights, options or warrants to purchase Common Stock or Preferred Stock, and securities of any type whatsoever that are, or may become, convertible or exchangeable into Common Stock or Preferred Stock; except that "New Securities" does not include: (a) shares of Common Stock issued or issuable upon conversion of any outstanding shares of Preferred Stock; (b) shares of Common Stock or Preferred Stock issuable upon exercise of any options, warrants, or rights to purchase any securities of the Company outstanding as of the Agreement Date and any securities issuable upon the conversion thereof; (c) shares of Common Stock or Preferred Stock issued in connection with any stock split or stock dividend or recapitalization; (d) shares of Common Stock (or options, warrants or rights therefor) granted or issued after the Agreement Date to employees, officers, directors, contractors, consultants or advisers to, the Company or any subsidiary of the Company under incentive agreements, stock purchase or stock option plans, stock bonuses or awards, warrants, contracts or other arrangements that are approved by the Board; (e) shares of the Company's Series Seed Preferred Stock issued under this Agreement; (f) any other shares of Common Stock or Preferred Stock (and/or options or warrants therefor) issued or issuable primarily for other than equity financing purposes and approved by the Board; and (g) shares of Common Stock issued or issuable by the Company to the public under a registration statement filed under the Securities Act.
-
-#### 6.3 Procedures.  
-
-If the Company proposes to undertake an issuance of New Securities, it shall give notice to each Major Purchaser of its intention to issue New Securities (the "Notice"), describing the type of New Securities and the price and the general terms upon which the Company proposes to issue the New Securities.  Each Major Purchaser will have (10) days from the date of notice, to agree in writing to purchase such Major Purchaser's Pro Rata Share of such New Securities for the price and upon the general terms specified in the Notice by giving written notice to the Company and stating the quantity of New Securities to be purchased (not to exceed such Major Purchaser's Pro Rata Share).   
-
-#### 6.4 Failure to Exercise.  
-
-If the Major Purchasers fail to exercise in full the right of first refusal within the 10-day period, then the Company will have 120 days thereafter to sell the New Securities with respect to which the Major Purchasers' rights of first refusal under this agreement were not exercised, at a price and upon general terms not materially more favorable to the purchasers than specified in the Company's Notice to the Major Purchasers.  If the Company has not issued and sold the New Securities within the 120-day period, then the Company shall not thereafter issue or sell any New Securities without again first offering those New Securities to the Major Purchasers under this Section 6.
-
-### 7. ELECTION OF BOARD OF DIRECTORS.
-
-#### 7.1 Voting; Board Composition.  
-
-Subject to the rights of the stockholders to remove a director for cause in accordance with applicable law, during the term of this Agreement, each Stockholder shall vote (or consent under an action by written consent of the stockholders) all shares of capital stock of the Company now or hereafter directly or indirectly owned of record or beneficially by the Stockholder (the "Voting Shares"), or to cause the Voting Shares to be voted, in such manner as may be necessary to elect (and maintain in office) as the members of the Board:
-
-(a) that number of individuals, if any, equal to the Common Board Member Count (collectively, the "Common Board Designees") designated from time to time in a writing delivered to the Company and signed by Common Control Holders who then hold shares of issued and outstanding Common Stock of the Company representing a majority of the voting power of all issued and outstanding shares of Common Stock then held by all Common Control Holders;    
-
-(b) that number of individuals, if any, equal to the Series Seed Board Member Count (collectively, the "Series Seed Board Designees") designated from time to time in a writing delivered to the Company and signed by Purchasers who then hold a majority of the then-outstanding shares of Series Seed Preferred Stock issued under this Agreement;
-
-(c) that number of individuals, if any, equal to the Mutual Consent Board Member Count (collectively, the "Mutual Consent Board Designees" and, together with any Common Board Designee and any Seed Board Designee, each a "Board Designee") designated from time to time in a writing delivered to the Company and signed by (a) Purchasers who then hold a majority of the then-outstanding shares of Series Seed Preferred Stock issued under this Agreement and (b) Common Control Holders who then hold shares of issued and outstanding Common Stock of the Company representing a majority of the voting power of all issued and outstanding shares of Common Stock of the Company then held by all Common Control Holders.
-
-Subject to the rights of the stockholders of the Company to remove a director for cause in accordance with applicable law, during the term of this Agreement, a Stockholder shall not take any action to remove an incumbent Board Designee or to designate a new Board Designee unless such removal or designation of a Board Designee is approved in a writing signed by the parties entitled to designate the Board Designee. Each Stockholder hereby appoints, and shall appoint, the then-current Chief Executive Officer of the Company, as the Stockholder's true and lawful proxy and attorney, with the power to act alone and with full power of substitution, to vote all shares of the Company's capital stock held by the Stockholder as set forth in this Agreement and to execute all appropriate instruments consistent with this Agreement on behalf of the Stockholder if, and only if, the Stockholder (a) fails to vote or (b) attempts to vote (whether by proxy, in person or by written consent), in a manner which is inconsistent with the terms of this Agreement, all of the Stockholder's Voting Shares or execute such other instruments in accordance with the provisions of this Agreement within five days of the Company's or any other party's written request for the Stockholder's written consent or signature.  The proxy and power granted by each Stockholder under this Section are coupled with an interest and are given to secure the performance of the Stockholder's duties under this Agreement.  Each such proxy and power will be irrevocable for the term of this Agreement.  The proxy and power, so long as any Stockholder is an individual, will survive the death, incompetency and disability of such Stockholder and, so long as any Stockholder is an entity, will survive the merger or reorganization of the Stockholder or any other entity holding Voting Shares.  Board designation rights under this section are not transferable to any assignee of shares unless approved by the Board.
-
-### 8. GENERAL PROVISIONS. 
-
-#### 8.1 Successors and Assigns.  
-
-The terms of this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties.  Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties to this Agreement or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement.  No Stockholder may transfer Shares unless each transferee agrees to be bound by the terms of this Agreement.
-
-#### 8.2 Governing Law.  
-
-This Agreement is governed by the Governing Law, regardless of the laws that might otherwise govern under applicable principles of choice of law. 
-
-#### 8.3 Counterparts; Facsimile or Electronic Signature.  
-
-This Agreement may be signed by facsimile or electronic signature and in two or more counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument.
-
-#### 8.4 Titles and Subtitles.  
-
-The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement.  References to sections or subsections within this set of Agreement Terms shall be deemed to be references to the sections of this set of Agreement Terms contained in Exhibit B to the Agreement, unless otherwise specifically stated in this agreement.
-
-#### 8.5 Notices.  
-
-All notices and other communications given or made under this Agreement must be in writing and will be deemed to have been given upon the earlier of actual receipt or:  (a) personal delivery to the party to be notified, (b) when sent, if sent by facsimile or electronic mail during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient's next business day, (c) five days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt.  All communications must be sent to the respective parties at their address as set forth on the signature page or Schedule 1, or to such address, facsimile number or electronic mail address as subsequently modified by written notice given in accordance with this Section 8.5.  
-
-#### 8.6 No Finder’s Fees.  
-
-Each party severally represents to the other parties that it neither is nor will be obligated for any finder's fee or commission in connection with this transaction.  Each Purchaser shall indemnify, defend, and hold harmless the Company from any liability for any commission or compensation in the nature of a finder's or broker's fee arising out of this transaction (and the costs and expenses of defending against such liability or asserted liability) for which the Purchaser or any of its officers, employees, or representatives is responsible.  The Company shall indemnify, defend, and hold harmless each Purchaser from any liability for any commission or compensation in the nature of a finder's or broker's fee arising out of this transaction (and the costs and expenses of defending against such liability or asserted liability) for which the Company or any of its officers, employees or representatives is responsible.
-
-#### 8.7 Attorneys’ Fees.  
-
-If any action at law or in equity (including arbitration) is necessary to enforce or interpret the terms of this Agreement, the prevailing party will be entitled to reasonable attorneys' fees, costs, and necessary disbursements in addition to any other relief to which the party may be entitled.  Each party shall pay all costs and expenses that it incurs with respect to the negotiation, execution, delivery, and performance of the Agreement; except that the Company shall, at the Closing, reimburse the fees and expenses of one counsel for Purchasers, for a flat fee equal to the Purchaser Counsel Reimbursement Amount.
-
-#### 8.8 Amendments and Waivers.  
-
-Except as specified in Section 1.2.2, any term of this Agreement may be amended, terminated or waived (either generally or in a particular instance and either retroactively or prospectively) only with the written consent of the Company and the Purchasers holding a majority of the then-outstanding shares of Series Seed Preferred Stock (or Common Stock issued on conversion thereof); but any amendment to Section 7.1(a) or Section 7.1(c) will also require the additional written consent of the holders of a majority of the outstanding shares of the Company's Common Stock then held by all of the Common Control Holders.  Notwithstanding the foregoing, the addition of a party to this Agreement under a transfer of Shares in accordance with Section 8.1 will not require any further consent.  Any amendment or waiver effected in accordance with this Section 8.8 will be binding upon the Purchasers, the Key Holders, each transferee of the shares of Series Seed Preferred Stock (or the Common Stock issuable upon conversion thereof) or Common Stock from a Purchaser or Key Holders, as applicable, and each future holder of all such securities, and the Company.  It is specifically intended that entering into the Next Financing Agreements in a form substantially similar to the form agreements set as forth as Model Legal Documents on http://www.nvca.org shall be considered an amendment to this Agreement provided that it is done in accordance with this Section 8.8.
-
-#### 8.9 Severability.  
-
-The invalidity or unenforceability of any provision of this Agreement will in no way affect the validity or enforceability of any other provision.
-
-#### 8.10 Delays or Omissions.  
-
-No delay or omission to exercise any right, power or remedy accruing to any party under this Agreement, upon any breach or default of any other party under this Agreement, will impair any such right, power or remedy of such non-breaching or non-defaulting party nor will it be construed to be a waiver of any such breach or default, or an acquiescence in it, or of or in any similar breach or default thereafter occurring; nor will any waiver of any single breach or default be deemed a waiver of any other breach or default previously or thereafter occurring.  Any waiver, permit, consent or approval of any kind or character on the part of any party of any breach or default under this Agreement, or any waiver on the part of any party of any provisions or conditions of this Agreement, must be in writing and shall be effective only to the extent specifically set forth in such writing.  All remedies, either under this Agreement or by law or otherwise afforded to any party, are cumulative and not alternative.
-
-#### 8.11 Termination.  
-
-Unless terminated earlier under the terms of this Agreement, (x) the rights, duties and obligations under Sections 4, 6 and 7 will terminate immediately before the closing of the Company's initial public offering of Common Stock under an effective registration statement filed under the Securities Act, (y) notwithstanding anything to the contrary herein, this Agreement (excluding any then-existing obligations) will terminate upon the closing of a Deemed Liquidation Event as defined in the Company's Restated Charter, as amended from time to time and (z) notwithstanding anything to the contrary herein, Section 1, Section 2, Section 3, Section 4.1.2 and this Section 8 will survive any termination of this Agreement.
-
-#### 8.12 Dispute Resolution. 
-
-Each party (a) hereby irrevocably and unconditionally submits to the personal jurisdiction of the Dispute Resolution Jurisdiction for the purpose of any suit, action, or other proceeding arising out of or based upon this Agreement; (b) shall not commence any suit, action or other proceeding arising out of or based upon this Agreement except in the Dispute Resolution Jurisdiction; and (c) hereby waives, and shall not assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, any claim that it is not subject to the personal jurisdiction of the Dispute Resolution Jurisdiction, that its property is exempt or immune from attachment or execution, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that this Agreement, or the subject matter of this Agreement, may not be enforced in or by the Dispute Resolution Jurisdiction.
-
--------------------------
-# SIGNATURE PAGES
--------------------------
-The parties are signing this agreement on the date stated in the introductory clause.
-
-## THE COMPANY:
-
-Name: *____________________________________________*
-
-By: *____________________________________________*
-
-Title: *____________________________________________*
-
-
-## KEY HOLDERS:
-
-Name: *____________________________________________*
-
-By: *____________________________________________*
-
-Name: *____________________________________________*
-
-By: *____________________________________________*
-
-## PURCHASERS: 
-
-[FOR ENTITY INVESTOR USE FOLLOWING SIGNATURE BLOCK:]
-
-Name: *____________________________________________*
-
-By: *____________________________________________*
-
-Title: *____________________________________________*
-
-[FOR INDIVIDUAL INVESTOR USE FOLLOWING SIGNATURE BLOCK:]
-
-Name: *____________________________________________*
-
-By: *____________________________________________*
-
--------------------------
 # EXHIBIT C
--------------------------
+# DISCLOSURE SCHEDULE
 
-FORM OF RESTATED CHARTER
+This Disclosure Schedule is delivered by the Company under the Series Seed Preferred Stock Investment Agreement (the "**Agreement**"). It is arranged in sections corresponding to the numbered sections of Article 3 of the Agreement, and a disclosure in any section qualifies the other sections of Article 3 to the extent it is reasonably apparent from the face of the disclosure that it applies to them. The inclusion of any item in this Disclosure Schedule is not an admission that the item is material or that it is outside the ordinary course of business. Capitalized terms used but not defined in this Disclosure Schedule have the meanings given in the Agreement.
 
-------------------------- 
+If no disclosure appears below, the Company is making the representations and warranties in Article 3 without exception.[^15]
+
+**Section 3.2(d) (Key Holder Shares and Vesting)**
+
+| Key Holder | Shares | Vesting commencement date | Vested as of Agreement Date | Unvested | Acceleration terms |
+|---|---|---|---|---|---|
+| | | | | | |
+
+**Section 3.2 (Capitalization)**
+
+[Optional: attach the post-closing capitalization table showing outstanding Common Stock, Preferred Stock by series, outstanding options, the unallocated Stock Plan reserve, and any warrants or other rights.]
+
+**Section [___] ([Heading])**
+
+[Disclosure.]
+
 # EXHIBIT D
--------------------------
+# SPOUSAL CONSENT
 
-DISCLOSURE SCHEDULE
+I am the spouse of the Key Holder named below. I have read the Series Seed Preferred Stock Investment Agreement (the "**Agreement**") to which this consent is attached, and I understand that it contains a right of first refusal, a drag-along obligation, voting obligations and other restrictions that apply to shares of capital stock of the Company held by my spouse, including any community property or other interest I may have in those shares. I consent to the Agreement and agree that my interest, if any, in those shares is bound by it and that I will take no action to hinder its operation. I agree that my spouse may act alone with respect to those shares under the Agreement, and I appoint my spouse as my attorney-in-fact with respect to any amendment, waiver or exercise of rights under the Agreement. I have had the opportunity to consult with independent counsel.
 
-See next page – if no next page, then there are no disclosures.
+______________________________
+[Spouse Name]
+Date:
 
-This Disclosure Schedule (this "Disclosure Schedule") is delivered by the Company in connection with the sale of shares of the Company's Series Seed Preferred Stock on or about the Agreement Date by the Company.  This Disclosure Schedule is arranged in sections corresponding to the numbered and lettered sections contained in Exhibit B of the Agreement, and the disclosures in any section of this Disclosure Schedule qualify other sections in Exhibit B of the Agreement to the extent it is reasonably apparent from a reading of the disclosure that such disclosure is applicable to such other sections.  Where any representation or warranty is limited or qualified by the materiality of the matters to which the representation or warranty are given, the inclusion of any matter in this Disclosure Schedule does not constitute an admission by the Company that such matter is material.  Unless otherwise defined in this agreement, any capitalized terms in this Disclosure Schedule have the same meanings assigned to those terms in the Agreement.  Nothing in this Disclosure Schedule constitutes an admission of any liability or obligation of the Company to any third party, or an admission against the Company's interests.
+Key Holder: [Key Holder Name]
+
+[^1]: Drafting note: This Agreement combines, in one document, the functions of the four NVCA model agreements, in the NVCA order: Articles 2 through 4 and 8 correspond to the Stock Purchase Agreement; Article 5 to the Investors' Rights Agreement; Article 6 to the Right of First Refusal and Co-Sale Agreement (without a co-sale right); and Article 7 to the Voting Agreement. Section 5.5 provides for the transition to a full NVCA suite in the next financing. Every deal-specific term is in the Deal Terms table in Section 1.1, on Exhibit A, or in the Disclosure Schedule, so that the body of the Agreement need not be edited. Drafting notes are for the users of this form and should be deleted before the Agreement is signed.
+
+[^2]: Fill in the Deal Terms from the Term Sheet. Three numbers must match other documents exactly: the Purchase Price must equal the Original Issue Price in the Restated Certificate; the Board Composition counts must match the director counts in Section 3.2(a) of Part B of Article Fourth of the Restated Certificate and the Board size in the Bylaws; and, if Convertible Securities convert into Series Seed-1 Preferred Stock, their conversion price must equal the Series Seed-1 Original Issue Price in the Restated Certificate. If the Company's option pool is being increased in connection with the financing, state the post-increase numbers for the Stock Plan.
+
+[^3]: A management rights letter gives a fund the contractual management rights that are one element of qualifying as a "venture capital operating company" under the ERISA plan asset regulations; whether a fund qualifies depends on its own circumstances. Include the bracketed sentence if any Major Purchaser is a fund that requests one; otherwise delete it.
+
+[^4]: If no SAFEs or convertible notes are converting at the Initial Closing, state "None" in the Convertible Securities row of the Deal Terms and leave the rest of the Agreement as is; Section 2.6, the bracket in Section 2.2, the references in Sections 2.5, 3.2(c), 3.11 and 3.12, and the Convertible Securities columns on Exhibit A then have no effect and may be deleted or left in place. Each holder of a Convertible Security should sign this Agreement as a Purchaser even if it is not investing new cash. If a Convertible Security converts at a price below the Purchase Price, use the Series Seed-1 Preferred Stock alternative in the Restated Certificate, which gives those shares a liquidation preference equal to the price actually paid.
+
+[^5]: The representations are deliberately shorter than the NVCA model's. They cover the matters that surface real diligence issues at the seed stage (capitalization, intellectual property, employee assignments, material agreements, undisclosed liabilities, taxes, sanctions, bad-actor status and QSBS eligibility), and omit matters that rarely do.
+
+[^6]: The NVCA model's CFIUS, Outbound Investment Security Program and Data Security Program representations are deliberately omitted; they rarely surface anything at the seed stage. A Purchaser that is a "foreign person" under the DPA discloses that status on Exhibit A (see Section 4.8), and if such a Purchaser will hold a board seat, observer right or access to material nonpublic technical information, consult counsel about whether a CFIUS filing is required.
+
+[^7]: For stock issued after July 4, 2025, Section 1202 of the Code excludes 50%, 75% or 100% of the gain on qualified small business stock held for three, four or five years, respectively, subject to a per-issuer cap and a $75,000,000 gross assets test (indexed for inflation after 2026). Investors who care about Section 1202 treatment should confirm the Company's eligibility independently.
+
+[^8]: The CFIUS "foreign person" status is reported on Exhibit A rather than represented, so that a foreign investor can participate in the financing without editing the body of this Agreement. If a foreign person will hold a board seat, observer right or access to material nonpublic technical information, consult counsel about whether a CFIUS filing is required.
+
+[^9]: Information rights are limited to Major Purchasers, as in the NVCA model. The NVCA model also includes a waiver by the investors of their statutory inspection rights under Section 220 of the Delaware General Corporation Law; this form omits the waiver.
+
+[^10]: Section 5.4 is the NVCA model's right of first offer, condensed. It is limited to Major Purchasers and carries the overallotment right in Section 5.4(c).
+
+[^11]: Section 5.5 is written to be self-executing at the next financing: rights that the next-round documents give to every investor flow to the Series Seed holders; rights that depend on a threshold flow to them only if they meet the threshold, counting their Series Seed shares; and nothing negotiated by name or by side letter, and none of the new series' economic terms, flows to them. The former Series Seed language under which every Major Purchaser automatically remained a "Major Investor" in the next round has been removed.
+
+[^12]: Section 6.2 replaces the Series Seed approach under which the Company agreed to "obtain and maintain" a right of first refusal elsewhere. The right is now stated in this Agreement in the NVCA form, with the Company first and the Major Purchasers second. A co-sale right is intentionally omitted; Section 5.5(b) carries one to the Series Seed holders if the next-round investors receive it.
+
+[^13]: Sections 7.5 and 7.6 are the NVCA model's drag-along, condensed. Because the Board is one of the approving parties, counsel should be mindful of the fiduciary considerations discussed in In re Trados Inc. Shareholder Litigation (Del. Ch. 2013).
+
+[^14]: Complete one row per Purchaser at each Closing, or one row per Convertible Security if a Purchaser holds more than one Convertible Security converting at different prices. If a Purchaser is both converting a Convertible Security and investing cash, use one row. Identify the series (Series Seed or Series Seed-1) of each block of shares if more than one series is issued. A Purchaser that is a "foreign person" under the DPA should indicate that in the column provided. The Initial Board Designees table identifies the individuals designated to each Board seat at the Initial Closing.
+
+[^15]: The Disclosure Schedule is the Company's opportunity to qualify the representations in Article 3. Common seed-stage disclosures are departed founders holding equity, open-source dependencies and third-party licenses (Section 3.7), service providers who have not signed invention assignment agreements (Section 3.8), and contracts above the $50,000 threshold (Section 3.11). A section with nothing to disclose may be omitted.
