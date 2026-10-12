@@ -36,7 +36,7 @@ The documents are built on the current NVCA model legal documents. The Certifica
 - **QSBS from closing.** Preferred stock purchased at a priced round starts the Section 1202 clock at closing. The Company represents its eligibility and covenants to maintain it.
 - **Cap table clarity.** Every investor knows exactly what they own and where they stand.
 - **Governance rights.** Board representation, information and inspection rights, a participation right in future rounds, a right of first refusal on founder transfers, and consent rights over the actions that matter.
-- **Anti-dilution and next-round protection.** Broad-based weighted average anti-dilution in the NVCA form. If the next round's investors receive rights that are granted to all investors in that round, Series Seed holders receive the same rights; rights that depend on an investment threshold are available to Series Seed holders who meet it, counting their Series Seed investment.
+- **Anti-dilution and next-round protection.** Broad-based weighted average anti-dilution in the NVCA form. An optional pay-to-play on the participation right, so a Major Purchaser that sits out a qualified round loses its pro rata for later rounds and nothing else. If the next round's investors receive rights that are granted to all investors in that round, Series Seed holders receive the same rights; rights that depend on an investment threshold are available to Series Seed holders who meet it, counting their Series Seed investment.
 
 ## Documents
 
@@ -75,9 +75,9 @@ Section 5.5 of the Investment Agreement provides for the transition to a full NV
 
 These documents include the parts of the NVCA suite that matter at seed and leave out the parts that don't. Everything in the second list is a Series A matter and comes in through the next-financing clause if the next round's investors receive it.
 
-**Included:** 1x non-participating liquidation preference; broad-based weighted average anti-dilution; protective provisions over a sale, a charter amendment, senior stock, authorized share changes, dividends and redemptions, and board size; class election of directors; mandatory conversion on an IPO or a majority vote; an asset-sale redemption so a sale of the business without a dissolution still pays the preference; escrow and earn-out allocation rules; officer exculpation and an exclusive forum; information, inspection and participation rights for Major Purchasers; a Company right of first refusal on founder transfers, assignable to Major Purchasers; a drag-along with the NVCA investor protections; an irrevocable proxy; conversion mechanics for SAFEs and notes, with an optional Series Seed-1 sub-series for instruments converting below the round price; QSBS representation and covenant; sanctions and Rule 506(d) representations; a spousal consent.
+**Included:** 1x non-participating liquidation preference; broad-based weighted average anti-dilution; protective provisions over a sale, a charter amendment, senior stock, authorized share changes, dividends and redemptions, and board size; class election of directors; mandatory conversion on an IPO or a majority vote; an asset-sale redemption so a sale of the business without a dissolution still pays the preference; escrow and earn-out allocation rules; officer exculpation and an exclusive forum; information, inspection and participation rights for Major Purchasers, with optional pay-to-play or one-round-only alternatives for the participation right; a Company right of first refusal on founder transfers, assignable to Major Purchasers; a drag-along with the NVCA investor protections; an irrevocable proxy; conversion mechanics for SAFEs and notes, with an optional Series Seed-1 sub-series for instruments converting below the round price; QSBS representation and covenant; sanctions and Rule 506(d) representations; a spousal consent.
 
-**Left out:** co-sale rights; registration rights; redemption rights; pay-to-play; tranched closings; closing conditions and legal opinions (the documents sign and close at once); the Investor Director approval list; the governance policy suite; a Section 220 waiver; the CFIUS, outbound investment and data security representations; a severance cap.
+**Left out:** co-sale rights; registration rights; redemption rights; pay-to-play by mandatory conversion of Preferred Stock (the optional pay-to-play in Section 5.4(e) reaches only the participation right); tranched closings; closing conditions and legal opinions (the documents sign and close at once); the Investor Director approval list; the governance policy suite; a Section 220 waiver; the CFIUS, outbound investment and data security representations; a severance cap.
 
 ## How to use these documents
 
@@ -88,6 +88,12 @@ These documents include the parts of the NVCA suite that matter at seed and leav
 5. Delete the drafting notes, circulate, sign, file the Certificate with Delaware, and close.
 
 ## Changelog
+
+### October 2026 (participation right update)
+
+- Added two bracketed alternatives to the participation right in Section 5.4 of the Investment Agreement: Alternative 1, a pay-to-play under which a Major Purchaser that does not buy its required share of a Qualified Financing loses the participation right for later rounds (and the right Section 5.5 would otherwise carry into the next round) but keeps its other rights; and Alternative 2, a one-round-only right that ends at the next preferred stock financing. Keep one or neither. A Qualified Financing Threshold row was added to the Deal Terms table.
+- Section 8.9(b) now lets the Requisite Purchasers waive the participation right for a particular round only if every Major Purchaser is offered the same proportion of its share as any other Major Purchaser buys.
+- Term Sheet and Variable Reference Map conformed.
 
 ### October 2026
 

@@ -12,6 +12,7 @@ This map lists every fill-in across the three documents and flags the ones that 
 | Maximum Offering Amount * | Amount | Deal Terms: Maximum Offering Amount | Not stated (authorized Preferred Stock must cover it) |
 | Additional closing period | Amount | Deal Terms: Additional Closing Deadline | Not stated |
 | Major Purchaser Threshold * | Information and Inspection Rights | Deal Terms: Major Purchaser Threshold | Not stated |
+| Qualified Financing Threshold and participation level (pay-to-play, optional) * | Participation Right | Deal Terms: Qualified Financing Threshold; Section 5.4(e) (full share or [50]%) | Not stated |
 | Purchaser counsel expense cap * | Expenses | Deal Terms: Purchaser Counsel Expense Cap | Not stated |
 
 **2. Board**
@@ -53,6 +54,8 @@ Authorized Common Stock must exceed the sum of outstanding Common Stock, the Sto
 | Series Seed-1 Preferred Stock for converting SAFEs and notes | Certificate, Art. Fourth and Part B introduction, Sec. 1; Investment Agreement, Deal Terms, Sections 1.2(e) and (i), 2.2, 2.6 and Exhibit A; Term Sheet, Convertible Securities |
 | Price-based anti-dilution | Certificate, Part B, Sec. 4.4 (delete the section and the reference in Sec. 4.8, and move the Exempted Securities list into Investment Agreement Sec. 5.4(b)); Term Sheet, Anti-Dilution |
 | Management rights letter | Investment Agreement, Section 2.5; Term Sheet, Information and Inspection Rights |
+| Pay-to-play on the participation right (Alternative 1) | Investment Agreement, Deal Terms (Qualified Financing Threshold) and Section 5.4(e); Term Sheet, Participation Right |
+| One-round-only participation right (Alternative 2; keep one alternative or neither) | Investment Agreement, Section 5.4(f); Term Sheet, Participation Right |
 | Spousal consent (community property states) | Investment Agreement, Section 2.5 and Exhibit D |
 | California Section 500 article | Certificate, Art. Fourteenth |
 | Consultant and director vesting period | Investment Agreement, Section 5.7 |
