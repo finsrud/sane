@@ -436,6 +436,40 @@
     .ancillary-row:hover { background: var(--bg-subtle); }
     .ancillary-name { font-size: 14px; font-weight: 500; }
     .ancillary-desc { font-size: 13px; color: var(--text-muted); margin-top: 2px; }
+    .map-table {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      margin-top: 36px;
+    }
+    .map-row {
+      display: grid;
+      grid-template-columns: 1fr 1.6fr;
+      gap: 24px;
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+    .map-row:last-child { border-bottom: none; }
+    .map-row.is-head {
+      background: var(--bg-subtle);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      padding: 10px 20px;
+    }
+    .map-nvca { font-size: 14px; font-weight: 500; }
+    .map-nvca span { display: block; font-size: 12px; font-weight: 400; color: var(--text-muted); margin-top: 2px; }
+    .map-sane { font-size: 14px; color: var(--text-muted); line-height: 1.6; }
+    .map-sane strong { color: var(--text); font-weight: 600; }
+    .lawyer-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 20px; }
+    @media (max-width: 760px) {
+      .map-row { grid-template-columns: 1fr; gap: 6px; }
+      .map-row.is-head .map-sane { display: none; }
+      .lawyer-grid { grid-template-columns: 1fr; }
+    }
     .pill-soon {
       font-size: 11px;
       font-weight: 600;
@@ -509,6 +543,7 @@
       </a>
       <div class="nav-links">
         <a class="nav-link" href="#why-sane">Why SANE</a>
+        <a class="nav-link" href="#for-lawyers">For Lawyers</a>
         <a class="nav-link" href="#when-to-use">When to Use</a>
         <a class="nav-link" href="#documents">Documents</a>
         <a class="nav-github" href="https://github.com/finsrud/sane" target="_blank" rel="noopener">
@@ -611,6 +646,52 @@
         <div class="benefit-card">
           <h4>Anti-dilution and next-round protection</h4>
           <p>Broad-based weighted average anti-dilution in the NVCA form. At the next round, whatever rights go to all investors in that round go to SANE investors too, and major-investor rights are available to SANE investors who meet the threshold, counting their SANE investment. No guesswork for next-round counsel about what carries over.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOR LAWYERS -->
+  <section id="for-lawyers">
+    <div class="container">
+      <span class="section-label">For Lawyers</span>
+      <h2>NVCA architecture.<br>Seed-stage scope.</h2>
+      <p class="section-intro">If you work with the NVCA model documents, you already know these. The charter follows the NVCA model charter's article order and keeps its section numbering, so 2.3.1 is still the Deemed Liquidation Event definition and 4.4 is still anti-dilution. The Investment Agreement does the work of the four NVCA agreements in one document, in their order. There is no novel structure to unwind at Series A.</p>
+      <div class="map-table">
+        <div class="map-row is-head"><div class="map-nvca">NVCA model document</div><div class="map-sane">Where it lives in Series Sane</div></div>
+        <div class="map-row">
+          <div class="map-nvca">Certificate of Incorporation<span>October 2025 form</span></div>
+          <div class="map-sane"><strong>Certificate of Incorporation.</strong> Same articles, same section numbers. 1x non-participating preference, broad-based weighted average anti-dilution, the model's asset-sale redemption and escrow allocation mechanics, officer exculpation, exclusive forum. Requisite Holders is a majority of the Preferred.</div>
+        </div>
+        <div class="map-row">
+          <div class="map-nvca">Stock Purchase Agreement<span>October 2025 form</span></div>
+          <div class="map-sane"><strong>Investment Agreement, Articles 2, 3, 4 and 8.</strong> Purchase and sale with additional closings and SAFE and note conversion, Company representations, Purchaser representations, general provisions. Delaware law and courts are hardwired.</div>
+        </div>
+        <div class="map-row">
+          <div class="map-nvca">Investors' Rights Agreement<span>October 2025 form</span></div>
+          <div class="map-sane"><strong>Investment Agreement, Article 5.</strong> Information and inspection rights, the right of first offer (here a participation right, with optional pay-to-play and one-round-only alternatives), next-financing rights, QSBS. No registration rights.</div>
+        </div>
+        <div class="map-row">
+          <div class="map-nvca">Right of First Refusal and Co-Sale Agreement<span>April 2026 form</span></div>
+          <div class="map-sane"><strong>Investment Agreement, Article 6.</strong> Securities-law restrictions, a right of first refusal on Key Holder transfers (Company first, then Major Purchasers), market stand-off. No co-sale right.</div>
+        </div>
+        <div class="map-row">
+          <div class="map-nvca">Voting Agreement<span>June 2026 form</span></div>
+          <div class="map-sane"><strong>Investment Agreement, Article 7.</strong> Board size and composition, removal and vacancies, the drag-along with the model's investor protections, irrevocable proxy.</div>
+        </div>
+      </div>
+      <div class="benefits-grid lawyer-grid">
+        <div class="benefit-card">
+          <h4>What was left out, on purpose</h4>
+          <p>Co-sale, registration rights, redemption, pay-to-play by mandatory conversion, tranched closings, closing conditions and opinions, the Investor Director approval list, the governance policy suite, and the CFIUS, outbound-investment and data-security representations. Each is a Series A matter.</p>
+        </div>
+        <div class="benefit-card">
+          <h4>The Series A transition is written down</h4>
+          <p>Section 5.5 says exactly what Seed holders get in the next round: rights granted to all investors, yes; threshold rights only for holders who meet the threshold, counting their Seed investment; economic terms and named-investor or side-letter rights, no. Then the documents are amended and restated into yours.</p>
+        </div>
+        <div class="benefit-card">
+          <h4>Drafting you can review quickly</h4>
+          <p>Every variable is in the Deal Terms table, the schedules or the charter blanks; the body is never edited. Optional provisions are bracketed and footnoted: the Series Seed-1 sub-series for instruments converting below the round price, the quasi-California article, and the participation-right alternatives. Drafting follows Adams, <em>A Manual of Style for Contract Drafting</em>.</p>
         </div>
       </div>
     </div>
